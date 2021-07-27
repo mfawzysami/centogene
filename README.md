@@ -1,3 +1,19 @@
+# Centogene Tasks
+
+## How to Install
+
+The project is using miniconda as environment and package manager. we only use python=3.9 as a requirement but you can run it basically with any python 3.6+ 
+No special packages required.
+
+```shell script
+$ conda env create -f requirements.yml
+```
+
+Afterwards, activate conda `centogene`
+
+````shell script
+$ conda activate centogene
+````
 ## Task 1
 
 ## a) List 3 things you like about python and what do you dislike
@@ -83,7 +99,45 @@ to the server. I don't know of a method that can protect or obfuscate python cod
  
  
  
-  
+ ## Task 2:
+
+To run it, simply execute 
+
+```shell script
+$ python task2.py --help
+usage: task2.py [-h] --variants VARIANTS --diseases DISEASES [--out OUT]
+
+Combining Variants with Disease Table
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --variants VARIANTS, -i VARIANTS
+                        Absolute path of your variants Text File
+  --diseases DISEASES, -d DISEASES
+                        The absolute path of your diseases CSV File
+  --out OUT, -o OUT     The absolute path of the combined output CSV file. Optional: Current working directory
+```
+
+```shell script
+$ python task2.py --variants=variants.txt --diseases=disease_table.csv
+```
+
+## Task 3
+
+To run it, simply execute
+
+```shell script
+$ python task3.py
+``` 
+
+### If both lists are much larger, would you change anything in your code? 
+
+# If both lists are much larger, would you change anything in your code? 
+- I will use Pool from multiprocessing package and try to divide the upper list uniformly across the number of cores to speed up the iteration process
+- anagrams list.append operation is a thread-safe operation, but I would usually use a locking mechanism like counter-based locking mechanism or more easily a queue 
+data structure which is thread-safe for concurrent access, it became a habit or a programming style I usually take.
+
+
  
  
  
