@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os, sys
 import csv
+from typing import Tuple
 from collections import defaultdict , Counter
 from argparse import ArgumentParser
 
@@ -12,10 +13,11 @@ def prepare_parser():
     p.add_argument("--out", "-o",
                    help="The absolute path of the combined output CSV file. Optional: Current working directory",
                    required=False, default="./output.results.csv")
+
     return p
 
 
-def prepare_variants(variants_file: str) -> defaultdict:
+def prepare_variants(variants_file: str) -> Tuple[defaultdict,Counter]:
     if variants_file is None or len(variants_file) == 0:
         raise Exception("Variants file is required")
     if not os.path.exists(variants_file):
@@ -75,7 +77,9 @@ def combine(output_file: str, variants: defaultdict,variants_stats:Counter, dise
     with open(output_file, "w") as outfile:
         writer = csv.writer(outfile,delimiter=',',quotechar='"',lineterminator='\n')
         keys = list(diseases.keys())
-        headers = ["variant_id"] + list(diseases[keys[0]].keys())
+        vkeys = list(variants.keys())
+        variants_values_len = len(variants[vkeys[0]].keys())
+        headers = ["variant_id"] + list(variants[vkeys[0]].keys()) +list(diseases[keys[0]].keys())
         # add the additional column attribute
         # <chrom>-<vcf_pos>-<vcf_ref>-<vcf_alt>
         headers.extend(["Mutation_Count","Coordinate","MutationType_VarType","MutationType_VarType_Count"])
@@ -86,14 +90,17 @@ def combine(output_file: str, variants: defaultdict,variants_stats:Counter, dise
             # since, we need to combine the data INTO diseases
             # diseases object will be the modifier
             if not variant_id in variants:
-                continue
-            variant_details = variants[variant_id]
-            coordinate = get_coordinate(variant_details)
-            variant_mutation_type = get_mutation_variant_type(variants[variant_id], attrs)
-            var_mutation_types.append(variant_mutation_type)
-            line = [variant_id] + list(attrs.values())
-            trailing_attrs = [variants_stats[variant_details['vartype']],coordinate,f"{attrs['mutationtype']}-{variant_details['vartype']}"]
-            line.extend(trailing_attrs)
+                print(f"{variant_id} does not found in variants")
+                line = [variant_id] + ["N/A" for x in range(variants_values_len)] + list(attrs.values()) \
+                + ["N/A","N/A","N/A"]
+            else:
+                variant_details = variants[variant_id]
+                coordinate = get_coordinate(variant_details)
+                variant_mutation_type = get_mutation_variant_type(variants[variant_id], attrs)
+                var_mutation_types.append(variant_mutation_type)
+                line = [variant_id] + list(variant_details.values()) + list(attrs.values())
+                trailing_attrs = [variants_stats[variant_details['vartype']],coordinate,f"{attrs['mutationtype']}-{variant_details['vartype']}"]
+                line.extend(trailing_attrs)
             #writer.writerow(line)
             rows.append(line)
         mutationType_varType_stats = Counter(var_mutation_types)

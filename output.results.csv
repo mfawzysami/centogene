@@ -1,490 +1,501 @@
-variant_id,gene,disease,mutationtype,acc_num,n_pub,Mutation_Count,Coordinate,MutationType_VarType,MutationType_VarType_Count
-16928548,PRPF31,"""Retinitis pigmentosa""",Splicing,CS063376,3,365,chr19-54629901-A-G,Splicing-SNP,45
-16833695,HPRT1,"""Hypoxanthine guanine phosphoribosyltransferase deficiency""",Small deletion,CD900290,1,86,chrX-133632446-GTGT-G,Small deletion-DEL,84
-16936088,ALDOB,"""Fructose intolerance""",Splicing,CS951343,2,365,chr9-104189763-C-G,Splicing-SNP,45
-16950748,BRCA2,"""Breast and/or ovarian cancer""",Small deletion,CD157746,1,86,chr13-32914982-CA-C,Small deletion-DEL,84
-16826672,UNC13D,"""Haemophagocytic lymphohistiocytosis, familial""",Small deletion,CD102162,3,86,chr17-73831761-TC-T,Small deletion-DEL,84
-16875453,FOXH1,"""Congenital heart defects""",Missense/nonsense,CM082694,1,365,chr8-145699659-G-A,Missense/nonsense-SNP,311
-87401739,CHM,"""Retinal dystrophy""",Small deletion,CD1720505,2,86,chrX-85218702-CTTCT-C,Small deletion-DEL,84
-37380052,COL1A1,"""Osteogenesis imperfecta III""",Missense/nonsense,CM1514956,2,365,chr17-48262933-A-C,Missense/nonsense-SNP,311
-59146652,TELO2,"""You-Hoover-Fong syndrome""",Small insertion,CI1713589,1,21,chr16-1552741-C-CA,Small insertion-DUP,21
-13390838,IGF1R,"""Endometrial cancer, modified risk, in Lynch syndrome""",Missense/nonsense,CM1516932,1,365,chr15-99459340-G-A,Missense/nonsense-SNP,311
-37383745,TULP1,"""Retinitis pigmentosa""",Missense/nonsense,CM1514188,1,365,chr6-35471525-C-G,Missense/nonsense-SNP,311
-75265674,RRAGC,"""Autism spectrum disorder""",Missense/nonsense,CM1415895,1,365,chr1-39322655-G-C,Missense/nonsense-SNP,311
-16837437,PAX6,"""Aniridia""",Small deletion,CD994017,1,86,chr11-31823282-CG-C,Small deletion-DEL,84
-87399093,KCNJ2,"""Andersen-Tawil syndrome""",Missense/nonsense,CM187277,1,365,chr17-68171998-T-C,Missense/nonsense-SNP,311
-16939493,ASPH,"""Facial dysmorphism, lens dislocation, anterior-segment abnormalities & Traboulsi syndrome""",Small indel,CX144720,1,12,chr8-62438580-AGGTT-CCC,Small indel-MNP,9
-10948877,SLC12A3,"""Diabetic nephropathy, association with""",Splicing,CS035601,2,365,chr16-56938290-G-A,Splicing-SNP,45
-16942841,SATB2,"""Cleft lip""",Missense/nonsense,CM058417,1,365,chr2-200245116-T-C,Missense/nonsense-SNP,311
-16850628,SLC26A4,"""Pendred syndrome""",Missense/nonsense,CM011487,4,365,chr7-107302171-G-C,Missense/nonsense-SNP,311
-141290510,GAA,"""Glycogen storage disease 2, late-onset""",Missense/nonsense,CM1822969,1,365,chr17-78085833-A-T,Missense/nonsense-SNP,311
-16910137,EN2,"""Intellectual and developmental disabilities""",Missense/nonsense,CM145094,1,365,chr7-155255311-G-A,Missense/nonsense-SNP,311
-16872307,TBX22,"""Cleft palate, non-syndromic""",Missense/nonsense,CM074592,2,365,chrX-79279564-G-A,Missense/nonsense-SNP,311
-16890569,FGF3,"""Labyrinthine aplasia, microtia & microdontia""",Missense/nonsense,CM112641,1,365,chr11-69631095-T-C,Missense/nonsense-SNP,311
-16917545,HBB,"""Beta thalassaemia""",Missense/nonsense,CM970710,1,365,chr11-5248250-A-T,Missense/nonsense-SNP,311
-11618866,GNPTAB,"""Mucolipidosis IIIA/B""",Small indel,CX154670,2,12,chr12-102158763-TG-CA,Small indel-MNP,9
-141289048,DIS3,"""Multiple myeloma""",Missense/nonsense,CM197501,1,365,chr13-73349453-C-T,Missense/nonsense-SNP,311
-63805148,NF1,"""Cancer""",Small deletion,CD1718198,1,86,chr17-29677270-CT-C,Small deletion-DEL,84
-37377551,HOXC11,"""Clubfoot""",Missense/nonsense,CM165645,1,365,chr12-54367597-C-T,Missense/nonsense-SNP,311
-97288416,ANK1,"""Haemolytic anaemia""",Missense/nonsense,CM1815609,1,365,chr8-41577351-G-T,Missense/nonsense-SNP,311
-19773814,CLCN1,"""Myotonia, Thomsen""",Missense/nonsense,CM1813848,1,365,chr7-143047546-G-A,Missense/nonsense-SNP,311
-37375601,ZNF644,"""High myopia""",Missense/nonsense,CM146718,1,365,chr1-91405710-T-C,Missense/nonsense-SNP,311
-16874918,ABCB11,"""Intrahepatic cholestasis, familial progressive 2""",Missense/nonsense,CM081505,2,365,chr2-169833166-C-T,Missense/nonsense-SNP,311
-16877224,KIRREL3,"""Intellectual disability""",Missense/nonsense,CM086843,3,365,chr11-126432745-G-A,Missense/nonsense-SNP,311
-14430952,ARL5B,"""Altered expression""",Regulatory,CR142065,1,365,chr10-18947379-G-A,Regulatory-SNP,8
-16847724,STK11,"""Peutz-Jeghers syndrome""",Missense/nonsense,CM001344,1,365,chr19-1220676-T-C,Missense/nonsense-SNP,311
-27212081,DSCAML1,"""Retinal disease""",Missense/nonsense,CM180438,1,365,chr11-117395712-C-T,Missense/nonsense-SNP,311
-63804013,PCSK9,"""Low LDL cholesterol""",Missense/nonsense,CM1415677,1,365,chr1-55509522-T-G,Missense/nonsense-SNP,311
-16902404,NDUFAF5,"""Mitochondrial complex 1 deficiency""",Missense/nonsense,CM1312585,1,365,chr20-13765878-A-G,Missense/nonsense-SNP,311
-28413458,CYP4A11,"""Inactive P450 enzyme""",Missense/nonsense,CM1517380,1,365,chr1-47398659-G-A,Missense/nonsense-SNP,311
-16942925,SLC16A1,"""Monocarboxylate transporter 1 deficiency""",Missense/nonsense,CM1411337,2,365,chr1-113460046-G-A,Missense/nonsense-SNP,311
-125064957,ATM,"""Ataxia telangiectasia""",Missense/nonsense,CM1112051,1,365,chr11-108139170-C-G,Missense/nonsense-SNP,311
-10918008,ZNF500,"""Increased adult height, association with""",Missense/nonsense,CM174120,1,365,chr16-4812705-A-G,Missense/nonsense-SNP,311
-75266653,SORL1,"""Alzheimer disease, early onset""",Missense/nonsense,CM1719365,1,365,chr11-121490481-A-G,Missense/nonsense-SNP,311
-63805569,ALMS1,"""Alstrom syndrome""",Missense/nonsense,CM156214,1,365,chr2-73677123-C-T,Missense/nonsense-SNP,311
-52011722,AP3B1,"""Haemophagocytic lymphohistiocytosis, familial""",Missense/nonsense,CM173628,1,365,chr5-77452087-T-C,Missense/nonsense-SNP,311
-15742767,ZDHHC16,"""Autism spectrum disorder, association with""",Missense/nonsense,CM209824,1,365,chr10-99211655-G-A,Missense/nonsense-SNP,311
-16925514,PRKAR1A,"""Carney complex""",Splicing,CS003078,2,365,chr17-66519068-G-C,Splicing-SNP,45
-16872578,MSH2,"""Muir-Torre syndrome""",Missense/nonsense,CM074940,1,365,chr2-47703526-T-C,Missense/nonsense-SNP,311
-141291727,TANGO2,"""Epilepsy, developmental delay, neuroregression, and episodes of alternating hemiparesis""",Splicing,CS197383,1,365,chr22-20049207-G-C,Splicing-SNP,45
-58377869,TINF2,"""Global ichthyosis, abnormal nails, absent hair and abnormal pigmentation""",Missense/nonsense,CM1924702,1,365,chr14-24710048-T-G,Missense/nonsense-SNP,311
-136141568,ATM,"""Breast cancer, female""",Missense/nonsense,CM1823080,1,365,chr11-108106503-C-G,Missense/nonsense-SNP,311
-16869086,PAX6,"""Aniridia""",Missense/nonsense,CM066959,2,365,chr11-31822242-G-A,Missense/nonsense-SNP,311
-26321998,OTOF,"""Hearing loss""",Missense/nonsense,CM173979,1,365,chr2-26687892-C-A,Missense/nonsense-SNP,311
-14227457,ITGA4,"""Increased peripheral blood monocyte counts, association with""",Regulatory,CR116910,1,365,chr2-182308352-A-G,Regulatory-SNP,8
-16894619,COL2A1,"""Spondyloepiphyseal dysplasia / COL2A1-related dysplasia""",Missense/nonsense,CM1210172,1,365,chr12-48371110-C-A,Missense/nonsense-SNP,311
-16916072,GLA,"""Fabry disease""",Missense/nonsense,CM960768,4,365,chrX-100653883-C-T,Missense/nonsense-SNP,311
-16872661,TPM2,"""Muscle weakness and distal limb deformity""",Missense/nonsense,CM075040,10,365,chr9-35685526-G-A,Missense/nonsense-SNP,311
-16884604,PAH,"""Phenylketonuria""",Missense/nonsense,CM101155,1,365,chr12-103248940-A-T,Missense/nonsense-SNP,311
-16880016,ASPM,"""Primary microcephaly""",Missense/nonsense,CM092389,2,365,chr1-197070487-G-A,Missense/nonsense-SNP,311
-16847910,OTC,"""Ornithine transcarbamylase deficiency""",Missense/nonsense,CM001752,2,365,chrX-38268199-A-G,Missense/nonsense-SNP,311
-16911366,CHM,"""Choroideraemia""",Missense/nonsense,CM920195,2,365,chrX-85149232-C-A,Missense/nonsense-SNP,311
-59144067,CD46,"""Haemolytic uraemic syndrome, atypical""",Missense/nonsense,CM1516828,1,365,chr1-207930979-T-A,Missense/nonsense-SNP,311
-16896352,NLRP7,"""Hydatidiform mole""",Missense/nonsense,CM121631,1,365,chr19-55450949-C-T,Missense/nonsense-SNP,311
-59148058,NOTCH3,"""CADASIL""",Missense/nonsense,CM1714279,1,365,chr19-15303205-C-A,Missense/nonsense-SNP,311
-37382730,TNIK,"""Intellectual disability""",Missense/nonsense,CM167595,1,365,chr3-170906592-G-A,Missense/nonsense-SNP,311
-16953638,LSS,"""Cataract""",Missense/nonsense,CM157640,1,365,chr21-47615666-A-G,Missense/nonsense-SNP,311
-16885372,PMS2,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM102798,2,365,chr7-6026415-C-A,Missense/nonsense-SNP,311
-87400928,STX11,"""Increased bleeding tendency""",Missense/nonsense,CM186190,1,365,chr6-144508263-A-T,Missense/nonsense-SNP,311
-37376582,FGFR2,"""Autism spectrum disorder""",Missense/nonsense,CM1513933,1,365,chr10-123258119-T-C,Missense/nonsense-SNP,311
-63804764,BRCA2,"""Cancer""",Small indel,CX1716946,1,12,chr13-32954282-GG-TA,Small indel-MNP,9
-37384641,GTF2E2,"""Trichothiodystrophy""",Missense/nonsense,CM164270,1,365,chr8-30469917-C-G,Missense/nonsense-SNP,311
-52004483,MEN1,"""Multiple endocrine neoplasia 1""",Missense/nonsense,CM169270,1,365,chr11-64575496-T-G,Missense/nonsense-SNP,311
-16336431,RPA1,"""Lynch syndrome""",Missense/nonsense,CM1913246,1,365,chr17-1783909-C-T,Missense/nonsense-SNP,311
-37379973,BRCA1,"""Breast cancer""",Splicing,CS1515539,5,365,chr17-41276033-C-A,Splicing-SNP,45
-37385147,ADAMTS13,"""Thrombotic thrombocytopaenic purpura""",Missense/nonsense,CM163486,1,365,chr9-136298813-T-G,Missense/nonsense-SNP,311
-16893029,CYP27B1,"""Rickets, vitamin D dependent, type I""",Missense/nonsense,CM117757,1,365,chr12-58159196-A-G,Missense/nonsense-SNP,311
-59150253,SKIV2L,"""Trichohepatoenteric syndrome""",Missense/nonsense,CM1715602,1,365,chr6-31931206-C-T,Missense/nonsense-SNP,311
-59143751,HDAC1,"""Autism spectrum disorder""",Missense/nonsense,CM1713333,3,365,chr1-32790137-C-T,Missense/nonsense-SNP,311
-16943810,POLR3B,"""Hypomyelination, hypodontia & hypogonadotropic hypogonadism""",Missense/nonsense,CM1411461,1,365,chr12-106857368-G-A,Missense/nonsense-SNP,311
-12800103,MDM4,"""Atrioventricular septum defect, partial""",Missense/nonsense,CM161428,1,365,chr1-204518499-C-G,Missense/nonsense-SNP,311
-18333571,TECTA,"""Hearing loss, non-syndromic""",Missense/nonsense,CM1515081,2,365,chr11-120998585-C-A,Missense/nonsense-SNP,311
-52007545,MYH2,"""Myopathy with external ophthalmoplegia""",Missense/nonsense,CM170856,1,365,chr17-10441071-C-A,Missense/nonsense-SNP,311
-16836066,COL1A1,"""Osteogenesis imperfecta I""",Small deletion,CD982547,2,86,chr17-48269202-CA-C,Small deletion-DEL,84
-16841762,SPATA7,"""Leber congenital amaurosis""",Small insertion,CI091505,1,21,chr14-88895738-T-TA,Small insertion-DUP,21
-16894969,PKD1,"""Polycystic kidney disease 1""",Missense/nonsense,CM1210921,1,365,chr16-2152599-A-C,Missense/nonsense-SNP,311
-16857991,TNNT2,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM034584,8,365,chr1-201328348-C-T,Missense/nonsense-SNP,311
-16941922,TMC1,"""Hearing loss""",Small insertion,CI1413476,1,5,chr9-75445548-A-ACT,Small insertion-INS,5
-14346030,CD33,"""Alzheimer disease, increased risk, association with""",Regulatory,CR126393,10,365,chr19-51727962-C-A,Regulatory-SNP,8
-37381391,ttnnovex3,"""Cardiomyopathy, dilated""",Small deletion,CD1514647,1,86,chr2-179613187-TC-T,Small deletion-DEL,84
-16910668,F8,"""Haemophilia A""",Missense/nonsense,CM900092,5,365,chrX-154156969-T-A,Missense/nonsense-SNP,311
-16838167,MNX1,"""Currarino syndrome""",Small insertion,CI012566,1,21,chr7-156802828-G-GGCGGTCGGCGGGC,Small insertion-DUP,21
-16815930,BRCA1,"""Breast cancer""",Small deletion,CD004162,2,86,chr17-41246142-GC-G,Small deletion-DEL,84
-16889507,FAS,"""Autoimmune lymphoproliferative syndrome""",Missense/nonsense,CM1110971,1,365,chr10-90773119-T-A,Missense/nonsense-SNP,311
-16911908,AR,"""Androgen insensitivity syndrome""",Missense/nonsense,CM930035,2,365,chrX-66905930-G-A,Missense/nonsense-SNP,311
-16926909,MAN2B1,"""Mannosidosis, alpha""",Splicing,CS033946,2,365,chr19-12759218-T-C,Splicing-SNP,45
-16848624,NAGLU,"""Sanfilippo syndrome B""",Missense/nonsense,CM003007,3,365,chr17-40693209-G-T,Missense/nonsense-SNP,311
-16857233,RYR2,"""Ventricular tachycardia, polymorphic""",Missense/nonsense,CM033016,2,365,chr1-237801780-G-A,Missense/nonsense-SNP,311
-22204838,SCN1A,"""Epilepsy and/or neurodevelopmental disorders""",Missense/nonsense,CM1817957,1,365,chr2-166894450-G-A,Missense/nonsense-SNP,311
-16834344,PRPH2,"""Pattern/cone-rod dystrophy""",Small deletion,CD941787,1,86,chr6-42689871-CCAT-C,Small deletion-DEL,84
-16906898,NPHP1,"""Nephronophthisis-related ciliopathy""",Missense/nonsense,CM139033,1,365,chr2-110881417-G-T,Missense/nonsense-SNP,311
-16942598,HBB,"""Beta thalassaemia""",Regulatory,CR149478,1,365,chr11-5248272-A-T,Regulatory-SNP,8
-16821244,BMPR2,"""Pulmonary hypertension, primary""",Small deletion,CD061374,1,86,chr2-203332350-GCA-G,Small deletion-DEL,84
-16878439,KIF5A,"""Spastic paraplegia""",Missense/nonsense,CM090638,1,365,chr12-57962802-G-C,Missense/nonsense-SNP,311
-13241048,DNAH11,"""Primary ciliary dyskinesia""",Splicing,CS1825685,1,365,chr7-21789835-G-A,Splicing-SNP,45
-141291091,MSH6,"""Colorectal cancer""",Small insertion,CI198779,1,21,chr2-48025816-C-CA,Small insertion-DUP,21
-16869919,F8,"""Haemophilia A""",Missense/nonsense,CM070107,2,365,chrX-154221222-A-C,Missense/nonsense-SNP,311
-97286618,BIRC6,"""Autism spectrum disorder""",Missense/nonsense,CM1722204,1,365,chr2-32656133-C-T,Missense/nonsense-SNP,311
-16944525,USH2A,"""Usher syndrome 2""",Small deletion,CD149994,1,86,chr1-215940090-AG-A,Small deletion-DEL,84
-16903705,IRF6,"""Van der Woude syndrome""",Missense/nonsense,CM132283,1,365,chr1-209974676-C-T,Missense/nonsense-SNP,311
-112079804,SCN2A,"""Epilepsy and/or neurodevelopmental disorders""",Missense/nonsense,CM1820462,1,365,chr2-166231235-T-G,Missense/nonsense-SNP,311
-86225834,USH2A,"""Retinitis pigmentosa / rod-cone dystrophy""",Missense/nonsense,CM1825922,1,365,chr1-215963609-C-T,Missense/nonsense-SNP,311
-10883247,IL10,"""Behçet disease, association with""",Splicing,CS104719,2,365,chr1-206944645-T-C,Splicing-SNP,45
-87397110,PTEN,"""Medulloblastoma""",Small deletion,CD188212,1,86,chr10-89720702-GA-G,Small deletion-DEL,84
-17453416,BRCA1,"""Breast cancer""",Small deletion,CD123597,2,86,chr17-41196352-CACA-C,Small deletion-DEL,84
-16836041,BTK,"""Agammaglobulinaemia""",Small deletion,CD982514,1,86,chrX-100629528-ATCTG-A,Small deletion-DEL,84
-75593714,GAA,"""Glycogen storage disease 2""",Missense/nonsense,CM203639,1,365,chr17-78082294-C-G,Missense/nonsense-SNP,311
-37375711,AGL,"""Glycogen storage disease 3""",Small insertion,CI168984,1,21,chr1-100340351-C-CT,Small insertion-DUP,21
-13854048,CD2AP,"""Nephrotic syndrome, steroid resistant""",Missense/nonsense,CM1817407,1,365,chr6-47512354-G-A,Missense/nonsense-SNP,311
-52009877,STAT1,"""Immunodeficiency, primary""",Missense/nonsense,CM171577,2,365,chr2-191840560-C-G,Missense/nonsense-SNP,311
-16945427,SLC2A1,"""Intellectual disability""",Small deletion,CD1413229,1,86,chr1-43392778-TC-T,Small deletion-DEL,84
-16835882,SLC4A1,"""Spherocytosis""",Small deletion,CD973100,1,86,chr17-42327879-AG-A,Small deletion-DEL,84
-59149447,NDUFAF3,"""Abnormality of the mitochondrion""",Small deletion,CD1619023,1,86,chr3-49060538-CTG-C,Small deletion-DEL,84
-59144375,MAT1A,"""Methionine adenosyltransferase I/III deficiency, autosomal dominant""",Missense/nonsense,CM1619236,1,365,chr10-82034886-C-T,Missense/nonsense-SNP,311
-32141906,PDHA1,"""Multiple sclerosis""",Missense/nonsense,CM175640,1,365,chrX-19377757-A-C,Missense/nonsense-SNP,311
-16934535,LEPR,"""Obesity, early-onset""",Splicing,CS1313241,1,365,chr1-66085610-G-T,Splicing-SNP,45
-52004529,NDUFV1,"""Leigh syndrome, and complex I deficiency""",Missense/nonsense,CM169985,1,365,chr11-67376979-G-T,Missense/nonsense-SNP,311
-16848079,MPL,"""Amegakaryocytic thrombocytopaenia, congenital""",Missense/nonsense,CM002062,3,365,chr1-43818439-C-T,Missense/nonsense-SNP,311
-16908291,CNGA1,"""Retinitis pigmentosa""",Missense/nonsense,CM141755,1,365,chr4-47954602-G-T,Missense/nonsense-SNP,311
-16915285,AR,"""Androgen insensitivity syndrome""",Missense/nonsense,CM952080,1,365,chrX-66937359-T-C,Missense/nonsense-SNP,311
-16863642,NDUFAF2,"""Mitochondrial complex I deficiency""",Missense/nonsense,CM053986,4,365,chr5-60368963-C-T,Missense/nonsense-SNP,311
-87401373,PTCH1,"""Nevoid basal cell carcinoma syndrome""",Small insertion,CI188949,1,5,chr9-98231104-A-AT,Small insertion-INS,5
-16821976,SLC6A8,"""Creatine deficiency""",Small deletion,CD065792,1,86,chrX-152959820-CTGTT-C,Small deletion-DEL,84
-16824425,DCAF17,"""Woodhouse-Sakati syndrome""",Small deletion,CD086179,1,86,chr2-172291136-GC-G,Small deletion-DEL,84
-16914844,PAH,"""Phenylketonuria""",Missense/nonsense,CM950887,1,365,chr12-103249039-A-G,Missense/nonsense-SNP,311
-37384681,KAT6A,"""Neurodevelopmental disorder""",Small deletion,CD166939,2,86,chr8-41794895-AT-A,Small deletion-DEL,84
-16947530,NOD2,"""Blau syndrome""",Missense/nonsense,CM1412976,1,365,chr16-50745510-A-C,Missense/nonsense-SNP,311
-16826669,L2HGDH,"""L-2-Hydroxyglutaric aciduria""",Small deletion,CD102147,1,86,chr14-50768782-AGAG-A,Small deletion-DEL,84
-16887764,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM108012,2,365,chr19-11231152-C-G,Missense/nonsense-SNP,311
-37382884,REST,"""Wilms tumour""",Missense/nonsense,CM1513324,1,365,chr4-57777672-A-T,Missense/nonsense-SNP,311
-16889677,PEX2,"""Zellweger syndrome""",Missense/nonsense,CM111136,1,365,chr8-77896129-G-A,Missense/nonsense-SNP,311
-130135953,ATM,"""Breast cancer, male""",Missense/nonsense,CM1822756,1,365,chr11-108137942-A-G,Missense/nonsense-SNP,311
-12748485,TPRN,"""Deafness, nonsyndromic""",Small deletion,CD101480,2,86,chr9-140094928-AGCCGCGCCCCC-A,Small deletion-DEL,84
-16952154,ACTA2,"""Thoracic aortic aneurysms and dissections""",Missense/nonsense,CM158137,1,365,chr10-90708570-G-A,Missense/nonsense-SNP,311
-16910399,HBB,"""Haemoglobin variant""",Missense/nonsense,CM870036,2,365,chr11-5247862-G-T,Missense/nonsense-SNP,311
-16873390,NPHS2,"""Nephrotic syndrome""",Missense/nonsense,CM077313,1,365,chr1-179544923-C-A,Missense/nonsense-SNP,311
-87400155,BHLHE40,"""Mesial temporal lobe epilepsy with hippocampal sclerosis""",Missense/nonsense,CM189517,1,365,chr3-5024745-G-A,Missense/nonsense-SNP,311
-16824453,RB1,"""Retinoblastoma""",Small deletion,CD086243,1,86,chr13-48947572-AT-A,Small deletion-DEL,84
-10983955,COL9A3,"""Pseudoachondroplasia""",Missense/nonsense,CM108144,3,365,chr20-61463522-C-A,Missense/nonsense-SNP,311
-16854811,GLA,"""Fabry disease""",Missense/nonsense,CM023784,3,365,chrX-100662764-C-A,Missense/nonsense-SNP,311
-141288229,ATM,"""Ovarian cancer""",Small deletion,CD1825207,1,86,chr11-108164205-GTAATAAAAATTT-G,Small deletion-DEL,84
-16923529,NDP,"""Norrie disease""",Missense/nonsense,CM994224,1,365,chrX-43809094-G-T,Missense/nonsense-SNP,311
-16829744,PKD1,"""Polycystic kidney disease 1""",Small deletion,CD1210734,1,86,chr16-2162922-TGTA-T,Small deletion-DEL,84
-59147251,PMP22,"""Neuropathy, liability to pressure palsies""",Splicing,CS1714941,1,365,chr17-15162409-A-G,Splicing-SNP,45
-59144401,PTEN,"""Intellectual disability with overgrowth""",Small deletion,CD176423,1,86,chr10-89692915-AATGAT-A,Small deletion-DEL,84
-16855058,GLA,"""Fabry disease""",Missense/nonsense,CM024296,2,365,chrX-100653022-G-T,Missense/nonsense-SNP,311
-147515375,SOX11,"""Craniosynostosis""",Missense/nonsense,CM1913677,1,365,chr2-5833044-G-A,Missense/nonsense-SNP,311
-59150272,FANCE,"""Head and neck squamous cell carcinoma""",Missense/nonsense,CM178694,1,365,chr6-35427507-T-C,Missense/nonsense-SNP,311
-152657662,THRB,"""Thyroid hormone resistance modifier""",Missense/nonsense,CM1917403,1,365,chr3-24169101-C-A,Missense/nonsense-SNP,311
-11010628,SIGLEC15,"""Recurrent vulvovaginal candidiasis, association with""",Missense/nonsense,CM1910659,1,365,chr18-43419003-T-C,Missense/nonsense-SNP,311
-37381754,MKKS,"""Nephronophthisis-related ciliopathy""",Splicing,CS163335,1,365,chr20-10389452-C-T,Splicing-SNP,45
-97287110,DONSON,"""Microcephalic dwarfism""",Splicing,CS1812949,1,365,chr21-34954363-T-C,Splicing-SNP,45
-87401361,PTCH1,"""Nevoid basal cell carcinoma syndrome""",Small deletion,CD188952,1,86,chr9-98221975-CG-C,Small deletion-DEL,84
-37381379,ttnic,"""Muscular dystrophy""",Small insertion,CI168499,2,21,chr2-179582265-T-TG,Small insertion-DUP,21
-97288506,TMEM67,"""Congenital heart disease""",Missense/nonsense,CM1722829,1,365,chr8-94797492-C-G,Missense/nonsense-SNP,311
-147518651,MECP2,"""Rett syndrome""",Gross deletion,CG024944,1,12,chrX-153295969-T-<DEL>,Gross deletion-MNP,3
-16921922,HMBS,"""Porphyria, acute intermittent""",Missense/nonsense,CM990734,1,365,chr11-118959812-G-A,Missense/nonsense-SNP,311
-16864231,KCNH2,"""Long QT syndrome""",Missense/nonsense,CM055317,2,365,chr7-150649790-T-G,Missense/nonsense-SNP,311
-16901418,ush1cpst,"""Deafness""",Missense/nonsense,CM1310702,2,365,chr11-17553006-C-T,Missense/nonsense-SNP,311
-16936413,MSH2,"""Colorectal cancer, non-polyposis""",Splicing,CS961625,1,365,chr2-47657081-G-C,Splicing-SNP,45
-16857994,TPM1,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM034585,5,365,chr15-63353090-T-C,Missense/nonsense-SNP,311
-37376706,ABCC8,"""Hyperinsulinism""",Missense/nonsense,CM1512981,1,365,chr11-17428607-C-T,Missense/nonsense-SNP,311
-112081228,FLNC,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM1822381,1,365,chr7-128489558-C-T,Missense/nonsense-SNP,311
-32675152,CD70,"""Combined immunodeficiency & Epstein-Barr virus induced B cell malignancy""",Missense/nonsense,CM170786,1,365,chr19-6586078-G-A,Missense/nonsense-SNP,311
-16926043,PRPF31,"""Retinitis pigmentosa""",Splicing,CS014614,5,365,chr19-54626942-A-G,Splicing-SNP,45
-39744262,TPP1,"""Pediatric movement disorder""",Missense/nonsense,CM1816402,1,365,chr11-6637563-G-T,Missense/nonsense-SNP,311
-16902471,SLC20A2,"""Basal ganglia calcification, idiopathic""",Missense/nonsense,CM1312727,2,365,chr8-42286359-C-T,Missense/nonsense-SNP,311
-147515719,MGAT5,"""Henoch-Schonlein purpura""",Missense/nonsense,CM1915644,1,365,chr2-135095857-C-G,Missense/nonsense-SNP,311
-37380001,EFTUD2,"""Mandibulofacial dysostosis with microcephaly""",Small deletion,CD162418,2,86,chr17-42929790-AAGAC-A,Small deletion-DEL,84
-16840307,SPAST,"""Spastic paraplegia, autosomal dominant""",Small insertion,CI063725,1,21,chr2-32366990-T-TATA,Small insertion-DUP,21
-16919442,F9,"""Haemophilia B""",Missense/nonsense,CM980722,3,365,chrX-138644003-A-G,Missense/nonsense-SNP,311
-37379396,GUCY2D,"""Leber congenital amaurosis""",Small deletion,CD167727,2,86,chr17-7906503-GC-G,Small deletion-DEL,84
-16861800,RB1,"""Retinoblastoma""",Missense/nonsense,CM050312,2,365,chr13-48934234-C-A,Missense/nonsense-SNP,311
-16919491,FOXC1,"""Axenfeld-Rieger anomaly""",Missense/nonsense,CM980764,2,365,chr6-1610925-G-C,Missense/nonsense-SNP,311
-16826970,AGL,"""Glycogen storage disease 3""",Small deletion,CD104357,1,86,chr1-100382227-CT-C,Small deletion-DEL,84
-112078420,ATP7B,"""Wilson disease""",Missense/nonsense,CM1821186,1,365,chr13-52511496-G-C,Missense/nonsense-SNP,311
-16914155,BRCA1,"""Breast cancer""",Missense/nonsense,CM950144,24,365,chr17-41245861-G-A,Missense/nonsense-SNP,311
-16875720,NLRP3,"""Cryopyrin-associated periodic syndrome""",Missense/nonsense,CM082971,2,365,chr1-247588819-G-A,Missense/nonsense-SNP,311
-16927715,GLA,"""Fabry disease""",Splicing,CS051255,1,365,chrX-100653770-T-C,Splicing-SNP,45
-16891094,GJB1,"""Charcot-Marie-Tooth disease, X-linked, type 1""",Missense/nonsense,CM113594,1,365,chrX-70443563-C-G,Missense/nonsense-SNP,311
-87398874,BRCA1,"""Breast and/or ovarian cancer""",Missense/nonsense,CM186293,1,365,chr17-41245363-C-A,Missense/nonsense-SNP,311
-152657267,ttnic,"""Cardiomyopathy""",Small deletion,CD1920707,1,86,chr2-179477530-TG-T,Small deletion-DEL,84
-16890859,INS,"""Diabetes, neonatal""",Missense/nonsense,CM113239,1,365,chr11-2182053-T-C,Missense/nonsense-SNP,311
-37380937,FANCL,"""Fanconi anaemia""",Splicing,CS164619,1,365,chr2-58453921-T-C,Splicing-SNP,45
-16845828,CFTR,"""Cystic fibrosis""",Small insertion,CI962239,1,21,chr7-117232654-G-GT,Small insertion-DUP,21
-16821903,EXT1,"""Multiple exostoses""",Small deletion,CD065713,1,86,chr8-118849390-CG-C,Small deletion-DEL,84
-95346683,FBN1,"""Marfan syndrome""",Missense/nonsense,CM1920239,1,365,chr15-48720623-C-T,Missense/nonsense-SNP,311
-14264087,GHRHR,"""Breast cancer, decreased risk, association with""",Regulatory,CR066667,1,365,chr7-31003423-C-T,Regulatory-SNP,8
-112080008,ttnic,"""Atrial fibrillation, early-onset""",Small insertion,CI1819133,1,21,chr2-179433713-A-AG,Small insertion-DUP,21
-97284631,GRIN2B,"""Autism spectrum disorder""",Missense/nonsense,CM1417516,2,365,chr12-13724778-G-A,Missense/nonsense-SNP,311
-16931259,DMD,"""Muscular dystrophy, Duchenne""",Splicing,CS098754,2,365,chrX-32456357-C-T,Splicing-SNP,45
-112079267,BRCA1,"""Breast cancer, male""",Missense/nonsense,CM1818516,1,365,chr17-41244333-A-G,Missense/nonsense-SNP,311
-92336821,BMPR2,"""Pulmonary arterial hypertension""",Missense/nonsense,CM1823640,1,365,chr2-203329666-G-A,Missense/nonsense-SNP,311
-16871169,ZEB1,"""Posterior polymorphous corneal dystrophy""",Missense/nonsense,CM072124,4,365,chr10-31810420-C-G,Missense/nonsense-SNP,311
-13198910,SERPINA1,"""Alpha-1-antitrypsin deficiency""",Missense/nonsense,CM890095,9,365,chr14-94849388-G-A,Missense/nonsense-SNP,311
-16836696,RB1,"""Retinoblastoma""",Small deletion,CD984658,1,86,chr13-49030464-CT-C,Small deletion-DEL,84
-14409876,MYLK,"""Asthma, association with""",Splicing,CS078536,1,365,chr3-123422817-G-C,Splicing-SNP,45
-16917769,MLH1,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM970953,26,365,chr3-37038192-G-A,Missense/nonsense-SNP,311
-16921725,F8,"""Haemophilia A""",Missense/nonsense,CM990530,2,365,chrX-154221296-G-C,Missense/nonsense-SNP,311
-16903002,SACS,"""Spastic ataxia, Charlevoix-Saguenay""",Missense/nonsense,CM131375,1,365,chr13-23913448-A-G,Missense/nonsense-SNP,311
-110124736,CDH1,"""Breast cancer, female""",Missense/nonsense,CM1820618,1,365,chr16-68862145-G-A,Missense/nonsense-SNP,311
-16828115,PHEX,"""Rickets, hypophosphataemic""",Small deletion,CD111063,2,86,chrX-22237178-GTAATTGTCGGAC-G,Small deletion-DEL,84
-152655546,KMT2D,"""Hypoplastic left heart syndrome""",Small deletion,CD1920530,1,86,chr12-49445619-GGA-G,Small deletion-DEL,84
-152656341,ARL2BP,"""Retinitis pigmentosa""",Missense/nonsense,CM1919544,1,365,chr16-57282504-T-G,Missense/nonsense-SNP,311
-16941420,STK11,"""Peutz-Jeghers syndrome""",Missense/nonsense,CM147059,1,365,chr19-1221951-T-G,Missense/nonsense-SNP,311
-16822019,GLA,"""Fabry disease""",Small deletion,CD066362,1,86,chrX-100652899-GA-G,Small deletion-DEL,84
-87398392,IFT140,"""Mainzer-Saldino syndrome""",Missense/nonsense,CM187900,1,365,chr16-1573854-T-A,Missense/nonsense-SNP,311
-16932628,IDUA,"""Hurler syndrome""",Splicing,CS113580,2,365,chr4-997263-G-C,Splicing-SNP,45
-16852689,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM015931,1,365,chrX-37663139-C-A,Missense/nonsense-SNP,311
-16923952,SPAST,"""Spastic paraplegia, autosomal dominant""",Small indel,CP025184,1,12,chr2-32370040-GC-TA,Small indel-MNP,9
-59555092,SMC1A,"""Cohesinopathy""",Missense/nonsense,CM1812444,1,365,chrX-53442088-A-C,Missense/nonsense-SNP,311
-52682381,PUS1,"""Myopathy-lactic acidosis-sideroblastic anaemia syndrome""",Missense/nonsense,CM1713707,1,365,chr12-132414679-A-G,Missense/nonsense-SNP,311
-16885202,GJA3,"""Congenital cataract""",Missense/nonsense,CM102458,3,365,chr13-20717298-C-T,Missense/nonsense-SNP,311
-87398950,SLC4A1,"""Spherocytosis""",Missense/nonsense,CM187428,1,365,chr17-42335124-G-A,Missense/nonsense-SNP,311
-147518088,DMD,"""Muscular dystrophy, Duchenne""",Gross deletion,CG112363,1,12,chrX-31645789-C-<DEL>,Gross deletion-MNP,3
-52010106,JAG1,"""Alagille syndrome""",Small deletion,CD1613965,1,86,chr20-10624464-TC-T,Small deletion-DEL,84
-14935874,ttnic,"""Cardiomyopathy, arrhythmogenic""",Missense/nonsense,CM197666,1,365,chr2-179522861-C-T,Missense/nonsense-SNP,311
-16832033,ALAS2,"""Sideroblastic anaemia""",Small deletion,CD131879,1,86,chrX-55035771-GCTT-G,Small deletion-DEL,84
-16869748,HPRT1,"""Lesch-Nyhan syndrome""",Missense/nonsense,CM068580,1,365,chrX-133627584-T-G,Missense/nonsense-SNP,311
-16948090,P4HB,"""Amyotrophic lateral sclerosis, predisposition to""",Missense/nonsense,CM153932,1,365,chr17-79801932-T-C,Missense/nonsense-SNP,311
-16862912,NSD1,"""Sotos syndrome""",Missense/nonsense,CM052303,2,365,chr5-176678798-G-T,Missense/nonsense-SNP,311
-16880644,COL5A1,"""Ehlers-Danlos syndrome""",Missense/nonsense,CM093855,1,365,chr9-137711980-G-A,Missense/nonsense-SNP,311
-16913269,F9,"""Haemophilia B""",Missense/nonsense,CM940696,4,365,chrX-138644076-G-T,Missense/nonsense-SNP,311
-16888756,NDUFS1,"""Complex 1 deficiency""",Missense/nonsense,CM110315,1,365,chr2-206992622-T-C,Missense/nonsense-SNP,311
-16914174,BTK,"""Agammaglobulinaemia""",Missense/nonsense,CM950162,2,365,chrX-100614298-G-A,Missense/nonsense-SNP,311
-33651533,IKBKE,"""Autoimmune lymphoproliferative syndrome with autoimmune cytopaenias, modifier""",Missense/nonsense,CM184401,1,365,chr1-206647734-G-A,Missense/nonsense-SNP,311
-52008059,BRIP1,"""Breast cancer""",Small insertion,CI1516477,2,21,chr17-59926556-G-GT,Small insertion-DUP,21
-16885135,SMPD1,"""Niemann-Pick disease""",Missense/nonsense,CM102286,2,365,chr11-6415506-A-G,Missense/nonsense-SNP,311
-16920972,BRCA1,"""Breast and/or ovarian cancer""",Missense/nonsense,CM983853,5,365,chr17-41245489-G-A,Missense/nonsense-SNP,311
-52011490,FGG,"""Hypofibrinogenaemia""",Missense/nonsense,CM1613943,1,365,chr4-155529705-C-T,Missense/nonsense-SNP,311
-52010352,DIP2A,"""Autism spectrum disorder""",Missense/nonsense,CM1617448,3,365,chr21-47957426-G-A,Missense/nonsense-SNP,311
-52009935,CRYGC,"""Cataract, congenital""",Small deletion,CD173053,1,86,chr2-208993028-GC-G,Small deletion-DEL,84
-16951518,COL3A1,"""Thoracic aortic aneurysms and dissections""",Missense/nonsense,CM158138,2,365,chr2-189854850-G-C,Missense/nonsense-SNP,311
-16894953,PKD1,"""Polycystic kidney disease 1""",Missense/nonsense,CM1210874,1,365,chr16-2159878-C-A,Missense/nonsense-SNP,311
-16909277,NF1,"""Neurofibromatosis 1""",Missense/nonsense,CM143359,1,365,chr17-29557864-A-G,Missense/nonsense-SNP,311
-16940146,SLC7A9,"""Cystinuria""",Missense/nonsense,HM070028,2,365,chr19-33324177-A-G,Missense/nonsense-SNP,311
-11725844,APC,"""Colorectal adenoma""",Missense/nonsense,CM080050,2,365,chr5-112176006-T-C,Missense/nonsense-SNP,311
-16837248,LMX1B,"""Nail patella syndrome""",Small deletion,CD993056,1,86,chr9-129377788-CCCTCACCA-C,Small deletion-DEL,84
-63805614,ALMS1,"""Alstrom syndrome""",Missense/nonsense,CM156237,1,365,chr2-73679580-C-T,Missense/nonsense-SNP,311
-16852039,PANK2,"""Pantothenate kinase-associated neurodegeneration""",Missense/nonsense,CM014247,3,365,chr20-3897660-A-T,Missense/nonsense-SNP,311
-37380507,LDLR,"""Hypercholesterolaemia""",Small deletion,CD162622,1,86,chr19-11234001-AGTGACAAT-A,Small deletion-DEL,84
-16876773,OFD1,"""Oral-facial-digital syndrome I""",Missense/nonsense,CM085610,1,365,chrX-13754709-A-C,Missense/nonsense-SNP,311
-16876597,FBN1,"""Marfan syndrome""",Missense/nonsense,CM085425,2,365,chr15-48717610-C-T,Missense/nonsense-SNP,311
-41319003,KDR,"""Vascular anomalies""",Missense/nonsense,CM1710275,1,365,chr4-55968085-C-T,Missense/nonsense-SNP,311
-59148079,UPF1,"""Intellectual disability, gross motor delay, seizures, scoliosis, hearing and sight issues""",Small indel,CX176558,1,12,chr19-18966765-GC-AA,Small indel-MNP,9
-16917760,MET,"""Papillary renal carcinoma""",Missense/nonsense,CM970943,1,365,chr7-116418881-T-C,Missense/nonsense-SNP,311
-16853872,ITGA2B,"""Glanzmann thrombasthenia""",Missense/nonsense,CM022027,1,365,chr17-42463431-A-G,Missense/nonsense-SNP,311
-34385666,CNGB1,"""Autism spectrum disorder""",Missense/nonsense,CM1416812,1,365,chr16-58001141-C-T,Missense/nonsense-SNP,311
-91651481,FLCN,"""Birt-Hogg-Dubé syndrome""",Missense/nonsense,CM1825979,1,365,chr17-17122508-G-C,Missense/nonsense-SNP,311
-16884006,TP53,"""Breast and/or ovarian cancer""",Missense/nonsense,CM100445,2,365,chr17-7577021-C-T,Missense/nonsense-SNP,311
-10997891,ADAMTSL4,"""Ectopia lentis""",Missense/nonsense,CM1718662,1,365,chr1-150530548-C-G,Missense/nonsense-SNP,311
-16866901,COL1A1,"""Osteogenesis imperfecta II""",Missense/nonsense,CM062528,1,365,chr17-48271330-C-T,Missense/nonsense-SNP,311
-16892119,SLC26A3,"""Diarrhoea, congenital chloride""",Missense/nonsense,CM115695,1,365,chr7-107430057-G-A,Missense/nonsense-SNP,311
-16938076,NIPBL,"""Cornelia de Lange syndrome""",Small indel,CX042666,1,12,chr5-36955708-CATAGCCTCA-ATCAACAGGTGAC,Small indel-MNP,9
-16951529,ABCA4,"""Cone/cone-rod dystrophy""",Splicing,CS156171,2,365,chr1-94505596-T-A,Splicing-SNP,45
-16862315,PTEN,"""Autism spectrum disorder and macrocephaly""",Missense/nonsense,CM051216,5,365,chr10-89717730-A-G,Missense/nonsense-SNP,311
-52003447,NMNAT2,"""Multiple congenital anomalies""",Missense/nonsense,CM171800,2,365,chr1-183230395-C-T,Missense/nonsense-SNP,311
-59144441,PDE6C,"""Retinal dystrophy""",Splicing,CS1618533,2,365,chr10-95385411-G-A,Splicing-SNP,45
-12384603,LIPC,"""Lower hepatic lipase activity""",Regulatory,CR971949,10,365,chr15-58723675-C-T,Regulatory-SNP,8
-16835370,ATP7B,"""Wilson disease""",Small deletion,CD972036,1,86,chr13-52544877-AAC-A,Small deletion-DEL,84
-16878785,RB1,"""Retinoblastoma""",Missense/nonsense,CM0910366,2,365,chr13-48951075-G-T,Missense/nonsense-SNP,311
-16832416,FAM111A,"""Osteocraniostenosis""",Small deletion,CD134981,2,86,chr11-58920160-ATTC-A,Small deletion-DEL,84
-16836409,PTEN,"""Bannayan-Zonana syndrome""",Small deletion,CD982915,1,86,chr10-89711967-TC-T,Small deletion-DEL,84
-14503143,BTRC,"""Hepatocellular carcinoma, reduced risk, association with""",Small deletion,CD102928,1,86,chr10-103313719-CAACAGTGGA-C,Small deletion-DEL,84
-16847090,COL3A1,"""Ehlers-Danlos syndrome IV""",Missense/nonsense,CM000360,1,365,chr2-189872825-G-T,Missense/nonsense-SNP,311
-20830501,PROKR2,"""Altered function""",Missense/nonsense,CM180943,1,365,chr20-5294607-C-T,Missense/nonsense-SNP,311
-17708804,INPP5E,"""Joubert syndrome""",Missense/nonsense,CM1515907,1,365,chr9-139324777-C-T,Missense/nonsense-SNP,311
-16823894,ENG,"""Hereditary haemorrhagic telangiectasia""",Small deletion,CD083292,1,86,chr9-130588919-CGG-C,Small deletion-DEL,84
-41573631,opa1tv8,"""Optic atrophy""",Missense/nonsense,CM175502,1,365,chr3-193384115-C-T,Missense/nonsense-SNP,311
-16943397,CAPN3,"""Muscular dystrophy, limb girdle 2A""",Missense/nonsense,CM148800,1,365,chr15-42703970-G-T,Missense/nonsense-SNP,311
-16867540,ABCC8,"""Hyperinsulinism""",Missense/nonsense,CM063819,1,365,chr11-17417399-C-T,Missense/nonsense-SNP,311
-16946502,AGL,"""Glycogen storage disease 3a""",Small insertion,CI150334,2,21,chr1-100327882-G-GCT,Small insertion-DUP,21
-90376202,NOTCH1,"""Intracranial vertebral-basilar artery dissection, susceptibility to""",Missense/nonsense,CM1816376,1,365,chr9-139401005-G-A,Missense/nonsense-SNP,311
-59150315,MMUT,"""Methylmalonic aciduria""",Small deletion,CD1711102,1,86,chr6-49403278-CT-C,Small deletion-DEL,84
-13258654,FANCM,"""Endometrial cancer, modified risk, in Lynch syndrome""",Missense/nonsense,CM1516930,2,365,chr14-45605405-G-C,Missense/nonsense-SNP,311
-16822311,SLC17A5,"""Salla disease""",Small deletion,CD068603,1,86,chr6-74351431-GT-G,Small deletion-DEL,84
-141290245,BRCA1,"""Breast and/or ovarian cancer""",Small deletion,CD196356,1,86,chr17-41244579-AC-A,Small deletion-DEL,84
-52008163,SMCHD1,"""Bosma arhinia microphthalmia syndrome""",Missense/nonsense,CM171228,1,365,chr18-2700821-A-G,Missense/nonsense-SNP,311
-37378166,MYH7,"""Cardiomyopathy & distal myopathy""",Missense/nonsense,CM168785,2,365,chr14-23884304-C-T,Missense/nonsense-SNP,311
-16859918,MYO7A,"""Deafness, non-syndromic, autosomal dominant""",Missense/nonsense,CM042433,1,365,chr11-76890970-C-T,Missense/nonsense-SNP,311
-16886966,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM106275,2,365,chrX-37665700-C-T,Missense/nonsense-SNP,311
-16928850,SCN1A,"""Severe myoclonic epilepsy of infancy""",Splicing,CS067120,1,365,chr2-166909361-C-G,Splicing-SNP,45
-37382875,KIT,"""Piebaldism""",Missense/nonsense,CM1314914,1,365,chr4-55599275-A-C,Missense/nonsense-SNP,311
-16894885,MECP2,"""Rett syndrome""",Missense/nonsense,CM1210654,1,365,chrX-153296411-C-A,Missense/nonsense-SNP,311
-16834050,IDS,"""Mucopolysaccharidosis II""",Small deletion,CD931010,1,86,chrX-148579652-AG-A,Small deletion-DEL,84
-15482142,MBD6,"""Autism""",Missense/nonsense,CM1212435,1,365,chr12-57922170-C-T,Missense/nonsense-SNP,311
-59150046,APC,"""Adenomatous polyposis coli""",Small deletion,CD179229,1,86,chr5-112175644-AG-A,Small deletion-DEL,84
-112079510,LDLR,"""Hypercholesterolaemia""",Small deletion,CD1817379,2,86,chr19-11223972-TC-T,Small deletion-DEL,84
-10936048,USF3,"""Childhood disintegrative disorder""",Small deletion,CD174343,1,86,chr3-113376110-TTGC-T,Small deletion-DEL,84
-37377456,COL2A1,"""Stickler syndrome""",Small deletion,CD104529,1,86,chr12-48393715-GAGGTCAGTTGGGC-G,Small deletion-DEL,84
-16948450,RB1,"""Retinoblastoma""",Small insertion,CI152969,1,21,chr13-48937082-A-AAT,Small insertion-DUP,21
-27974496,CP,"""Aceruloplasminaemia""",Missense/nonsense,CM208443,1,365,chr3-148916203-C-T,Missense/nonsense-SNP,311
-16858926,CRB1,"""Leber congenital amaurosis""",Missense/nonsense,CM040711,1,365,chr1-197390708-G-T,Missense/nonsense-SNP,311
-11289882,WWOX,"""Intellectual disability""",Missense/nonsense,CM164753,1,365,chr16-79245676-G-T,Missense/nonsense-SNP,311
-52003744,TUBB8,"""Oocyte maturation arrest""",Missense/nonsense,CM1611288,1,365,chr10-93619-G-A,Missense/nonsense-SNP,311
-37375782,SF3B4,"""Rodriguez syndrome""",Splicing,CS146586,2,365,chr1-149898811-C-T,Splicing-SNP,45
-112080578,CASR,"""Hypercalcaemia, hypocalciuric""",Missense/nonsense,CM190016,1,365,chr3-121980547-G-A,Missense/nonsense-SNP,311
-31348168,PCARE,"""Retinitis pigmentosa""",Missense/nonsense,CM1723620,1,365,chr2-29294029-A-G,Missense/nonsense-SNP,311
-16924960,F9,"""Haemophilia B""",Regulatory,CR1314249,1,365,chrX-138612886-A-G,Regulatory-SNP,8
-23297023,PEX19,"""Peroxisomal biogenesis disorder""",Missense/nonsense,CM191118,1,365,chr1-160253339-G-A,Missense/nonsense-SNP,311
-16880040,FBN1,"""Marfan syndrome""",Missense/nonsense,CM092467,1,365,chr15-48730096-C-A,Missense/nonsense-SNP,311
-16883649,HBB,"""Haemoglobin variant""",Missense/nonsense,CM099768,3,365,chr11-5247813-G-T,Missense/nonsense-SNP,311
-75269394,COL7A1,"""Epidermolysis bullosa dystrophica""",Missense/nonsense,CM1620250,1,365,chr3-48610471-C-T,Missense/nonsense-SNP,311
-37381434,STAT1,"""Mucocutaneous candidiasis""",Missense/nonsense,CM167453,1,365,chr2-191841652-T-C,Missense/nonsense-SNP,311
-16949174,ABCC6,"""Pseudoxanthoma elasticum""",Missense/nonsense,CM153338,1,365,chr16-16263655-A-G,Missense/nonsense-SNP,311
-130255034,ARHGEF28,"""Amyotrophic lateral sclerosis""",Missense/nonsense,CM204640,1,365,chr5-73136470-C-A,Missense/nonsense-SNP,311
-16862035,NHLRC1,"""Myoclonic epilepsy of Lafora""",Missense/nonsense,CM050727,1,365,chr6-18122045-G-A,Missense/nonsense-SNP,311
-11045910,SYNE1,"""Sensory ataxia""",Missense/nonsense,CM186781,1,365,chr6-152674464-C-A,Missense/nonsense-SNP,311
-112081662,RBM10,"""Talipes equinovarus, atrial septal defect, Robin sequence, and persistent left superior vena cava syndrome""",Small indel,CX1821054,1,12,chrX-47030498-CGGCCCGCCAG-A,Small indel-MNP,9
-37384872,VLDLR,"""Intellectual disability/developmental delay""",Missense/nonsense,CM167026,1,365,chr9-2635524-T-C,Missense/nonsense-SNP,311
-120800552,RTEL1,"""Interstitial lung disease""",Missense/nonsense,CM192939,1,365,chr20-62324519-C-T,Missense/nonsense-SNP,311
-16862365,COL1A1,"""Ehlers-Danlos syndrome/Osteogenesis imperfecta""",Missense/nonsense,CM051415,3,365,chr17-48275318-C-T,Missense/nonsense-SNP,311
-11852166,OGG1,"""Colorectal cancer""",Missense/nonsense,CM109079,5,365,chr3-9798475-G-A,Missense/nonsense-SNP,311
-16863781,TERT,"""Aplastic anaemia""",Missense/nonsense,CM054143,6,365,chr5-1254510-C-T,Missense/nonsense-SNP,311
-16842844,ITGB3,"""Glanzmann thrombasthenia""",Small insertion,CI108900,1,21,chr17-45368319-G-GA,Small insertion-DUP,21
-82890961,TRRAP,"""Autism spectrum disorder/intellectual disability and epilepsy""",Missense/nonsense,CM193161,1,365,chr7-98552806-C-T,Missense/nonsense-SNP,311
-36244687,PDGFRB,"""Myofibromatosis, infantile, complex""",Missense/nonsense,CM181237,1,365,chr5-149503840-T-G,Missense/nonsense-SNP,311
-16848386,HPRT1,"""Lesch-Nyhan syndrome""",Missense/nonsense,CM002624,1,365,chrX-133624228-T-G,Missense/nonsense-SNP,311
-16816677,SH2D1A,"""Immunodeficiency syndrome, common variable""",Small deletion,CD013202,1,86,chrX-123504072-TCATTTCAG-T,Small deletion-DEL,84
-16834313,PLOD1,"""Ehlers-Danlos syndrome VI""",Small deletion,CD941759,1,86,chr1-12026314-AAGG-A,Small deletion-DEL,84
-16937072,IDS,"""Mucopolysaccharidosis II""",Splicing,CS982229,2,365,chrX-148577876-C-T,Splicing-SNP,45
-16932146,SLC52A3,"""Fazio-Londe syndrome""",Splicing,CS108918,1,365,chr20-741884-T-G,Splicing-SNP,45
-16945412,COL3A1,"""Ehlers-Danlos syndrome IV""",Missense/nonsense,CM1412425,1,365,chr2-189854132-G-A,Missense/nonsense-SNP,311
-56956906,BRCA2,"""Breast and/or ovarian cancer""",Missense/nonsense,CM1813018,1,365,chr13-32903591-G-T,Missense/nonsense-SNP,311
-87398690,CHRNE,"""Congenital myasthenic syndrome""",Missense/nonsense,CM186106,1,365,chr17-4804309-G-T,Missense/nonsense-SNP,311
-16921874,GALT,"""Galactosaemia""",Missense/nonsense,CM990679,2,365,chr9-34650444-T-C,Missense/nonsense-SNP,311
-10989645,GSTP1,"""Oral cancer in light smokers, association with""",Missense/nonsense,CM992339,5,365,chr11-67353579-C-T,Missense/nonsense-SNP,311
-16946322,ASL,"""Argininosuccinic aciduria""",Missense/nonsense,CM1411761,1,365,chr7-65554291-G-A,Missense/nonsense-SNP,311
-16953081,QDPR,"""Dihydropteridine reductase deficiency""",Missense/nonsense,CM155928,2,365,chr4-17506032-C-T,Missense/nonsense-SNP,311
-16842340,PROC,"""Protein C deficiency""",Small insertion,CI101147,1,5,chr2-128186418-C-CTA,Small insertion-INS,5
-75268526,ADCY3,"""Obesity, severe""",Splicing,CS181603,1,365,chr2-25047406-C-T,Splicing-SNP,45
-16849282,OTC,"""Ornithine transcarbamylase deficiency""",Missense/nonsense,CM004199,3,365,chrX-38229063-G-T,Missense/nonsense-SNP,311
-16927299,NIPBL,"""Cornelia de Lange syndrome""",Splicing,CS042565,1,365,chr5-36955569-A-G,Splicing-SNP,45
-16832497,SLC6A8,"""Creatine deficiency""",Small deletion,CD135580,1,86,chrX-152954210-TTCA-T,Small deletion-DEL,84
-16918645,THRB,"""Thyroid hormone resistance""",Missense/nonsense,CM973210,1,365,chr3-24169204-C-T,Missense/nonsense-SNP,311
-16854283,SERPING1,"""Angioneurotic oedema""",Missense/nonsense,CM022845,1,365,chr11-57382029-G-A,Missense/nonsense-SNP,311
-16830607,NR0B1,"""Adrenal hypoplasia""",Small deletion,CD125654,1,86,chrX-30327175-AC-A,Small deletion-DEL,84
-16915586,SERPING1,"""Angioneurotic oedema""",Missense/nonsense,CM960227,1,365,chr11-57381981-T-C,Missense/nonsense-SNP,311
-87399075,TLK2,"""Neurodevelopmental disorder""",Splicing,CS188074,1,365,chr17-60685400-A-G,Splicing-SNP,45
-16884204,SCN5A,"""Brugada syndrome""",Missense/nonsense,CM100727,3,365,chr3-38598048-C-G,Missense/nonsense-SNP,311
-16847855,FGG,"""Afibrinogenaemia""",Missense/nonsense,CM001691,2,365,chr4-155529700-C-A,Missense/nonsense-SNP,311
-16935185,VWF,"""Von Willebrand disease 2a/2e""",Splicing,CS138972,1,365,chr12-6132066-T-C,Splicing-SNP,45
-16929620,NF1,"""Neurofibromatosis 1""",Splicing,CS077368,2,365,chr17-29490396-T-G,Splicing-SNP,45
-16852759,SLCO1B1,"""Altered transport activity""",Missense/nonsense,CM016145,1,365,chr12-21325716-T-C,Missense/nonsense-SNP,311
-16911672,OAT,"""Gyrate atrophy""",Missense/nonsense,CM920512,1,365,chr10-126100556-A-G,Missense/nonsense-SNP,311
-147518164,DMD,"""Muscular dystrophy""",Gross deletion,CG081004,1,86,chrX-32563370-CCCTTGTGGTCACCGTAGTTACTGTTTCCATTACAGTTGTCTGTGTTAGTGATGGCTGAGTGGTGGTG-C,Gross deletion-DEL,2
-59147954,SMARCA4,"""Autism spectrum disorder""",Missense/nonsense,CM1713287,2,365,chr19-11097060-T-C,Missense/nonsense-SNP,311
-97286122,RAD51C,"""Breast and/or ovarian cancer""",Missense/nonsense,CM1811369,1,365,chr17-56774131-A-G,Missense/nonsense-SNP,311
-37377516,ACVRL1,"""Hereditary haemorrhagic telangiectasia""",Splicing,CS147644,1,365,chr12-52307755-C-G,Splicing-SNP,45
-36574648,RBM15,"""Mesothelioma""",Missense/nonsense,CM1814154,1,365,chr1-110888172-C-T,Missense/nonsense-SNP,311
-16128239,TSC2,"""Tuberous sclerosis""",Missense/nonsense,CM991215,2,365,chr16-2134713-C-G,Missense/nonsense-SNP,311
-75265722,RPE65,"""Leber congenital amaurosis""",Small deletion,CD181507,1,86,chr1-68914351-TCAAA-T,Small deletion-DEL,84
-16915981,FGFR3,"""Thanatophoric dwarfism""",Missense/nonsense,CM960657,14,365,chr4-1806099-A-G,Missense/nonsense-SNP,311
-97288866,CDKL5,"""Epilepsy and/or neurodevelopmental disorders""",Splicing,CS1815109,1,365,chrX-18616581-G-C,Splicing-SNP,45
-12716207,CYP2A6,"""Poor metaboliser""",Missense/nonsense,CM083626,1,365,chr19-41355738-C-G,Missense/nonsense-SNP,311
-16951110,CACNA1F,"""Congenital stationary night blindness""",Missense/nonsense,CM158308,1,365,chrX-49075149-T-C,Missense/nonsense-SNP,311
-39231546,NYX,"""Retinitis Pigmentosa""",Missense/nonsense,CM1919435,1,365,chrX-41332842-G-A,Missense/nonsense-SNP,311
-16844085,BRCA2,"""Breast and/or ovarian cancer""",Small insertion,CI126345,4,21,chr13-32893420-C-CA,Small insertion-DUP,21
-16849187,MVK,"""Hyper-IgD periodic fever syndrome""",Missense/nonsense,CM004003,1,365,chr12-110019322-C-T,Missense/nonsense-SNP,311
-16856287,MOCS1,"""Molybdenum cofactor deficiency""",Missense/nonsense,CM031244,1,365,chr6-39880019-C-T,Missense/nonsense-SNP,311
-16928672,DNAH5,"""Primary ciliary dyskinesia""",Splicing,CS065541,2,365,chr5-13708227-C-T,Splicing-SNP,45
-16953342,PI4KA,"""Long QT syndrome""",Missense/nonsense,CM156446,1,365,chr22-21167739-G-C,Missense/nonsense-SNP,311
-16923523,MC4R,"""Obesity, autosomal dominant""",Missense/nonsense,CM994218,10,365,chr18-58039478-G-T,Missense/nonsense-SNP,311
-52007438,ASPA,"""Canavan disease""",Missense/nonsense,CM175116,1,365,chr17-3379659-T-G,Missense/nonsense-SNP,311
-16824454,RB1,"""Retinoblastoma""",Small deletion,CD086245,1,86,chr13-49027168-CG-C,Small deletion-DEL,84
-10947664,CDAN1,"""Congenital dyserythropoietic anaemia, type I""",Missense/nonsense,CM180006,1,365,chr15-43020983-G-A,Missense/nonsense-SNP,311
-16860866,COL4A4,"""Alport syndrome""",Missense/nonsense,CM044600,2,365,chr2-227917120-C-G,Missense/nonsense-SNP,311
-59146551,SMAD3,"""Colorectal cancer""",Missense/nonsense,CM1713859,1,365,chr15-67358493-A-G,Missense/nonsense-SNP,311
-14861574,PROK2,"""Kallmann syndrome""",Regulatory,CR065650,1,365,chr3-71834207-G-T,Regulatory-SNP,8
-59150196,F13A1,"""Factor XIII deficiency""",Splicing,CS176478,1,365,chr6-6174812-C-T,Splicing-SNP,45
-16906592,KMT2D,"""Kabuki syndrome""",Missense/nonsense,CM138443,7,365,chr12-49418361-C-T,Missense/nonsense-SNP,311
-16833061,FAM20A,"""Enamel-renal-gingival syndrome""",Small deletion,CD140188,2,86,chr17-66596440-AGCGCCTCCTGGCTGGCCAG-A,Small deletion-DEL,84
-97285420,MYO5A,"""Congenital heart disease""",Missense/nonsense,CM1722552,1,365,chr15-52689492-C-T,Missense/nonsense-SNP,311
-59149389,MLH1,"""Colorectal cancer, non-polyposis""",Small deletion,CD108370,1,86,chr3-37059526-GGCTGAGGT-G,Small deletion-DEL,84
-16820042,CYLD,"""Brooke-Spiegler syndrome""",Small deletion,CD051729,1,86,chr16-50826564-TA-T,Small deletion-DEL,84
-16863546,F8,"""Haemophilia A""",Missense/nonsense,CM053879,1,365,chrX-154221288-T-C,Missense/nonsense-SNP,311
-11476890,SCN1A,"""Autism""",Missense/nonsense,CM034569,2,365,chr2-166847921-A-G,Missense/nonsense-SNP,311
-152658000,SPEF2,"""Multiple morphological abnormalities of the sperm flagella""",Small deletion,CD1916947,1,86,chr5-35800190-GT-G,Small deletion-DEL,84
-16905100,BMPR1A,"""Gastrointestinal polyposis""",Missense/nonsense,CM135231,1,365,chr10-88659881-C-A,Missense/nonsense-SNP,311
-16927394,PCCA,"""Propionic acidaemia""",Splicing,CS043371,1,365,chr13-101020720-C-G,Splicing-SNP,45
-87397335,CTNND1,"""Cleft lip and/or palate, non-syndromic""",Small deletion,CD187930,1,86,chr11-57564444-TGA-T,Small deletion-DEL,84
-16835448,CFTR,"""Congenital absence of vas deferens""",Small deletion,CD972120,1,86,chr7-117120187-CA-C,Small deletion-DEL,84
-16830896,NKX2-5,"""Wenckebach periodicity""",Small deletion,CD127711,1,86,chr5-172659763-CG-C,Small deletion-DEL,84
-65183124,ttnic,"""Cardiomyopathy, dilated""",Missense/nonsense,CM1724787,1,365,chr2-179465886-G-A,Missense/nonsense-SNP,311
-141292119,PROS1,"""Protein S deficiency, type I""",Small deletion,CD194343,1,86,chr3-93619658-CTTTGA-C,Small deletion-DEL,84
-16842346,TMEM127,"""Phaeochromocytoma""",Small insertion,CI101227,1,21,chr2-96930970-C-CT,Small insertion-DUP,21
-141292607,GLRA1,"""Hyperekplexia""",Missense/nonsense,CM194297,1,365,chr5-151239528-G-T,Missense/nonsense-SNP,311
-16897626,MAN2B1,"""Mannosidosis, alpha""",Missense/nonsense,CM124072,1,365,chr19-12758353-C-T,Missense/nonsense-SNP,311
-147517073,NEU1,"""Sialidosis 1""",Gross deletion,CG1915249,1,86,chr6-31829774-ACCCTGGTCCATGGACCTCCGCAGGGCGATGAACTTGGCC-A,Gross deletion-DEL,2
-37384707,CHD7,"""CHARGE syndrome""",Small insertion,CI161075,1,21,chr8-61732639-A-AC,Small insertion-DUP,21
-16823276,NF1,"""Neurofibromatosis 1""",Small deletion,CD076846,1,86,chr17-29527526-CA-C,Small deletion-DEL,84
-16916371,PAX3,"""Craniofacial-deafness-hand syndrome""",Missense/nonsense,CM961088,3,365,chr2-223161877-G-C,Missense/nonsense-SNP,311
-16849223,PROC,"""Protein C deficiency""",Missense/nonsense,CM004058,1,365,chr2-128180720-G-T,Missense/nonsense-SNP,311
-59145638,BRCA2,"""Breast cancer""",Missense/nonsense,CM1715102,2,365,chr13-32914935-C-A,Missense/nonsense-SNP,311
-11777013,CFH,"""Dense deposit disease""",Missense/nonsense,CM125844,4,365,chr1-196706049-G-A,Missense/nonsense-SNP,311
-11304221,AXIN1,"""Alzheimer disease, late-onset""",Missense/nonsense,CM171391,1,365,chr16-348021-G-C,Missense/nonsense-SNP,311
-16917691,LAMB3,"""Epidermolysis bullosa, Herlitz""",Missense/nonsense,CM970866,4,365,chr1-209791389-G-A,Missense/nonsense-SNP,311
-39533270,NPC1,"""Niemann-Pick disease, type C""",Small deletion,CD193672,1,86,chr18-21148823-CTT-C,Small deletion-DEL,84
-16895956,FLNA,"""Heterotopia, periventricular""",Missense/nonsense,CM1212813,1,365,chrX-153596445-G-C,Missense/nonsense-SNP,311
-129611565,P2RX1,"""Autism spectrum disorder, association with""",Splicing,CS2010896,1,365,chr17-3801303-C-T,Splicing-SNP,45
-16825604,VWF,"""Von Willebrand disease 3""",Small deletion,CD095419,1,86,chr12-6103215-GGAGCTGTCGGGGAC-G,Small deletion-DEL,84
-119653492,MAP2K2,"""TAFRO syndrome""",Missense/nonsense,CM208498,1,365,chr19-4110574-G-A,Missense/nonsense-SNP,311
-37378911,PKD1,"""Polycystic kidney disease 1""",Splicing,CS162243,1,365,chr16-2143095-C-G,Splicing-SNP,45
-112080009,TTN,"""Cardiomyopathy, dilated""",Missense/nonsense,CM1517423,2,365,chr2-179439318-C-T,Missense/nonsense-SNP,311
-87398214,FBN1,"""Marfan syndrome""",Missense/nonsense,CM189600,1,365,chr15-48729167-C-A,Missense/nonsense-SNP,311
-16860106,VAPB,"""Amyotrophic lateral sclerosis""",Missense/nonsense,CM042798,19,365,chr20-56993374-C-T,Missense/nonsense-SNP,311
-16886711,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM105670,2,365,chrX-37642744-C-G,Missense/nonsense-SNP,311
-25509475,TSC2,"""Epilepsy and/or neurodevelopmental disorders""",Small indel,CX1821107,1,12,chr16-2132468-CTGCCAAGGA-G,Small indel-MNP,9
-16941020,GALNS,"""Mucopolysaccharidosis IVa""",Missense/nonsense,CM145584,1,365,chr16-88902640-C-T,Missense/nonsense-SNP,311
-16835305,AIRE,"""APECED""",Small deletion,CD971971,2,86,chr21-45712971-GC-G,Small deletion-DEL,84
-16858030,OPTN,"""Glaucoma 1, open angle""",Missense/nonsense,CM034667,1,365,chr10-13152416-G-C,Missense/nonsense-SNP,311
-52003861,CDH23,"""Deafness, non-syndromic, autosomal recessive""",Splicing,CS1610394,1,365,chr10-73450342-G-C,Splicing-SNP,45
-16889657,ABCB4,"""Low phospholipid associated cholelithiasis""",Missense/nonsense,CM1111305,1,365,chr7-87076399-C-T,Missense/nonsense-SNP,311
-16931251,FBN1,"""Marfan syndrome""",Splicing,CS098596,1,365,chr15-48779509-C-G,Splicing-SNP,45
-11416250,GFAP,"""Alexander disease""",Missense/nonsense,CM1516839,1,365,chr17-42992542-G-A,Missense/nonsense-SNP,311
-16853205,FBN1,"""Marfan syndrome""",Missense/nonsense,CM020695,1,365,chr15-48707869-A-T,Missense/nonsense-SNP,311
-16911727,POU1F1,"""Pituitary hormone deficiency""",Missense/nonsense,CM920589,3,365,chr3-87311311-G-A,Missense/nonsense-SNP,311
-16847012,PRNP,"""Dementia""",Missense/nonsense,CM000199,4,365,chr20-4680344-C-T,Missense/nonsense-SNP,311
-141290539,SMCHD1,"""Facioscapulohumeral muscular dystrophy 2""",Small insertion,CI195923,1,21,chr18-2700796-A-ATCTGG,Small insertion-DUP,21
-16874249,F8,"""Haemophilia A""",Missense/nonsense,CM080276,1,365,chrX-154221228-A-C,Missense/nonsense-SNP,311
-37382495,PROS1,"""Protein S deficiency""",Small deletion,CD163594,1,86,chr3-93624933-CA-C,Small deletion-DEL,84
-52011766,APC,"""Polyposis""",Small deletion,CD173561,1,86,chr5-112102991-AGTGCAGTCCT-A,Small deletion-DEL,84
-16884308,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM100937,2,365,chr19-11224297-A-G,Missense/nonsense-SNP,311
-16928948,SPINK5,"""Netherton syndrome""",Splicing,CS068616,2,365,chr5-147450014-G-T,Splicing-SNP,45
-37382026,DEPDC5,"""Sudden unexpected death in epilepsy""",Missense/nonsense,CM164372,2,365,chr22-32150963-G-C,Missense/nonsense-SNP,311
-58823256,DNMT3A,"""Tatton-Brown-Rahman syndrome""",Splicing,CS204979,1,365,chr2-25467407-A-C,Splicing-SNP,45
-16854091,MSH2,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM022430,6,365,chr2-47703668-C-T,Missense/nonsense-SNP,311
-13388388,PTPN11,"""Noonan syndrome""",Missense/nonsense,CM092721,3,365,chr12-112888190-A-T,Missense/nonsense-SNP,311
-15993172,CD44,"""CD44 variant""",Missense/nonsense,CM962735,1,365,chr11-35198191-G-C,Missense/nonsense-SNP,311
-16852239,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM014574,2,365,chr19-11216033-G-C,Missense/nonsense-SNP,311
-97285327,RASGRP1,"""Epstein-Barr virus associated lymphoproliferative disorder""",Small insertion,CI1814275,1,5,chr15-38786931-C-CCT,Small insertion-INS,5
-16823940,PINK1,"""Parkinson disease, autosomal recessive""",Small deletion,CD083339,1,86,chr1-20964531-GC-G,Small deletion-DEL,84
-63806499,TBXT,"""Renal agenesis""",Missense/nonsense,CM1716152,1,365,chr6-166579302-A-C,Missense/nonsense-SNP,311
-16838135,EXT1,"""Multiple exostoses""",Small insertion,CI012286,2,5,chr8-119122933-A-AG,Small insertion-INS,5
-16917632,KCNH2,"""Long QT syndrome""",Missense/nonsense,CM970802,4,365,chr7-150648650-A-G,Missense/nonsense-SNP,311
-16952719,BMPR1A,"""Multiple adenomas""",Small insertion,CI155946,1,21,chr10-88649893-G-GT,Small insertion-DUP,21
-14451476,DSG2,"""Sudden unexplained death""",Small insertion,CI1913646,1,21,chr18-29128418-C-CTG,Small insertion-DUP,21
-16855852,PRF1,"""Haemophagocytic lymphohistiocytosis, familial""",Missense/nonsense,CM030491,5,365,chr10-72358173-G-A,Missense/nonsense-SNP,311
-16816779,CTSC,"""Papillon-Lefevre syndrome""",Small deletion,CD013843,1,86,chr11-88033729-ACCATGAACATTTCT-A,Small deletion-DEL,84
-52006768,PKD1,"""Polycystic kidney disease 1""",Small deletion,CD1618403,1,86,chr16-2140913-GC-G,Small deletion-DEL,84
-112080771,DNAH5,"""Primary ciliary dyskinesia""",Missense/nonsense,CM1817074,1,365,chr5-13809281-A-G,Missense/nonsense-SNP,311
-52009743,TTN,"""Myopathy, distal""",Missense/nonsense,CM1610513,2,365,chr2-179446468-G-A,Missense/nonsense-SNP,311
-16905874,WNT7A,"""Al-Awadi-Raas-Rothschild syndrome""",Missense/nonsense,CM136986,1,365,chr3-13860677-C-A,Missense/nonsense-SNP,311
-82975713,CARD14,"""Atopic dermatitis""",Missense/nonsense,CM190712,2,365,chr17-78176209-A-C,Missense/nonsense-SNP,311
-37382800,PDE6B,"""Retinitis pigmentosa, autosomal dominant""",Missense/nonsense,CM1514179,2,365,chr4-619588-C-T,Missense/nonsense-SNP,311
-16881918,RPS24,"""Diamond-Blackfan anaemia""",Missense/nonsense,CM096404,2,365,chr10-79793660-A-G,Missense/nonsense-SNP,311
-37382414,BAP1,"""Mesothelioma""",Missense/nonsense,CM160681,1,365,chr3-52442512-T-C,Missense/nonsense-SNP,311
-141292562,KDM3B,"""Hepatoblastoma""",Small deletion,CD193976,1,86,chr5-137721845-CAG-C,Small deletion-DEL,84
-16879678,CYP1B1,"""Glaucoma, primary congenital""",Missense/nonsense,CM091789,1,365,chr2-38301687-C-T,Missense/nonsense-SNP,311
-11025021,MPL,"""Amegakaryocytic thrombocytopaenia, congenital""",Missense/nonsense,CM010063,6,365,chr1-43804340-G-A,Missense/nonsense-SNP,311
-16832017,HNF4A,"""Hypoglycaemia, hyperinsulinaemic""",Small deletion,CD131728,2,86,chr20-43052794-CT-C,Small deletion-DEL,84
-16824747,MSH6,"""Colorectal cancer, non-polyposis""",Small deletion,CD088465,1,86,chr2-48033672-CCTAAAAG-C,Small deletion-DEL,84
-152655888,SLC12A1,"""Bartter syndrome""",Small deletion,CD1920652,1,86,chr15-48580713-TG-T,Small deletion-DEL,84
-16827047,TTBK2,"""Spinocerebellar ataxia, type 11""",Small deletion,CD104909,1,86,chr15-43069330-ATC-A,Small deletion-DEL,84
-16953713,DOCK2,"""DOCK2 deficiency""",Small insertion,CI155076,1,21,chr5-169145753-A-ATG,Small insertion-DUP,21
-16929891,NPHS1,"""Nephrotic syndrome""",Splicing,CS081949,2,365,chr19-36342287-C-T,Splicing-SNP,45
-16895893,F8,"""Haemophilia A""",Missense/nonsense,CM1212705,1,365,chrX-154227816-G-A,Missense/nonsense-SNP,311
-52003689,RYR2,"""Short-coupled variant of torsade de pointes""",Missense/nonsense,CM170783,2,365,chr1-237713847-G-A,Missense/nonsense-SNP,311
-41157051,ATM,"""Breast cancer""",Missense/nonsense,CM181572,1,365,chr11-108186778-C-G,Missense/nonsense-SNP,311
-37379983,NAGS,"""N-acetylglutamate synthase deficiency""",Missense/nonsense,CM167125,1,365,chr17-42084766-T-G,Missense/nonsense-SNP,311
-16945895,NIPBL,"""Cornelia de Lange syndrome""",Missense/nonsense,CM150046,1,365,chr5-37044760-G-T,Missense/nonsense-SNP,311
-16849151,NF1,"""Neurofibromatosis 1""","Missense/nonsense,Splicing",CM003945;CS001839,5,365,chr17-29527494-C-T,"Missense/nonsense,Splicing-SNP",1
-16951429,CRB1,"""Leber congenital amaurosis""",Missense/nonsense,CM155696,1,365,chr1-197325980-T-A,Missense/nonsense-SNP,311
-52014353,BTK,"""Agammaglobulinaemia""",Missense/nonsense,CM1611444,1,365,chrX-100608213-A-G,Missense/nonsense-SNP,311
-51814645,SCN5A,"""Long QT syndrome""",Missense/nonsense,CM1814058,2,365,chr3-38601712-C-T,Missense/nonsense-SNP,311
-112077770,OTOG,"""Prelingual hearing loss without vestibular dysfunction""",Missense/nonsense,CM190713,2,365,chr11-17574667-C-G,Missense/nonsense-SNP,311
-147512628,NCF2,"""Chronic granulomatous disease""",Gross deletion,CG101607,1,12,chr1-183542953-G-<DEL>,Gross deletion-MNP,3
-16886687,ZNF513,"""Retinitis pigmentosa, autosomal recessive""",Missense/nonsense,CM105628,1,365,chr2-27601023-A-G,Missense/nonsense-SNP,311
-14728582,BCHE,"""Butyrylcholinesterase variant""",Missense/nonsense,CM080100,1,365,chr3-165547330-G-A,Missense/nonsense-SNP,311
-16863265,FANCM,"""Fanconi anaemia""",Missense/nonsense,CM053265,2,365,chr14-45642268-C-A,Missense/nonsense-SNP,311
-16928375,EFNB1,"""Craniofrontonasal syndrome""",Splicing,CS062049,2,365,chrX-68049649-C-T,Splicing-SNP,45
-16849050,MECP2,"""Rett syndrome""",Missense/nonsense,CM003766,7,365,chrX-153296881-C-T,Missense/nonsense-SNP,311
-16943051,SMN1,"""Spinal muscular atrophy""",Small deletion,CD149138,2,86,chr5-70220985-GT-G,Small deletion-DEL,84
-97286449,KLF2,"""Left ventricular obstruction""",Missense/nonsense,CM1722914,1,365,chr19-16437775-G-A,Missense/nonsense-SNP,311
-16911205,ALPL,"""Hypophosphatasia""",Missense/nonsense,CM920018,5,365,chr1-21887619-C-T,Missense/nonsense-SNP,311
-16849751,ALX4,"""Foramina parietalia permagna""",Missense/nonsense,CM010012,3,365,chr11-44296939-G-A,Missense/nonsense-SNP,311
-16932352,GALC,"""Krabbe disease""",Splicing,CS1110644,3,365,chr14-88434678-C-T,Splicing-SNP,45
-16903291,PPM1D,"""Reduced phosphatase activity""",Missense/nonsense,CM1314303,1,365,chr17-58678135-G-T,Missense/nonsense-SNP,311
-21576843,RABGGTB,"""Developmental disorder""",Missense/nonsense,CM1721104,1,365,chr1-76257975-A-G,Missense/nonsense-SNP,311
-52012168,POLH,"""Xeroderma pigmentosum, variant""",Small insertion,CI1610579,2,21,chr6-43555088-T-TA,Small insertion-DUP,21
-16939532,CLCN1,"""Myotonia congenita""",Small indel,CX942107,1,12,chr7-143027909-CG-TA,Small indel-MNP,9
+variant_id,chrom,vartype,vcf_pos,vcf_ref,vcf_alt,gene,disease,mutationtype,acc_num,n_pub,Mutation_Count,Coordinate,MutationType_VarType,MutationType_VarType_Count
+16928548,chr19,SNP,54629901,A,G,PRPF31,"""Retinitis pigmentosa""",Splicing,CS063376,3,365,chr19-54629901-A-G,Splicing-SNP,45
+16833695,chrX,DEL,133632446,GTGT,G,HPRT1,"""Hypoxanthine guanine phosphoribosyltransferase deficiency""",Small deletion,CD900290,1,86,chrX-133632446-GTGT-G,Small deletion-DEL,84
+16936088,chr9,SNP,104189763,C,G,ALDOB,"""Fructose intolerance""",Splicing,CS951343,2,365,chr9-104189763-C-G,Splicing-SNP,45
+16950748,chr13,DEL,32914982,CA,C,BRCA2,"""Breast and/or ovarian cancer""",Small deletion,CD157746,1,86,chr13-32914982-CA-C,Small deletion-DEL,84
+16826672,chr17,DEL,73831761,TC,T,UNC13D,"""Haemophagocytic lymphohistiocytosis, familial""",Small deletion,CD102162,3,86,chr17-73831761-TC-T,Small deletion-DEL,84
+16875453,chr8,SNP,145699659,G,A,FOXH1,"""Congenital heart defects""",Missense/nonsense,CM082694,1,365,chr8-145699659-G-A,Missense/nonsense-SNP,311
+87401739,chrX,DEL,85218702,CTTCT,C,CHM,"""Retinal dystrophy""",Small deletion,CD1720505,2,86,chrX-85218702-CTTCT-C,Small deletion-DEL,84
+37380052,chr17,SNP,48262933,A,C,COL1A1,"""Osteogenesis imperfecta III""",Missense/nonsense,CM1514956,2,365,chr17-48262933-A-C,Missense/nonsense-SNP,311
+59146652,chr16,DUP,1552741,C,CA,TELO2,"""You-Hoover-Fong syndrome""",Small insertion,CI1713589,1,21,chr16-1552741-C-CA,Small insertion-DUP,21
+13390838,chr15,SNP,99459340,G,A,IGF1R,"""Endometrial cancer, modified risk, in Lynch syndrome""",Missense/nonsense,CM1516932,1,365,chr15-99459340-G-A,Missense/nonsense-SNP,311
+37383745,chr6,SNP,35471525,C,G,TULP1,"""Retinitis pigmentosa""",Missense/nonsense,CM1514188,1,365,chr6-35471525-C-G,Missense/nonsense-SNP,311
+75265674,chr1,SNP,39322655,G,C,RRAGC,"""Autism spectrum disorder""",Missense/nonsense,CM1415895,1,365,chr1-39322655-G-C,Missense/nonsense-SNP,311
+16837437,chr11,DEL,31823282,CG,C,PAX6,"""Aniridia""",Small deletion,CD994017,1,86,chr11-31823282-CG-C,Small deletion-DEL,84
+87399093,chr17,SNP,68171998,T,C,KCNJ2,"""Andersen-Tawil syndrome""",Missense/nonsense,CM187277,1,365,chr17-68171998-T-C,Missense/nonsense-SNP,311
+16939493,chr8,MNP,62438580,AGGTT,CCC,ASPH,"""Facial dysmorphism, lens dislocation, anterior-segment abnormalities & Traboulsi syndrome""",Small indel,CX144720,1,12,chr8-62438580-AGGTT-CCC,Small indel-MNP,9
+10948877,chr16,SNP,56938290,G,A,SLC12A3,"""Diabetic nephropathy, association with""",Splicing,CS035601,2,365,chr16-56938290-G-A,Splicing-SNP,45
+16942841,chr2,SNP,200245116,T,C,SATB2,"""Cleft lip""",Missense/nonsense,CM058417,1,365,chr2-200245116-T-C,Missense/nonsense-SNP,311
+16850628,chr7,SNP,107302171,G,C,SLC26A4,"""Pendred syndrome""",Missense/nonsense,CM011487,4,365,chr7-107302171-G-C,Missense/nonsense-SNP,311
+141290510,chr17,SNP,78085833,A,T,GAA,"""Glycogen storage disease 2, late-onset""",Missense/nonsense,CM1822969,1,365,chr17-78085833-A-T,Missense/nonsense-SNP,311
+16910137,chr7,SNP,155255311,G,A,EN2,"""Intellectual and developmental disabilities""",Missense/nonsense,CM145094,1,365,chr7-155255311-G-A,Missense/nonsense-SNP,311
+16872307,chrX,SNP,79279564,G,A,TBX22,"""Cleft palate, non-syndromic""",Missense/nonsense,CM074592,2,365,chrX-79279564-G-A,Missense/nonsense-SNP,311
+16890569,chr11,SNP,69631095,T,C,FGF3,"""Labyrinthine aplasia, microtia & microdontia""",Missense/nonsense,CM112641,1,365,chr11-69631095-T-C,Missense/nonsense-SNP,311
+16917545,chr11,SNP,5248250,A,T,HBB,"""Beta thalassaemia""",Missense/nonsense,CM970710,1,365,chr11-5248250-A-T,Missense/nonsense-SNP,311
+11618866,chr12,MNP,102158763,TG,CA,GNPTAB,"""Mucolipidosis IIIA/B""",Small indel,CX154670,2,12,chr12-102158763-TG-CA,Small indel-MNP,9
+141289048,chr13,SNP,73349453,C,T,DIS3,"""Multiple myeloma""",Missense/nonsense,CM197501,1,365,chr13-73349453-C-T,Missense/nonsense-SNP,311
+63805148,chr17,DEL,29677270,CT,C,NF1,"""Cancer""",Small deletion,CD1718198,1,86,chr17-29677270-CT-C,Small deletion-DEL,84
+37377551,chr12,SNP,54367597,C,T,HOXC11,"""Clubfoot""",Missense/nonsense,CM165645,1,365,chr12-54367597-C-T,Missense/nonsense-SNP,311
+97288416,chr8,SNP,41577351,G,T,ANK1,"""Haemolytic anaemia""",Missense/nonsense,CM1815609,1,365,chr8-41577351-G-T,Missense/nonsense-SNP,311
+19773814,chr7,SNP,143047546,G,A,CLCN1,"""Myotonia, Thomsen""",Missense/nonsense,CM1813848,1,365,chr7-143047546-G-A,Missense/nonsense-SNP,311
+37375601,chr1,SNP,91405710,T,C,ZNF644,"""High myopia""",Missense/nonsense,CM146718,1,365,chr1-91405710-T-C,Missense/nonsense-SNP,311
+16874918,chr2,SNP,169833166,C,T,ABCB11,"""Intrahepatic cholestasis, familial progressive 2""",Missense/nonsense,CM081505,2,365,chr2-169833166-C-T,Missense/nonsense-SNP,311
+16877224,chr11,SNP,126432745,G,A,KIRREL3,"""Intellectual disability""",Missense/nonsense,CM086843,3,365,chr11-126432745-G-A,Missense/nonsense-SNP,311
+14430952,chr10,SNP,18947379,G,A,ARL5B,"""Altered expression""",Regulatory,CR142065,1,365,chr10-18947379-G-A,Regulatory-SNP,8
+16847724,chr19,SNP,1220676,T,C,STK11,"""Peutz-Jeghers syndrome""",Missense/nonsense,CM001344,1,365,chr19-1220676-T-C,Missense/nonsense-SNP,311
+27212081,chr11,SNP,117395712,C,T,DSCAML1,"""Retinal disease""",Missense/nonsense,CM180438,1,365,chr11-117395712-C-T,Missense/nonsense-SNP,311
+63804013,chr1,SNP,55509522,T,G,PCSK9,"""Low LDL cholesterol""",Missense/nonsense,CM1415677,1,365,chr1-55509522-T-G,Missense/nonsense-SNP,311
+16902404,chr20,SNP,13765878,A,G,NDUFAF5,"""Mitochondrial complex 1 deficiency""",Missense/nonsense,CM1312585,1,365,chr20-13765878-A-G,Missense/nonsense-SNP,311
+28413458,chr1,SNP,47398659,G,A,CYP4A11,"""Inactive P450 enzyme""",Missense/nonsense,CM1517380,1,365,chr1-47398659-G-A,Missense/nonsense-SNP,311
+16942925,chr1,SNP,113460046,G,A,SLC16A1,"""Monocarboxylate transporter 1 deficiency""",Missense/nonsense,CM1411337,2,365,chr1-113460046-G-A,Missense/nonsense-SNP,311
+125064957,chr11,SNP,108139170,C,G,ATM,"""Ataxia telangiectasia""",Missense/nonsense,CM1112051,1,365,chr11-108139170-C-G,Missense/nonsense-SNP,311
+10918008,chr16,SNP,4812705,A,G,ZNF500,"""Increased adult height, association with""",Missense/nonsense,CM174120,1,365,chr16-4812705-A-G,Missense/nonsense-SNP,311
+75266653,chr11,SNP,121490481,A,G,SORL1,"""Alzheimer disease, early onset""",Missense/nonsense,CM1719365,1,365,chr11-121490481-A-G,Missense/nonsense-SNP,311
+63805569,chr2,SNP,73677123,C,T,ALMS1,"""Alstrom syndrome""",Missense/nonsense,CM156214,1,365,chr2-73677123-C-T,Missense/nonsense-SNP,311
+52011722,chr5,SNP,77452087,T,C,AP3B1,"""Haemophagocytic lymphohistiocytosis, familial""",Missense/nonsense,CM173628,1,365,chr5-77452087-T-C,Missense/nonsense-SNP,311
+15742767,chr10,SNP,99211655,G,A,ZDHHC16,"""Autism spectrum disorder, association with""",Missense/nonsense,CM209824,1,365,chr10-99211655-G-A,Missense/nonsense-SNP,311
+16925514,chr17,SNP,66519068,G,C,PRKAR1A,"""Carney complex""",Splicing,CS003078,2,365,chr17-66519068-G-C,Splicing-SNP,45
+16872578,chr2,SNP,47703526,T,C,MSH2,"""Muir-Torre syndrome""",Missense/nonsense,CM074940,1,365,chr2-47703526-T-C,Missense/nonsense-SNP,311
+141291727,chr22,SNP,20049207,G,C,TANGO2,"""Epilepsy, developmental delay, neuroregression, and episodes of alternating hemiparesis""",Splicing,CS197383,1,365,chr22-20049207-G-C,Splicing-SNP,45
+58377869,chr14,SNP,24710048,T,G,TINF2,"""Global ichthyosis, abnormal nails, absent hair and abnormal pigmentation""",Missense/nonsense,CM1924702,1,365,chr14-24710048-T-G,Missense/nonsense-SNP,311
+136141568,chr11,SNP,108106503,C,G,ATM,"""Breast cancer, female""",Missense/nonsense,CM1823080,1,365,chr11-108106503-C-G,Missense/nonsense-SNP,311
+16869086,chr11,SNP,31822242,G,A,PAX6,"""Aniridia""",Missense/nonsense,CM066959,2,365,chr11-31822242-G-A,Missense/nonsense-SNP,311
+26321998,chr2,SNP,26687892,C,A,OTOF,"""Hearing loss""",Missense/nonsense,CM173979,1,365,chr2-26687892-C-A,Missense/nonsense-SNP,311
+14227457,chr2,SNP,182308352,A,G,ITGA4,"""Increased peripheral blood monocyte counts, association with""",Regulatory,CR116910,1,365,chr2-182308352-A-G,Regulatory-SNP,8
+16894619,chr12,SNP,48371110,C,A,COL2A1,"""Spondyloepiphyseal dysplasia / COL2A1-related dysplasia""",Missense/nonsense,CM1210172,1,365,chr12-48371110-C-A,Missense/nonsense-SNP,311
+16916072,chrX,SNP,100653883,C,T,GLA,"""Fabry disease""",Missense/nonsense,CM960768,4,365,chrX-100653883-C-T,Missense/nonsense-SNP,311
+16872661,chr9,SNP,35685526,G,A,TPM2,"""Muscle weakness and distal limb deformity""",Missense/nonsense,CM075040,10,365,chr9-35685526-G-A,Missense/nonsense-SNP,311
+16884604,chr12,SNP,103248940,A,T,PAH,"""Phenylketonuria""",Missense/nonsense,CM101155,1,365,chr12-103248940-A-T,Missense/nonsense-SNP,311
+16880016,chr1,SNP,197070487,G,A,ASPM,"""Primary microcephaly""",Missense/nonsense,CM092389,2,365,chr1-197070487-G-A,Missense/nonsense-SNP,311
+16847910,chrX,SNP,38268199,A,G,OTC,"""Ornithine transcarbamylase deficiency""",Missense/nonsense,CM001752,2,365,chrX-38268199-A-G,Missense/nonsense-SNP,311
+16911366,chrX,SNP,85149232,C,A,CHM,"""Choroideraemia""",Missense/nonsense,CM920195,2,365,chrX-85149232-C-A,Missense/nonsense-SNP,311
+59144067,chr1,SNP,207930979,T,A,CD46,"""Haemolytic uraemic syndrome, atypical""",Missense/nonsense,CM1516828,1,365,chr1-207930979-T-A,Missense/nonsense-SNP,311
+16896352,chr19,SNP,55450949,C,T,NLRP7,"""Hydatidiform mole""",Missense/nonsense,CM121631,1,365,chr19-55450949-C-T,Missense/nonsense-SNP,311
+59148058,chr19,SNP,15303205,C,A,NOTCH3,"""CADASIL""",Missense/nonsense,CM1714279,1,365,chr19-15303205-C-A,Missense/nonsense-SNP,311
+37382730,chr3,SNP,170906592,G,A,TNIK,"""Intellectual disability""",Missense/nonsense,CM167595,1,365,chr3-170906592-G-A,Missense/nonsense-SNP,311
+16953638,chr21,SNP,47615666,A,G,LSS,"""Cataract""",Missense/nonsense,CM157640,1,365,chr21-47615666-A-G,Missense/nonsense-SNP,311
+16885372,chr7,SNP,6026415,C,A,PMS2,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM102798,2,365,chr7-6026415-C-A,Missense/nonsense-SNP,311
+87400928,chr6,SNP,144508263,A,T,STX11,"""Increased bleeding tendency""",Missense/nonsense,CM186190,1,365,chr6-144508263-A-T,Missense/nonsense-SNP,311
+37376582,chr10,SNP,123258119,T,C,FGFR2,"""Autism spectrum disorder""",Missense/nonsense,CM1513933,1,365,chr10-123258119-T-C,Missense/nonsense-SNP,311
+63804764,chr13,MNP,32954282,GG,TA,BRCA2,"""Cancer""",Small indel,CX1716946,1,12,chr13-32954282-GG-TA,Small indel-MNP,9
+37384641,chr8,SNP,30469917,C,G,GTF2E2,"""Trichothiodystrophy""",Missense/nonsense,CM164270,1,365,chr8-30469917-C-G,Missense/nonsense-SNP,311
+52004483,chr11,SNP,64575496,T,G,MEN1,"""Multiple endocrine neoplasia 1""",Missense/nonsense,CM169270,1,365,chr11-64575496-T-G,Missense/nonsense-SNP,311
+16336431,chr17,SNP,1783909,C,T,RPA1,"""Lynch syndrome""",Missense/nonsense,CM1913246,1,365,chr17-1783909-C-T,Missense/nonsense-SNP,311
+37379973,chr17,SNP,41276033,C,A,BRCA1,"""Breast cancer""",Splicing,CS1515539,5,365,chr17-41276033-C-A,Splicing-SNP,45
+37385147,chr9,SNP,136298813,T,G,ADAMTS13,"""Thrombotic thrombocytopaenic purpura""",Missense/nonsense,CM163486,1,365,chr9-136298813-T-G,Missense/nonsense-SNP,311
+16893029,chr12,SNP,58159196,A,G,CYP27B1,"""Rickets, vitamin D dependent, type I""",Missense/nonsense,CM117757,1,365,chr12-58159196-A-G,Missense/nonsense-SNP,311
+59150253,chr6,SNP,31931206,C,T,SKIV2L,"""Trichohepatoenteric syndrome""",Missense/nonsense,CM1715602,1,365,chr6-31931206-C-T,Missense/nonsense-SNP,311
+59143751,chr1,SNP,32790137,C,T,HDAC1,"""Autism spectrum disorder""",Missense/nonsense,CM1713333,3,365,chr1-32790137-C-T,Missense/nonsense-SNP,311
+16943810,chr12,SNP,106857368,G,A,POLR3B,"""Hypomyelination, hypodontia & hypogonadotropic hypogonadism""",Missense/nonsense,CM1411461,1,365,chr12-106857368-G-A,Missense/nonsense-SNP,311
+12800103,chr1,SNP,204518499,C,G,MDM4,"""Atrioventricular septum defect, partial""",Missense/nonsense,CM161428,1,365,chr1-204518499-C-G,Missense/nonsense-SNP,311
+18333571,chr11,SNP,120998585,C,A,TECTA,"""Hearing loss, non-syndromic""",Missense/nonsense,CM1515081,2,365,chr11-120998585-C-A,Missense/nonsense-SNP,311
+52007545,chr17,SNP,10441071,C,A,MYH2,"""Myopathy with external ophthalmoplegia""",Missense/nonsense,CM170856,1,365,chr17-10441071-C-A,Missense/nonsense-SNP,311
+16836066,chr17,DEL,48269202,CA,C,COL1A1,"""Osteogenesis imperfecta I""",Small deletion,CD982547,2,86,chr17-48269202-CA-C,Small deletion-DEL,84
+16841762,chr14,DUP,88895738,T,TA,SPATA7,"""Leber congenital amaurosis""",Small insertion,CI091505,1,21,chr14-88895738-T-TA,Small insertion-DUP,21
+16894969,chr16,SNP,2152599,A,C,PKD1,"""Polycystic kidney disease 1""",Missense/nonsense,CM1210921,1,365,chr16-2152599-A-C,Missense/nonsense-SNP,311
+16857991,chr1,SNP,201328348,C,T,TNNT2,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM034584,8,365,chr1-201328348-C-T,Missense/nonsense-SNP,311
+16941922,chr9,INS,75445548,A,ACT,TMC1,"""Hearing loss""",Small insertion,CI1413476,1,5,chr9-75445548-A-ACT,Small insertion-INS,5
+14346030,chr19,SNP,51727962,C,A,CD33,"""Alzheimer disease, increased risk, association with""",Regulatory,CR126393,10,365,chr19-51727962-C-A,Regulatory-SNP,8
+37381391,chr2,DEL,179613187,TC,T,ttnnovex3,"""Cardiomyopathy, dilated""",Small deletion,CD1514647,1,86,chr2-179613187-TC-T,Small deletion-DEL,84
+16910668,chrX,SNP,154156969,T,A,F8,"""Haemophilia A""",Missense/nonsense,CM900092,5,365,chrX-154156969-T-A,Missense/nonsense-SNP,311
+16838167,chr7,DUP,156802828,G,GGCGGTCGGCGGGC,MNX1,"""Currarino syndrome""",Small insertion,CI012566,1,21,chr7-156802828-G-GGCGGTCGGCGGGC,Small insertion-DUP,21
+16815930,chr17,DEL,41246142,GC,G,BRCA1,"""Breast cancer""",Small deletion,CD004162,2,86,chr17-41246142-GC-G,Small deletion-DEL,84
+16889507,chr10,SNP,90773119,T,A,FAS,"""Autoimmune lymphoproliferative syndrome""",Missense/nonsense,CM1110971,1,365,chr10-90773119-T-A,Missense/nonsense-SNP,311
+16911908,chrX,SNP,66905930,G,A,AR,"""Androgen insensitivity syndrome""",Missense/nonsense,CM930035,2,365,chrX-66905930-G-A,Missense/nonsense-SNP,311
+16926909,chr19,SNP,12759218,T,C,MAN2B1,"""Mannosidosis, alpha""",Splicing,CS033946,2,365,chr19-12759218-T-C,Splicing-SNP,45
+16848624,chr17,SNP,40693209,G,T,NAGLU,"""Sanfilippo syndrome B""",Missense/nonsense,CM003007,3,365,chr17-40693209-G-T,Missense/nonsense-SNP,311
+16857233,chr1,SNP,237801780,G,A,RYR2,"""Ventricular tachycardia, polymorphic""",Missense/nonsense,CM033016,2,365,chr1-237801780-G-A,Missense/nonsense-SNP,311
+22204838,chr2,SNP,166894450,G,A,SCN1A,"""Epilepsy and/or neurodevelopmental disorders""",Missense/nonsense,CM1817957,1,365,chr2-166894450-G-A,Missense/nonsense-SNP,311
+16834344,chr6,DEL,42689871,CCAT,C,PRPH2,"""Pattern/cone-rod dystrophy""",Small deletion,CD941787,1,86,chr6-42689871-CCAT-C,Small deletion-DEL,84
+16906898,chr2,SNP,110881417,G,T,NPHP1,"""Nephronophthisis-related ciliopathy""",Missense/nonsense,CM139033,1,365,chr2-110881417-G-T,Missense/nonsense-SNP,311
+16942598,chr11,SNP,5248272,A,T,HBB,"""Beta thalassaemia""",Regulatory,CR149478,1,365,chr11-5248272-A-T,Regulatory-SNP,8
+16821244,chr2,DEL,203332350,GCA,G,BMPR2,"""Pulmonary hypertension, primary""",Small deletion,CD061374,1,86,chr2-203332350-GCA-G,Small deletion-DEL,84
+16878439,chr12,SNP,57962802,G,C,KIF5A,"""Spastic paraplegia""",Missense/nonsense,CM090638,1,365,chr12-57962802-G-C,Missense/nonsense-SNP,311
+13241048,chr7,SNP,21789835,G,A,DNAH11,"""Primary ciliary dyskinesia""",Splicing,CS1825685,1,365,chr7-21789835-G-A,Splicing-SNP,45
+141291091,chr2,DUP,48025816,C,CA,MSH6,"""Colorectal cancer""",Small insertion,CI198779,1,21,chr2-48025816-C-CA,Small insertion-DUP,21
+16869919,chrX,SNP,154221222,A,C,F8,"""Haemophilia A""",Missense/nonsense,CM070107,2,365,chrX-154221222-A-C,Missense/nonsense-SNP,311
+97286618,chr2,SNP,32656133,C,T,BIRC6,"""Autism spectrum disorder""",Missense/nonsense,CM1722204,1,365,chr2-32656133-C-T,Missense/nonsense-SNP,311
+16944525,chr1,DEL,215940090,AG,A,USH2A,"""Usher syndrome 2""",Small deletion,CD149994,1,86,chr1-215940090-AG-A,Small deletion-DEL,84
+16903705,chr1,SNP,209974676,C,T,IRF6,"""Van der Woude syndrome""",Missense/nonsense,CM132283,1,365,chr1-209974676-C-T,Missense/nonsense-SNP,311
+112079804,chr2,SNP,166231235,T,G,SCN2A,"""Epilepsy and/or neurodevelopmental disorders""",Missense/nonsense,CM1820462,1,365,chr2-166231235-T-G,Missense/nonsense-SNP,311
+86225834,chr1,SNP,215963609,C,T,USH2A,"""Retinitis pigmentosa / rod-cone dystrophy""",Missense/nonsense,CM1825922,1,365,chr1-215963609-C-T,Missense/nonsense-SNP,311
+10883247,chr1,SNP,206944645,T,C,IL10,"""Behçet disease, association with""",Splicing,CS104719,2,365,chr1-206944645-T-C,Splicing-SNP,45
+87397110,chr10,DEL,89720702,GA,G,PTEN,"""Medulloblastoma""",Small deletion,CD188212,1,86,chr10-89720702-GA-G,Small deletion-DEL,84
+17453416,chr17,DEL,41196352,CACA,C,BRCA1,"""Breast cancer""",Small deletion,CD123597,2,86,chr17-41196352-CACA-C,Small deletion-DEL,84
+16836041,chrX,DEL,100629528,ATCTG,A,BTK,"""Agammaglobulinaemia""",Small deletion,CD982514,1,86,chrX-100629528-ATCTG-A,Small deletion-DEL,84
+75593714,chr17,SNP,78082294,C,G,GAA,"""Glycogen storage disease 2""",Missense/nonsense,CM203639,1,365,chr17-78082294-C-G,Missense/nonsense-SNP,311
+37375711,chr1,DUP,100340351,C,CT,AGL,"""Glycogen storage disease 3""",Small insertion,CI168984,1,21,chr1-100340351-C-CT,Small insertion-DUP,21
+13854048,chr6,SNP,47512354,G,A,CD2AP,"""Nephrotic syndrome, steroid resistant""",Missense/nonsense,CM1817407,1,365,chr6-47512354-G-A,Missense/nonsense-SNP,311
+52009877,chr2,SNP,191840560,C,G,STAT1,"""Immunodeficiency, primary""",Missense/nonsense,CM171577,2,365,chr2-191840560-C-G,Missense/nonsense-SNP,311
+16945427,chr1,DEL,43392778,TC,T,SLC2A1,"""Intellectual disability""",Small deletion,CD1413229,1,86,chr1-43392778-TC-T,Small deletion-DEL,84
+16835882,chr17,DEL,42327879,AG,A,SLC4A1,"""Spherocytosis""",Small deletion,CD973100,1,86,chr17-42327879-AG-A,Small deletion-DEL,84
+59149447,chr3,DEL,49060538,CTG,C,NDUFAF3,"""Abnormality of the mitochondrion""",Small deletion,CD1619023,1,86,chr3-49060538-CTG-C,Small deletion-DEL,84
+59144375,chr10,SNP,82034886,C,T,MAT1A,"""Methionine adenosyltransferase I/III deficiency, autosomal dominant""",Missense/nonsense,CM1619236,1,365,chr10-82034886-C-T,Missense/nonsense-SNP,311
+32141906,chrX,SNP,19377757,A,C,PDHA1,"""Multiple sclerosis""",Missense/nonsense,CM175640,1,365,chrX-19377757-A-C,Missense/nonsense-SNP,311
+16934535,chr1,SNP,66085610,G,T,LEPR,"""Obesity, early-onset""",Splicing,CS1313241,1,365,chr1-66085610-G-T,Splicing-SNP,45
+52004529,chr11,SNP,67376979,G,T,NDUFV1,"""Leigh syndrome, and complex I deficiency""",Missense/nonsense,CM169985,1,365,chr11-67376979-G-T,Missense/nonsense-SNP,311
+16848079,chr1,SNP,43818439,C,T,MPL,"""Amegakaryocytic thrombocytopaenia, congenital""",Missense/nonsense,CM002062,3,365,chr1-43818439-C-T,Missense/nonsense-SNP,311
+16908291,chr4,SNP,47954602,G,T,CNGA1,"""Retinitis pigmentosa""",Missense/nonsense,CM141755,1,365,chr4-47954602-G-T,Missense/nonsense-SNP,311
+16915285,chrX,SNP,66937359,T,C,AR,"""Androgen insensitivity syndrome""",Missense/nonsense,CM952080,1,365,chrX-66937359-T-C,Missense/nonsense-SNP,311
+16863642,chr5,SNP,60368963,C,T,NDUFAF2,"""Mitochondrial complex I deficiency""",Missense/nonsense,CM053986,4,365,chr5-60368963-C-T,Missense/nonsense-SNP,311
+87401373,chr9,INS,98231104,A,AT,PTCH1,"""Nevoid basal cell carcinoma syndrome""",Small insertion,CI188949,1,5,chr9-98231104-A-AT,Small insertion-INS,5
+16821976,chrX,DEL,152959820,CTGTT,C,SLC6A8,"""Creatine deficiency""",Small deletion,CD065792,1,86,chrX-152959820-CTGTT-C,Small deletion-DEL,84
+16824425,chr2,DEL,172291136,GC,G,DCAF17,"""Woodhouse-Sakati syndrome""",Small deletion,CD086179,1,86,chr2-172291136-GC-G,Small deletion-DEL,84
+16914844,chr12,SNP,103249039,A,G,PAH,"""Phenylketonuria""",Missense/nonsense,CM950887,1,365,chr12-103249039-A-G,Missense/nonsense-SNP,311
+37384681,chr8,DEL,41794895,AT,A,KAT6A,"""Neurodevelopmental disorder""",Small deletion,CD166939,2,86,chr8-41794895-AT-A,Small deletion-DEL,84
+16947530,chr16,SNP,50745510,A,C,NOD2,"""Blau syndrome""",Missense/nonsense,CM1412976,1,365,chr16-50745510-A-C,Missense/nonsense-SNP,311
+16826669,chr14,DEL,50768782,AGAG,A,L2HGDH,"""L-2-Hydroxyglutaric aciduria""",Small deletion,CD102147,1,86,chr14-50768782-AGAG-A,Small deletion-DEL,84
+16887764,chr19,SNP,11231152,C,G,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM108012,2,365,chr19-11231152-C-G,Missense/nonsense-SNP,311
+37382884,chr4,SNP,57777672,A,T,REST,"""Wilms tumour""",Missense/nonsense,CM1513324,1,365,chr4-57777672-A-T,Missense/nonsense-SNP,311
+16889677,chr8,SNP,77896129,G,A,PEX2,"""Zellweger syndrome""",Missense/nonsense,CM111136,1,365,chr8-77896129-G-A,Missense/nonsense-SNP,311
+130135953,chr11,SNP,108137942,A,G,ATM,"""Breast cancer, male""",Missense/nonsense,CM1822756,1,365,chr11-108137942-A-G,Missense/nonsense-SNP,311
+12748485,chr9,DEL,140094928,AGCCGCGCCCCC,A,TPRN,"""Deafness, nonsyndromic""",Small deletion,CD101480,2,86,chr9-140094928-AGCCGCGCCCCC-A,Small deletion-DEL,84
+16952154,chr10,SNP,90708570,G,A,ACTA2,"""Thoracic aortic aneurysms and dissections""",Missense/nonsense,CM158137,1,365,chr10-90708570-G-A,Missense/nonsense-SNP,311
+16910399,chr11,SNP,5247862,G,T,HBB,"""Haemoglobin variant""",Missense/nonsense,CM870036,2,365,chr11-5247862-G-T,Missense/nonsense-SNP,311
+16873390,chr1,SNP,179544923,C,A,NPHS2,"""Nephrotic syndrome""",Missense/nonsense,CM077313,1,365,chr1-179544923-C-A,Missense/nonsense-SNP,311
+87400155,chr3,SNP,5024745,G,A,BHLHE40,"""Mesial temporal lobe epilepsy with hippocampal sclerosis""",Missense/nonsense,CM189517,1,365,chr3-5024745-G-A,Missense/nonsense-SNP,311
+16824453,chr13,DEL,48947572,AT,A,RB1,"""Retinoblastoma""",Small deletion,CD086243,1,86,chr13-48947572-AT-A,Small deletion-DEL,84
+10983955,chr20,SNP,61463522,C,A,COL9A3,"""Pseudoachondroplasia""",Missense/nonsense,CM108144,3,365,chr20-61463522-C-A,Missense/nonsense-SNP,311
+16854811,chrX,SNP,100662764,C,A,GLA,"""Fabry disease""",Missense/nonsense,CM023784,3,365,chrX-100662764-C-A,Missense/nonsense-SNP,311
+141288229,chr11,DEL,108164205,GTAATAAAAATTT,G,ATM,"""Ovarian cancer""",Small deletion,CD1825207,1,86,chr11-108164205-GTAATAAAAATTT-G,Small deletion-DEL,84
+16923529,chrX,SNP,43809094,G,T,NDP,"""Norrie disease""",Missense/nonsense,CM994224,1,365,chrX-43809094-G-T,Missense/nonsense-SNP,311
+16829744,chr16,DEL,2162922,TGTA,T,PKD1,"""Polycystic kidney disease 1""",Small deletion,CD1210734,1,86,chr16-2162922-TGTA-T,Small deletion-DEL,84
+59147251,chr17,SNP,15162409,A,G,PMP22,"""Neuropathy, liability to pressure palsies""",Splicing,CS1714941,1,365,chr17-15162409-A-G,Splicing-SNP,45
+59144401,chr10,DEL,89692915,AATGAT,A,PTEN,"""Intellectual disability with overgrowth""",Small deletion,CD176423,1,86,chr10-89692915-AATGAT-A,Small deletion-DEL,84
+16855058,chrX,SNP,100653022,G,T,GLA,"""Fabry disease""",Missense/nonsense,CM024296,2,365,chrX-100653022-G-T,Missense/nonsense-SNP,311
+147515375,chr2,SNP,5833044,G,A,SOX11,"""Craniosynostosis""",Missense/nonsense,CM1913677,1,365,chr2-5833044-G-A,Missense/nonsense-SNP,311
+59150272,chr6,SNP,35427507,T,C,FANCE,"""Head and neck squamous cell carcinoma""",Missense/nonsense,CM178694,1,365,chr6-35427507-T-C,Missense/nonsense-SNP,311
+152657662,chr3,SNP,24169101,C,A,THRB,"""Thyroid hormone resistance modifier""",Missense/nonsense,CM1917403,1,365,chr3-24169101-C-A,Missense/nonsense-SNP,311
+11010628,chr18,SNP,43419003,T,C,SIGLEC15,"""Recurrent vulvovaginal candidiasis, association with""",Missense/nonsense,CM1910659,1,365,chr18-43419003-T-C,Missense/nonsense-SNP,311
+37381754,chr20,SNP,10389452,C,T,MKKS,"""Nephronophthisis-related ciliopathy""",Splicing,CS163335,1,365,chr20-10389452-C-T,Splicing-SNP,45
+97287110,chr21,SNP,34954363,T,C,DONSON,"""Microcephalic dwarfism""",Splicing,CS1812949,1,365,chr21-34954363-T-C,Splicing-SNP,45
+87401361,chr9,DEL,98221975,CG,C,PTCH1,"""Nevoid basal cell carcinoma syndrome""",Small deletion,CD188952,1,86,chr9-98221975-CG-C,Small deletion-DEL,84
+37381379,chr2,DUP,179582265,T,TG,ttnic,"""Muscular dystrophy""",Small insertion,CI168499,2,21,chr2-179582265-T-TG,Small insertion-DUP,21
+97288506,chr8,SNP,94797492,C,G,TMEM67,"""Congenital heart disease""",Missense/nonsense,CM1722829,1,365,chr8-94797492-C-G,Missense/nonsense-SNP,311
+147518651,chrX,MNP,153295969,T,<DEL>,MECP2,"""Rett syndrome""",Gross deletion,CG024944,1,12,chrX-153295969-T-<DEL>,Gross deletion-MNP,3
+16921922,chr11,SNP,118959812,G,A,HMBS,"""Porphyria, acute intermittent""",Missense/nonsense,CM990734,1,365,chr11-118959812-G-A,Missense/nonsense-SNP,311
+16864231,chr7,SNP,150649790,T,G,KCNH2,"""Long QT syndrome""",Missense/nonsense,CM055317,2,365,chr7-150649790-T-G,Missense/nonsense-SNP,311
+16901418,chr11,SNP,17553006,C,T,ush1cpst,"""Deafness""",Missense/nonsense,CM1310702,2,365,chr11-17553006-C-T,Missense/nonsense-SNP,311
+16936413,chr2,SNP,47657081,G,C,MSH2,"""Colorectal cancer, non-polyposis""",Splicing,CS961625,1,365,chr2-47657081-G-C,Splicing-SNP,45
+16857994,chr15,SNP,63353090,T,C,TPM1,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM034585,5,365,chr15-63353090-T-C,Missense/nonsense-SNP,311
+37376706,chr11,SNP,17428607,C,T,ABCC8,"""Hyperinsulinism""",Missense/nonsense,CM1512981,1,365,chr11-17428607-C-T,Missense/nonsense-SNP,311
+112081228,chr7,SNP,128489558,C,T,FLNC,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM1822381,1,365,chr7-128489558-C-T,Missense/nonsense-SNP,311
+32675152,chr19,SNP,6586078,G,A,CD70,"""Combined immunodeficiency & Epstein-Barr virus induced B cell malignancy""",Missense/nonsense,CM170786,1,365,chr19-6586078-G-A,Missense/nonsense-SNP,311
+16926043,chr19,SNP,54626942,A,G,PRPF31,"""Retinitis pigmentosa""",Splicing,CS014614,5,365,chr19-54626942-A-G,Splicing-SNP,45
+39744262,chr11,SNP,6637563,G,T,TPP1,"""Pediatric movement disorder""",Missense/nonsense,CM1816402,1,365,chr11-6637563-G-T,Missense/nonsense-SNP,311
+16902471,chr8,SNP,42286359,C,T,SLC20A2,"""Basal ganglia calcification, idiopathic""",Missense/nonsense,CM1312727,2,365,chr8-42286359-C-T,Missense/nonsense-SNP,311
+147515719,chr2,SNP,135095857,C,G,MGAT5,"""Henoch-Schonlein purpura""",Missense/nonsense,CM1915644,1,365,chr2-135095857-C-G,Missense/nonsense-SNP,311
+37380001,chr17,DEL,42929790,AAGAC,A,EFTUD2,"""Mandibulofacial dysostosis with microcephaly""",Small deletion,CD162418,2,86,chr17-42929790-AAGAC-A,Small deletion-DEL,84
+16840307,chr2,DUP,32366990,T,TATA,SPAST,"""Spastic paraplegia, autosomal dominant""",Small insertion,CI063725,1,21,chr2-32366990-T-TATA,Small insertion-DUP,21
+16919442,chrX,SNP,138644003,A,G,F9,"""Haemophilia B""",Missense/nonsense,CM980722,3,365,chrX-138644003-A-G,Missense/nonsense-SNP,311
+37379396,chr17,DEL,7906503,GC,G,GUCY2D,"""Leber congenital amaurosis""",Small deletion,CD167727,2,86,chr17-7906503-GC-G,Small deletion-DEL,84
+16861800,chr13,SNP,48934234,C,A,RB1,"""Retinoblastoma""",Missense/nonsense,CM050312,2,365,chr13-48934234-C-A,Missense/nonsense-SNP,311
+16919491,chr6,SNP,1610925,G,C,FOXC1,"""Axenfeld-Rieger anomaly""",Missense/nonsense,CM980764,2,365,chr6-1610925-G-C,Missense/nonsense-SNP,311
+16826970,chr1,DEL,100382227,CT,C,AGL,"""Glycogen storage disease 3""",Small deletion,CD104357,1,86,chr1-100382227-CT-C,Small deletion-DEL,84
+112078420,chr13,SNP,52511496,G,C,ATP7B,"""Wilson disease""",Missense/nonsense,CM1821186,1,365,chr13-52511496-G-C,Missense/nonsense-SNP,311
+16914155,chr17,SNP,41245861,G,A,BRCA1,"""Breast cancer""",Missense/nonsense,CM950144,24,365,chr17-41245861-G-A,Missense/nonsense-SNP,311
+16875720,chr1,SNP,247588819,G,A,NLRP3,"""Cryopyrin-associated periodic syndrome""",Missense/nonsense,CM082971,2,365,chr1-247588819-G-A,Missense/nonsense-SNP,311
+16927715,chrX,SNP,100653770,T,C,GLA,"""Fabry disease""",Splicing,CS051255,1,365,chrX-100653770-T-C,Splicing-SNP,45
+16891094,chrX,SNP,70443563,C,G,GJB1,"""Charcot-Marie-Tooth disease, X-linked, type 1""",Missense/nonsense,CM113594,1,365,chrX-70443563-C-G,Missense/nonsense-SNP,311
+87398874,chr17,SNP,41245363,C,A,BRCA1,"""Breast and/or ovarian cancer""",Missense/nonsense,CM186293,1,365,chr17-41245363-C-A,Missense/nonsense-SNP,311
+152657267,chr2,DEL,179477530,TG,T,ttnic,"""Cardiomyopathy""",Small deletion,CD1920707,1,86,chr2-179477530-TG-T,Small deletion-DEL,84
+16890859,chr11,SNP,2182053,T,C,INS,"""Diabetes, neonatal""",Missense/nonsense,CM113239,1,365,chr11-2182053-T-C,Missense/nonsense-SNP,311
+37380937,chr2,SNP,58453921,T,C,FANCL,"""Fanconi anaemia""",Splicing,CS164619,1,365,chr2-58453921-T-C,Splicing-SNP,45
+16845828,chr7,DUP,117232654,G,GT,CFTR,"""Cystic fibrosis""",Small insertion,CI962239,1,21,chr7-117232654-G-GT,Small insertion-DUP,21
+16821903,chr8,DEL,118849390,CG,C,EXT1,"""Multiple exostoses""",Small deletion,CD065713,1,86,chr8-118849390-CG-C,Small deletion-DEL,84
+95346683,chr15,SNP,48720623,C,T,FBN1,"""Marfan syndrome""",Missense/nonsense,CM1920239,1,365,chr15-48720623-C-T,Missense/nonsense-SNP,311
+14264087,chr7,SNP,31003423,C,T,GHRHR,"""Breast cancer, decreased risk, association with""",Regulatory,CR066667,1,365,chr7-31003423-C-T,Regulatory-SNP,8
+112080008,chr2,DUP,179433713,A,AG,ttnic,"""Atrial fibrillation, early-onset""",Small insertion,CI1819133,1,21,chr2-179433713-A-AG,Small insertion-DUP,21
+97284631,chr12,SNP,13724778,G,A,GRIN2B,"""Autism spectrum disorder""",Missense/nonsense,CM1417516,2,365,chr12-13724778-G-A,Missense/nonsense-SNP,311
+16931259,chrX,SNP,32456357,C,T,DMD,"""Muscular dystrophy, Duchenne""",Splicing,CS098754,2,365,chrX-32456357-C-T,Splicing-SNP,45
+112079267,chr17,SNP,41244333,A,G,BRCA1,"""Breast cancer, male""",Missense/nonsense,CM1818516,1,365,chr17-41244333-A-G,Missense/nonsense-SNP,311
+92336821,chr2,SNP,203329666,G,A,BMPR2,"""Pulmonary arterial hypertension""",Missense/nonsense,CM1823640,1,365,chr2-203329666-G-A,Missense/nonsense-SNP,311
+16871169,chr10,SNP,31810420,C,G,ZEB1,"""Posterior polymorphous corneal dystrophy""",Missense/nonsense,CM072124,4,365,chr10-31810420-C-G,Missense/nonsense-SNP,311
+13198910,chr14,SNP,94849388,G,A,SERPINA1,"""Alpha-1-antitrypsin deficiency""",Missense/nonsense,CM890095,9,365,chr14-94849388-G-A,Missense/nonsense-SNP,311
+16836696,chr13,DEL,49030464,CT,C,RB1,"""Retinoblastoma""",Small deletion,CD984658,1,86,chr13-49030464-CT-C,Small deletion-DEL,84
+14409876,chr3,SNP,123422817,G,C,MYLK,"""Asthma, association with""",Splicing,CS078536,1,365,chr3-123422817-G-C,Splicing-SNP,45
+16917769,chr3,SNP,37038192,G,A,MLH1,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM970953,26,365,chr3-37038192-G-A,Missense/nonsense-SNP,311
+16921725,chrX,SNP,154221296,G,C,F8,"""Haemophilia A""",Missense/nonsense,CM990530,2,365,chrX-154221296-G-C,Missense/nonsense-SNP,311
+16903002,chr13,SNP,23913448,A,G,SACS,"""Spastic ataxia, Charlevoix-Saguenay""",Missense/nonsense,CM131375,1,365,chr13-23913448-A-G,Missense/nonsense-SNP,311
+110124736,chr16,SNP,68862145,G,A,CDH1,"""Breast cancer, female""",Missense/nonsense,CM1820618,1,365,chr16-68862145-G-A,Missense/nonsense-SNP,311
+16828115,chrX,DEL,22237178,GTAATTGTCGGAC,G,PHEX,"""Rickets, hypophosphataemic""",Small deletion,CD111063,2,86,chrX-22237178-GTAATTGTCGGAC-G,Small deletion-DEL,84
+152655546,chr12,DEL,49445619,GGA,G,KMT2D,"""Hypoplastic left heart syndrome""",Small deletion,CD1920530,1,86,chr12-49445619-GGA-G,Small deletion-DEL,84
+152656341,chr16,SNP,57282504,T,G,ARL2BP,"""Retinitis pigmentosa""",Missense/nonsense,CM1919544,1,365,chr16-57282504-T-G,Missense/nonsense-SNP,311
+16941420,chr19,SNP,1221951,T,G,STK11,"""Peutz-Jeghers syndrome""",Missense/nonsense,CM147059,1,365,chr19-1221951-T-G,Missense/nonsense-SNP,311
+16822019,chrX,DEL,100652899,GA,G,GLA,"""Fabry disease""",Small deletion,CD066362,1,86,chrX-100652899-GA-G,Small deletion-DEL,84
+87398392,chr16,SNP,1573854,T,A,IFT140,"""Mainzer-Saldino syndrome""",Missense/nonsense,CM187900,1,365,chr16-1573854-T-A,Missense/nonsense-SNP,311
+16932628,chr4,SNP,997263,G,C,IDUA,"""Hurler syndrome""",Splicing,CS113580,2,365,chr4-997263-G-C,Splicing-SNP,45
+16852689,chrX,SNP,37663139,C,A,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM015931,1,365,chrX-37663139-C-A,Missense/nonsense-SNP,311
+16923952,chr2,MNP,32370040,GC,TA,SPAST,"""Spastic paraplegia, autosomal dominant""",Small indel,CP025184,1,12,chr2-32370040-GC-TA,Small indel-MNP,9
+59555092,chrX,SNP,53442088,A,C,SMC1A,"""Cohesinopathy""",Missense/nonsense,CM1812444,1,365,chrX-53442088-A-C,Missense/nonsense-SNP,311
+52682381,chr12,SNP,132414679,A,G,PUS1,"""Myopathy-lactic acidosis-sideroblastic anaemia syndrome""",Missense/nonsense,CM1713707,1,365,chr12-132414679-A-G,Missense/nonsense-SNP,311
+16885202,chr13,SNP,20717298,C,T,GJA3,"""Congenital cataract""",Missense/nonsense,CM102458,3,365,chr13-20717298-C-T,Missense/nonsense-SNP,311
+87398950,chr17,SNP,42335124,G,A,SLC4A1,"""Spherocytosis""",Missense/nonsense,CM187428,1,365,chr17-42335124-G-A,Missense/nonsense-SNP,311
+147518088,chrX,MNP,31645789,C,<DEL>,DMD,"""Muscular dystrophy, Duchenne""",Gross deletion,CG112363,1,12,chrX-31645789-C-<DEL>,Gross deletion-MNP,3
+52010106,chr20,DEL,10624464,TC,T,JAG1,"""Alagille syndrome""",Small deletion,CD1613965,1,86,chr20-10624464-TC-T,Small deletion-DEL,84
+14935874,chr2,SNP,179522861,C,T,ttnic,"""Cardiomyopathy, arrhythmogenic""",Missense/nonsense,CM197666,1,365,chr2-179522861-C-T,Missense/nonsense-SNP,311
+16832033,chrX,DEL,55035771,GCTT,G,ALAS2,"""Sideroblastic anaemia""",Small deletion,CD131879,1,86,chrX-55035771-GCTT-G,Small deletion-DEL,84
+16869748,chrX,SNP,133627584,T,G,HPRT1,"""Lesch-Nyhan syndrome""",Missense/nonsense,CM068580,1,365,chrX-133627584-T-G,Missense/nonsense-SNP,311
+16948090,chr17,SNP,79801932,T,C,P4HB,"""Amyotrophic lateral sclerosis, predisposition to""",Missense/nonsense,CM153932,1,365,chr17-79801932-T-C,Missense/nonsense-SNP,311
+16862912,chr5,SNP,176678798,G,T,NSD1,"""Sotos syndrome""",Missense/nonsense,CM052303,2,365,chr5-176678798-G-T,Missense/nonsense-SNP,311
+16880644,chr9,SNP,137711980,G,A,COL5A1,"""Ehlers-Danlos syndrome""",Missense/nonsense,CM093855,1,365,chr9-137711980-G-A,Missense/nonsense-SNP,311
+16913269,chrX,SNP,138644076,G,T,F9,"""Haemophilia B""",Missense/nonsense,CM940696,4,365,chrX-138644076-G-T,Missense/nonsense-SNP,311
+16888756,chr2,SNP,206992622,T,C,NDUFS1,"""Complex 1 deficiency""",Missense/nonsense,CM110315,1,365,chr2-206992622-T-C,Missense/nonsense-SNP,311
+16914174,chrX,SNP,100614298,G,A,BTK,"""Agammaglobulinaemia""",Missense/nonsense,CM950162,2,365,chrX-100614298-G-A,Missense/nonsense-SNP,311
+33651533,chr1,SNP,206647734,G,A,IKBKE,"""Autoimmune lymphoproliferative syndrome with autoimmune cytopaenias, modifier""",Missense/nonsense,CM184401,1,365,chr1-206647734-G-A,Missense/nonsense-SNP,311
+52008059,chr17,DUP,59926556,G,GT,BRIP1,"""Breast cancer""",Small insertion,CI1516477,2,21,chr17-59926556-G-GT,Small insertion-DUP,21
+16885135,chr11,SNP,6415506,A,G,SMPD1,"""Niemann-Pick disease""",Missense/nonsense,CM102286,2,365,chr11-6415506-A-G,Missense/nonsense-SNP,311
+16920972,chr17,SNP,41245489,G,A,BRCA1,"""Breast and/or ovarian cancer""",Missense/nonsense,CM983853,5,365,chr17-41245489-G-A,Missense/nonsense-SNP,311
+52011490,chr4,SNP,155529705,C,T,FGG,"""Hypofibrinogenaemia""",Missense/nonsense,CM1613943,1,365,chr4-155529705-C-T,Missense/nonsense-SNP,311
+52010352,chr21,SNP,47957426,G,A,DIP2A,"""Autism spectrum disorder""",Missense/nonsense,CM1617448,3,365,chr21-47957426-G-A,Missense/nonsense-SNP,311
+52009935,chr2,DEL,208993028,GC,G,CRYGC,"""Cataract, congenital""",Small deletion,CD173053,1,86,chr2-208993028-GC-G,Small deletion-DEL,84
+16951518,chr2,SNP,189854850,G,C,COL3A1,"""Thoracic aortic aneurysms and dissections""",Missense/nonsense,CM158138,2,365,chr2-189854850-G-C,Missense/nonsense-SNP,311
+16894953,chr16,SNP,2159878,C,A,PKD1,"""Polycystic kidney disease 1""",Missense/nonsense,CM1210874,1,365,chr16-2159878-C-A,Missense/nonsense-SNP,311
+16909277,chr17,SNP,29557864,A,G,NF1,"""Neurofibromatosis 1""",Missense/nonsense,CM143359,1,365,chr17-29557864-A-G,Missense/nonsense-SNP,311
+16940146,chr19,SNP,33324177,A,G,SLC7A9,"""Cystinuria""",Missense/nonsense,HM070028,2,365,chr19-33324177-A-G,Missense/nonsense-SNP,311
+11725844,chr5,SNP,112176006,T,C,APC,"""Colorectal adenoma""",Missense/nonsense,CM080050,2,365,chr5-112176006-T-C,Missense/nonsense-SNP,311
+16837248,chr9,DEL,129377788,CCCTCACCA,C,LMX1B,"""Nail patella syndrome""",Small deletion,CD993056,1,86,chr9-129377788-CCCTCACCA-C,Small deletion-DEL,84
+63805614,chr2,SNP,73679580,C,T,ALMS1,"""Alstrom syndrome""",Missense/nonsense,CM156237,1,365,chr2-73679580-C-T,Missense/nonsense-SNP,311
+16852039,chr20,SNP,3897660,A,T,PANK2,"""Pantothenate kinase-associated neurodegeneration""",Missense/nonsense,CM014247,3,365,chr20-3897660-A-T,Missense/nonsense-SNP,311
+37380507,chr19,DEL,11234001,AGTGACAAT,A,LDLR,"""Hypercholesterolaemia""",Small deletion,CD162622,1,86,chr19-11234001-AGTGACAAT-A,Small deletion-DEL,84
+16876773,chrX,SNP,13754709,A,C,OFD1,"""Oral-facial-digital syndrome I""",Missense/nonsense,CM085610,1,365,chrX-13754709-A-C,Missense/nonsense-SNP,311
+16876597,chr15,SNP,48717610,C,T,FBN1,"""Marfan syndrome""",Missense/nonsense,CM085425,2,365,chr15-48717610-C-T,Missense/nonsense-SNP,311
+41319003,chr4,SNP,55968085,C,T,KDR,"""Vascular anomalies""",Missense/nonsense,CM1710275,1,365,chr4-55968085-C-T,Missense/nonsense-SNP,311
+59148079,chr19,MNP,18966765,GC,AA,UPF1,"""Intellectual disability, gross motor delay, seizures, scoliosis, hearing and sight issues""",Small indel,CX176558,1,12,chr19-18966765-GC-AA,Small indel-MNP,9
+16917760,chr7,SNP,116418881,T,C,MET,"""Papillary renal carcinoma""",Missense/nonsense,CM970943,1,365,chr7-116418881-T-C,Missense/nonsense-SNP,311
+16853872,chr17,SNP,42463431,A,G,ITGA2B,"""Glanzmann thrombasthenia""",Missense/nonsense,CM022027,1,365,chr17-42463431-A-G,Missense/nonsense-SNP,311
+34385666,chr16,SNP,58001141,C,T,CNGB1,"""Autism spectrum disorder""",Missense/nonsense,CM1416812,1,365,chr16-58001141-C-T,Missense/nonsense-SNP,311
+91651481,chr17,SNP,17122508,G,C,FLCN,"""Birt-Hogg-Dubé syndrome""",Missense/nonsense,CM1825979,1,365,chr17-17122508-G-C,Missense/nonsense-SNP,311
+16884006,chr17,SNP,7577021,C,T,TP53,"""Breast and/or ovarian cancer""",Missense/nonsense,CM100445,2,365,chr17-7577021-C-T,Missense/nonsense-SNP,311
+10997891,chr1,SNP,150530548,C,G,ADAMTSL4,"""Ectopia lentis""",Missense/nonsense,CM1718662,1,365,chr1-150530548-C-G,Missense/nonsense-SNP,311
+16866901,chr17,SNP,48271330,C,T,COL1A1,"""Osteogenesis imperfecta II""",Missense/nonsense,CM062528,1,365,chr17-48271330-C-T,Missense/nonsense-SNP,311
+16892119,chr7,SNP,107430057,G,A,SLC26A3,"""Diarrhoea, congenital chloride""",Missense/nonsense,CM115695,1,365,chr7-107430057-G-A,Missense/nonsense-SNP,311
+16938076,chr5,MNP,36955708,CATAGCCTCA,ATCAACAGGTGAC,NIPBL,"""Cornelia de Lange syndrome""",Small indel,CX042666,1,12,chr5-36955708-CATAGCCTCA-ATCAACAGGTGAC,Small indel-MNP,9
+16951529,chr1,SNP,94505596,T,A,ABCA4,"""Cone/cone-rod dystrophy""",Splicing,CS156171,2,365,chr1-94505596-T-A,Splicing-SNP,45
+16862315,chr10,SNP,89717730,A,G,PTEN,"""Autism spectrum disorder and macrocephaly""",Missense/nonsense,CM051216,5,365,chr10-89717730-A-G,Missense/nonsense-SNP,311
+52003447,chr1,SNP,183230395,C,T,NMNAT2,"""Multiple congenital anomalies""",Missense/nonsense,CM171800,2,365,chr1-183230395-C-T,Missense/nonsense-SNP,311
+59144441,chr10,SNP,95385411,G,A,PDE6C,"""Retinal dystrophy""",Splicing,CS1618533,2,365,chr10-95385411-G-A,Splicing-SNP,45
+12384603,chr15,SNP,58723675,C,T,LIPC,"""Lower hepatic lipase activity""",Regulatory,CR971949,10,365,chr15-58723675-C-T,Regulatory-SNP,8
+16835370,chr13,DEL,52544877,AAC,A,ATP7B,"""Wilson disease""",Small deletion,CD972036,1,86,chr13-52544877-AAC-A,Small deletion-DEL,84
+16878785,chr13,SNP,48951075,G,T,RB1,"""Retinoblastoma""",Missense/nonsense,CM0910366,2,365,chr13-48951075-G-T,Missense/nonsense-SNP,311
+16832416,chr11,DEL,58920160,ATTC,A,FAM111A,"""Osteocraniostenosis""",Small deletion,CD134981,2,86,chr11-58920160-ATTC-A,Small deletion-DEL,84
+16836409,chr10,DEL,89711967,TC,T,PTEN,"""Bannayan-Zonana syndrome""",Small deletion,CD982915,1,86,chr10-89711967-TC-T,Small deletion-DEL,84
+14503143,chr10,DEL,103313719,CAACAGTGGA,C,BTRC,"""Hepatocellular carcinoma, reduced risk, association with""",Small deletion,CD102928,1,86,chr10-103313719-CAACAGTGGA-C,Small deletion-DEL,84
+16847090,chr2,SNP,189872825,G,T,COL3A1,"""Ehlers-Danlos syndrome IV""",Missense/nonsense,CM000360,1,365,chr2-189872825-G-T,Missense/nonsense-SNP,311
+20830501,chr20,SNP,5294607,C,T,PROKR2,"""Altered function""",Missense/nonsense,CM180943,1,365,chr20-5294607-C-T,Missense/nonsense-SNP,311
+17708804,chr9,SNP,139324777,C,T,INPP5E,"""Joubert syndrome""",Missense/nonsense,CM1515907,1,365,chr9-139324777-C-T,Missense/nonsense-SNP,311
+16823894,chr9,DEL,130588919,CGG,C,ENG,"""Hereditary haemorrhagic telangiectasia""",Small deletion,CD083292,1,86,chr9-130588919-CGG-C,Small deletion-DEL,84
+41573631,chr3,SNP,193384115,C,T,opa1tv8,"""Optic atrophy""",Missense/nonsense,CM175502,1,365,chr3-193384115-C-T,Missense/nonsense-SNP,311
+16943397,chr15,SNP,42703970,G,T,CAPN3,"""Muscular dystrophy, limb girdle 2A""",Missense/nonsense,CM148800,1,365,chr15-42703970-G-T,Missense/nonsense-SNP,311
+16867540,chr11,SNP,17417399,C,T,ABCC8,"""Hyperinsulinism""",Missense/nonsense,CM063819,1,365,chr11-17417399-C-T,Missense/nonsense-SNP,311
+16946502,chr1,DUP,100327882,G,GCT,AGL,"""Glycogen storage disease 3a""",Small insertion,CI150334,2,21,chr1-100327882-G-GCT,Small insertion-DUP,21
+90376202,chr9,SNP,139401005,G,A,NOTCH1,"""Intracranial vertebral-basilar artery dissection, susceptibility to""",Missense/nonsense,CM1816376,1,365,chr9-139401005-G-A,Missense/nonsense-SNP,311
+59150315,chr6,DEL,49403278,CT,C,MMUT,"""Methylmalonic aciduria""",Small deletion,CD1711102,1,86,chr6-49403278-CT-C,Small deletion-DEL,84
+13258654,chr14,SNP,45605405,G,C,FANCM,"""Endometrial cancer, modified risk, in Lynch syndrome""",Missense/nonsense,CM1516930,2,365,chr14-45605405-G-C,Missense/nonsense-SNP,311
+16822311,chr6,DEL,74351431,GT,G,SLC17A5,"""Salla disease""",Small deletion,CD068603,1,86,chr6-74351431-GT-G,Small deletion-DEL,84
+141290245,chr17,DEL,41244579,AC,A,BRCA1,"""Breast and/or ovarian cancer""",Small deletion,CD196356,1,86,chr17-41244579-AC-A,Small deletion-DEL,84
+52008163,chr18,SNP,2700821,A,G,SMCHD1,"""Bosma arhinia microphthalmia syndrome""",Missense/nonsense,CM171228,1,365,chr18-2700821-A-G,Missense/nonsense-SNP,311
+37378166,chr14,SNP,23884304,C,T,MYH7,"""Cardiomyopathy & distal myopathy""",Missense/nonsense,CM168785,2,365,chr14-23884304-C-T,Missense/nonsense-SNP,311
+16859918,chr11,SNP,76890970,C,T,MYO7A,"""Deafness, non-syndromic, autosomal dominant""",Missense/nonsense,CM042433,1,365,chr11-76890970-C-T,Missense/nonsense-SNP,311
+16886966,chrX,SNP,37665700,C,T,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM106275,2,365,chrX-37665700-C-T,Missense/nonsense-SNP,311
+16928850,chr2,SNP,166909361,C,G,SCN1A,"""Severe myoclonic epilepsy of infancy""",Splicing,CS067120,1,365,chr2-166909361-C-G,Splicing-SNP,45
+37382875,chr4,SNP,55599275,A,C,KIT,"""Piebaldism""",Missense/nonsense,CM1314914,1,365,chr4-55599275-A-C,Missense/nonsense-SNP,311
+16894885,chrX,SNP,153296411,C,A,MECP2,"""Rett syndrome""",Missense/nonsense,CM1210654,1,365,chrX-153296411-C-A,Missense/nonsense-SNP,311
+16834050,chrX,DEL,148579652,AG,A,IDS,"""Mucopolysaccharidosis II""",Small deletion,CD931010,1,86,chrX-148579652-AG-A,Small deletion-DEL,84
+15482142,chr12,SNP,57922170,C,T,MBD6,"""Autism""",Missense/nonsense,CM1212435,1,365,chr12-57922170-C-T,Missense/nonsense-SNP,311
+59150046,chr5,DEL,112175644,AG,A,APC,"""Adenomatous polyposis coli""",Small deletion,CD179229,1,86,chr5-112175644-AG-A,Small deletion-DEL,84
+112079510,chr19,DEL,11223972,TC,T,LDLR,"""Hypercholesterolaemia""",Small deletion,CD1817379,2,86,chr19-11223972-TC-T,Small deletion-DEL,84
+10936048,chr3,DEL,113376110,TTGC,T,USF3,"""Childhood disintegrative disorder""",Small deletion,CD174343,1,86,chr3-113376110-TTGC-T,Small deletion-DEL,84
+37377456,chr12,DEL,48393715,GAGGTCAGTTGGGC,G,COL2A1,"""Stickler syndrome""",Small deletion,CD104529,1,86,chr12-48393715-GAGGTCAGTTGGGC-G,Small deletion-DEL,84
+16948450,chr13,DUP,48937082,A,AAT,RB1,"""Retinoblastoma""",Small insertion,CI152969,1,21,chr13-48937082-A-AAT,Small insertion-DUP,21
+27974496,chr3,SNP,148916203,C,T,CP,"""Aceruloplasminaemia""",Missense/nonsense,CM208443,1,365,chr3-148916203-C-T,Missense/nonsense-SNP,311
+16858926,chr1,SNP,197390708,G,T,CRB1,"""Leber congenital amaurosis""",Missense/nonsense,CM040711,1,365,chr1-197390708-G-T,Missense/nonsense-SNP,311
+11289882,chr16,SNP,79245676,G,T,WWOX,"""Intellectual disability""",Missense/nonsense,CM164753,1,365,chr16-79245676-G-T,Missense/nonsense-SNP,311
+52003744,chr10,SNP,93619,G,A,TUBB8,"""Oocyte maturation arrest""",Missense/nonsense,CM1611288,1,365,chr10-93619-G-A,Missense/nonsense-SNP,311
+37375782,chr1,SNP,149898811,C,T,SF3B4,"""Rodriguez syndrome""",Splicing,CS146586,2,365,chr1-149898811-C-T,Splicing-SNP,45
+112080578,chr3,SNP,121980547,G,A,CASR,"""Hypercalcaemia, hypocalciuric""",Missense/nonsense,CM190016,1,365,chr3-121980547-G-A,Missense/nonsense-SNP,311
+31348168,chr2,SNP,29294029,A,G,PCARE,"""Retinitis pigmentosa""",Missense/nonsense,CM1723620,1,365,chr2-29294029-A-G,Missense/nonsense-SNP,311
+16924960,chrX,SNP,138612886,A,G,F9,"""Haemophilia B""",Regulatory,CR1314249,1,365,chrX-138612886-A-G,Regulatory-SNP,8
+23297023,chr1,SNP,160253339,G,A,PEX19,"""Peroxisomal biogenesis disorder""",Missense/nonsense,CM191118,1,365,chr1-160253339-G-A,Missense/nonsense-SNP,311
+16880040,chr15,SNP,48730096,C,A,FBN1,"""Marfan syndrome""",Missense/nonsense,CM092467,1,365,chr15-48730096-C-A,Missense/nonsense-SNP,311
+16883649,chr11,SNP,5247813,G,T,HBB,"""Haemoglobin variant""",Missense/nonsense,CM099768,3,365,chr11-5247813-G-T,Missense/nonsense-SNP,311
+75269394,chr3,SNP,48610471,C,T,COL7A1,"""Epidermolysis bullosa dystrophica""",Missense/nonsense,CM1620250,1,365,chr3-48610471-C-T,Missense/nonsense-SNP,311
+37381434,chr2,SNP,191841652,T,C,STAT1,"""Mucocutaneous candidiasis""",Missense/nonsense,CM167453,1,365,chr2-191841652-T-C,Missense/nonsense-SNP,311
+16949174,chr16,SNP,16263655,A,G,ABCC6,"""Pseudoxanthoma elasticum""",Missense/nonsense,CM153338,1,365,chr16-16263655-A-G,Missense/nonsense-SNP,311
+130255034,chr5,SNP,73136470,C,A,ARHGEF28,"""Amyotrophic lateral sclerosis""",Missense/nonsense,CM204640,1,365,chr5-73136470-C-A,Missense/nonsense-SNP,311
+16862035,chr6,SNP,18122045,G,A,NHLRC1,"""Myoclonic epilepsy of Lafora""",Missense/nonsense,CM050727,1,365,chr6-18122045-G-A,Missense/nonsense-SNP,311
+11045910,chr6,SNP,152674464,C,A,SYNE1,"""Sensory ataxia""",Missense/nonsense,CM186781,1,365,chr6-152674464-C-A,Missense/nonsense-SNP,311
+112081662,chrX,MNP,47030498,CGGCCCGCCAG,A,RBM10,"""Talipes equinovarus, atrial septal defect, Robin sequence, and persistent left superior vena cava syndrome""",Small indel,CX1821054,1,12,chrX-47030498-CGGCCCGCCAG-A,Small indel-MNP,9
+37384872,chr9,SNP,2635524,T,C,VLDLR,"""Intellectual disability/developmental delay""",Missense/nonsense,CM167026,1,365,chr9-2635524-T-C,Missense/nonsense-SNP,311
+120800552,chr20,SNP,62324519,C,T,RTEL1,"""Interstitial lung disease""",Missense/nonsense,CM192939,1,365,chr20-62324519-C-T,Missense/nonsense-SNP,311
+16862365,chr17,SNP,48275318,C,T,COL1A1,"""Ehlers-Danlos syndrome/Osteogenesis imperfecta""",Missense/nonsense,CM051415,3,365,chr17-48275318-C-T,Missense/nonsense-SNP,311
+11852166,chr3,SNP,9798475,G,A,OGG1,"""Colorectal cancer""",Missense/nonsense,CM109079,5,365,chr3-9798475-G-A,Missense/nonsense-SNP,311
+16863781,chr5,SNP,1254510,C,T,TERT,"""Aplastic anaemia""",Missense/nonsense,CM054143,6,365,chr5-1254510-C-T,Missense/nonsense-SNP,311
+16842844,chr17,DUP,45368319,G,GA,ITGB3,"""Glanzmann thrombasthenia""",Small insertion,CI108900,1,21,chr17-45368319-G-GA,Small insertion-DUP,21
+82890961,chr7,SNP,98552806,C,T,TRRAP,"""Autism spectrum disorder/intellectual disability and epilepsy""",Missense/nonsense,CM193161,1,365,chr7-98552806-C-T,Missense/nonsense-SNP,311
+36244687,chr5,SNP,149503840,T,G,PDGFRB,"""Myofibromatosis, infantile, complex""",Missense/nonsense,CM181237,1,365,chr5-149503840-T-G,Missense/nonsense-SNP,311
+16848386,chrX,SNP,133624228,T,G,HPRT1,"""Lesch-Nyhan syndrome""",Missense/nonsense,CM002624,1,365,chrX-133624228-T-G,Missense/nonsense-SNP,311
+16816677,chrX,DEL,123504072,TCATTTCAG,T,SH2D1A,"""Immunodeficiency syndrome, common variable""",Small deletion,CD013202,1,86,chrX-123504072-TCATTTCAG-T,Small deletion-DEL,84
+16834313,chr1,DEL,12026314,AAGG,A,PLOD1,"""Ehlers-Danlos syndrome VI""",Small deletion,CD941759,1,86,chr1-12026314-AAGG-A,Small deletion-DEL,84
+16937072,chrX,SNP,148577876,C,T,IDS,"""Mucopolysaccharidosis II""",Splicing,CS982229,2,365,chrX-148577876-C-T,Splicing-SNP,45
+16932146,chr20,SNP,741884,T,G,SLC52A3,"""Fazio-Londe syndrome""",Splicing,CS108918,1,365,chr20-741884-T-G,Splicing-SNP,45
+16945412,chr2,SNP,189854132,G,A,COL3A1,"""Ehlers-Danlos syndrome IV""",Missense/nonsense,CM1412425,1,365,chr2-189854132-G-A,Missense/nonsense-SNP,311
+56956906,chr13,SNP,32903591,G,T,BRCA2,"""Breast and/or ovarian cancer""",Missense/nonsense,CM1813018,1,365,chr13-32903591-G-T,Missense/nonsense-SNP,311
+87398690,chr17,SNP,4804309,G,T,CHRNE,"""Congenital myasthenic syndrome""",Missense/nonsense,CM186106,1,365,chr17-4804309-G-T,Missense/nonsense-SNP,311
+16921874,chr9,SNP,34650444,T,C,GALT,"""Galactosaemia""",Missense/nonsense,CM990679,2,365,chr9-34650444-T-C,Missense/nonsense-SNP,311
+10989645,chr11,SNP,67353579,C,T,GSTP1,"""Oral cancer in light smokers, association with""",Missense/nonsense,CM992339,5,365,chr11-67353579-C-T,Missense/nonsense-SNP,311
+16946322,chr7,SNP,65554291,G,A,ASL,"""Argininosuccinic aciduria""",Missense/nonsense,CM1411761,1,365,chr7-65554291-G-A,Missense/nonsense-SNP,311
+16953081,chr4,SNP,17506032,C,T,QDPR,"""Dihydropteridine reductase deficiency""",Missense/nonsense,CM155928,2,365,chr4-17506032-C-T,Missense/nonsense-SNP,311
+16842340,chr2,INS,128186418,C,CTA,PROC,"""Protein C deficiency""",Small insertion,CI101147,1,5,chr2-128186418-C-CTA,Small insertion-INS,5
+75268526,chr2,SNP,25047406,C,T,ADCY3,"""Obesity, severe""",Splicing,CS181603,1,365,chr2-25047406-C-T,Splicing-SNP,45
+16849282,chrX,SNP,38229063,G,T,OTC,"""Ornithine transcarbamylase deficiency""",Missense/nonsense,CM004199,3,365,chrX-38229063-G-T,Missense/nonsense-SNP,311
+16927299,chr5,SNP,36955569,A,G,NIPBL,"""Cornelia de Lange syndrome""",Splicing,CS042565,1,365,chr5-36955569-A-G,Splicing-SNP,45
+16832497,chrX,DEL,152954210,TTCA,T,SLC6A8,"""Creatine deficiency""",Small deletion,CD135580,1,86,chrX-152954210-TTCA-T,Small deletion-DEL,84
+16918645,chr3,SNP,24169204,C,T,THRB,"""Thyroid hormone resistance""",Missense/nonsense,CM973210,1,365,chr3-24169204-C-T,Missense/nonsense-SNP,311
+16854283,chr11,SNP,57382029,G,A,SERPING1,"""Angioneurotic oedema""",Missense/nonsense,CM022845,1,365,chr11-57382029-G-A,Missense/nonsense-SNP,311
+16830607,chrX,DEL,30327175,AC,A,NR0B1,"""Adrenal hypoplasia""",Small deletion,CD125654,1,86,chrX-30327175-AC-A,Small deletion-DEL,84
+16915586,chr11,SNP,57381981,T,C,SERPING1,"""Angioneurotic oedema""",Missense/nonsense,CM960227,1,365,chr11-57381981-T-C,Missense/nonsense-SNP,311
+87399075,chr17,SNP,60685400,A,G,TLK2,"""Neurodevelopmental disorder""",Splicing,CS188074,1,365,chr17-60685400-A-G,Splicing-SNP,45
+16884204,chr3,SNP,38598048,C,G,SCN5A,"""Brugada syndrome""",Missense/nonsense,CM100727,3,365,chr3-38598048-C-G,Missense/nonsense-SNP,311
+16847855,chr4,SNP,155529700,C,A,FGG,"""Afibrinogenaemia""",Missense/nonsense,CM001691,2,365,chr4-155529700-C-A,Missense/nonsense-SNP,311
+16935185,chr12,SNP,6132066,T,C,VWF,"""Von Willebrand disease 2a/2e""",Splicing,CS138972,1,365,chr12-6132066-T-C,Splicing-SNP,45
+16929620,chr17,SNP,29490396,T,G,NF1,"""Neurofibromatosis 1""",Splicing,CS077368,2,365,chr17-29490396-T-G,Splicing-SNP,45
+16852759,chr12,SNP,21325716,T,C,SLCO1B1,"""Altered transport activity""",Missense/nonsense,CM016145,1,365,chr12-21325716-T-C,Missense/nonsense-SNP,311
+16911672,chr10,SNP,126100556,A,G,OAT,"""Gyrate atrophy""",Missense/nonsense,CM920512,1,365,chr10-126100556-A-G,Missense/nonsense-SNP,311
+147518164,chrX,DEL,32563370,CCCTTGTGGTCACCGTAGTTACTGTTTCCATTACAGTTGTCTGTGTTAGTGATGGCTGAGTGGTGGTG,C,DMD,"""Muscular dystrophy""",Gross deletion,CG081004,1,86,chrX-32563370-CCCTTGTGGTCACCGTAGTTACTGTTTCCATTACAGTTGTCTGTGTTAGTGATGGCTGAGTGGTGGTG-C,Gross deletion-DEL,2
+59147954,chr19,SNP,11097060,T,C,SMARCA4,"""Autism spectrum disorder""",Missense/nonsense,CM1713287,2,365,chr19-11097060-T-C,Missense/nonsense-SNP,311
+97286122,chr17,SNP,56774131,A,G,RAD51C,"""Breast and/or ovarian cancer""",Missense/nonsense,CM1811369,1,365,chr17-56774131-A-G,Missense/nonsense-SNP,311
+37377516,chr12,SNP,52307755,C,G,ACVRL1,"""Hereditary haemorrhagic telangiectasia""",Splicing,CS147644,1,365,chr12-52307755-C-G,Splicing-SNP,45
+36574648,chr1,SNP,110888172,C,T,RBM15,"""Mesothelioma""",Missense/nonsense,CM1814154,1,365,chr1-110888172-C-T,Missense/nonsense-SNP,311
+16128239,chr16,SNP,2134713,C,G,TSC2,"""Tuberous sclerosis""",Missense/nonsense,CM991215,2,365,chr16-2134713-C-G,Missense/nonsense-SNP,311
+75265722,chr1,DEL,68914351,TCAAA,T,RPE65,"""Leber congenital amaurosis""",Small deletion,CD181507,1,86,chr1-68914351-TCAAA-T,Small deletion-DEL,84
+16915981,chr4,SNP,1806099,A,G,FGFR3,"""Thanatophoric dwarfism""",Missense/nonsense,CM960657,14,365,chr4-1806099-A-G,Missense/nonsense-SNP,311
+97288866,chrX,SNP,18616581,G,C,CDKL5,"""Epilepsy and/or neurodevelopmental disorders""",Splicing,CS1815109,1,365,chrX-18616581-G-C,Splicing-SNP,45
+12716207,chr19,SNP,41355738,C,G,CYP2A6,"""Poor metaboliser""",Missense/nonsense,CM083626,1,365,chr19-41355738-C-G,Missense/nonsense-SNP,311
+16951110,chrX,SNP,49075149,T,C,CACNA1F,"""Congenital stationary night blindness""",Missense/nonsense,CM158308,1,365,chrX-49075149-T-C,Missense/nonsense-SNP,311
+39231546,chrX,SNP,41332842,G,A,NYX,"""Retinitis Pigmentosa""",Missense/nonsense,CM1919435,1,365,chrX-41332842-G-A,Missense/nonsense-SNP,311
+16844085,chr13,DUP,32893420,C,CA,BRCA2,"""Breast and/or ovarian cancer""",Small insertion,CI126345,4,21,chr13-32893420-C-CA,Small insertion-DUP,21
+16849187,chr12,SNP,110019322,C,T,MVK,"""Hyper-IgD periodic fever syndrome""",Missense/nonsense,CM004003,1,365,chr12-110019322-C-T,Missense/nonsense-SNP,311
+16856287,chr6,SNP,39880019,C,T,MOCS1,"""Molybdenum cofactor deficiency""",Missense/nonsense,CM031244,1,365,chr6-39880019-C-T,Missense/nonsense-SNP,311
+16928672,chr5,SNP,13708227,C,T,DNAH5,"""Primary ciliary dyskinesia""",Splicing,CS065541,2,365,chr5-13708227-C-T,Splicing-SNP,45
+16953342,chr22,SNP,21167739,G,C,PI4KA,"""Long QT syndrome""",Missense/nonsense,CM156446,1,365,chr22-21167739-G-C,Missense/nonsense-SNP,311
+16923523,chr18,SNP,58039478,G,T,MC4R,"""Obesity, autosomal dominant""",Missense/nonsense,CM994218,10,365,chr18-58039478-G-T,Missense/nonsense-SNP,311
+52007438,chr17,SNP,3379659,T,G,ASPA,"""Canavan disease""",Missense/nonsense,CM175116,1,365,chr17-3379659-T-G,Missense/nonsense-SNP,311
+16824454,chr13,DEL,49027168,CG,C,RB1,"""Retinoblastoma""",Small deletion,CD086245,1,86,chr13-49027168-CG-C,Small deletion-DEL,84
+10947664,chr15,SNP,43020983,G,A,CDAN1,"""Congenital dyserythropoietic anaemia, type I""",Missense/nonsense,CM180006,1,365,chr15-43020983-G-A,Missense/nonsense-SNP,311
+16860866,chr2,SNP,227917120,C,G,COL4A4,"""Alport syndrome""",Missense/nonsense,CM044600,2,365,chr2-227917120-C-G,Missense/nonsense-SNP,311
+59146551,chr15,SNP,67358493,A,G,SMAD3,"""Colorectal cancer""",Missense/nonsense,CM1713859,1,365,chr15-67358493-A-G,Missense/nonsense-SNP,311
+14861574,chr3,SNP,71834207,G,T,PROK2,"""Kallmann syndrome""",Regulatory,CR065650,1,365,chr3-71834207-G-T,Regulatory-SNP,8
+59150196,chr6,SNP,6174812,C,T,F13A1,"""Factor XIII deficiency""",Splicing,CS176478,1,365,chr6-6174812-C-T,Splicing-SNP,45
+16906592,chr12,SNP,49418361,C,T,KMT2D,"""Kabuki syndrome""",Missense/nonsense,CM138443,7,365,chr12-49418361-C-T,Missense/nonsense-SNP,311
+16833061,chr17,DEL,66596440,AGCGCCTCCTGGCTGGCCAG,A,FAM20A,"""Enamel-renal-gingival syndrome""",Small deletion,CD140188,2,86,chr17-66596440-AGCGCCTCCTGGCTGGCCAG-A,Small deletion-DEL,84
+97285420,chr15,SNP,52689492,C,T,MYO5A,"""Congenital heart disease""",Missense/nonsense,CM1722552,1,365,chr15-52689492-C-T,Missense/nonsense-SNP,311
+59149389,chr3,DEL,37059526,GGCTGAGGT,G,MLH1,"""Colorectal cancer, non-polyposis""",Small deletion,CD108370,1,86,chr3-37059526-GGCTGAGGT-G,Small deletion-DEL,84
+16820042,chr16,DEL,50826564,TA,T,CYLD,"""Brooke-Spiegler syndrome""",Small deletion,CD051729,1,86,chr16-50826564-TA-T,Small deletion-DEL,84
+16863546,chrX,SNP,154221288,T,C,F8,"""Haemophilia A""",Missense/nonsense,CM053879,1,365,chrX-154221288-T-C,Missense/nonsense-SNP,311
+11476890,chr2,SNP,166847921,A,G,SCN1A,"""Autism""",Missense/nonsense,CM034569,2,365,chr2-166847921-A-G,Missense/nonsense-SNP,311
+152658000,chr5,DEL,35800190,GT,G,SPEF2,"""Multiple morphological abnormalities of the sperm flagella""",Small deletion,CD1916947,1,86,chr5-35800190-GT-G,Small deletion-DEL,84
+16905100,chr10,SNP,88659881,C,A,BMPR1A,"""Gastrointestinal polyposis""",Missense/nonsense,CM135231,1,365,chr10-88659881-C-A,Missense/nonsense-SNP,311
+16927394,chr13,SNP,101020720,C,G,PCCA,"""Propionic acidaemia""",Splicing,CS043371,1,365,chr13-101020720-C-G,Splicing-SNP,45
+87397335,chr11,DEL,57564444,TGA,T,CTNND1,"""Cleft lip and/or palate, non-syndromic""",Small deletion,CD187930,1,86,chr11-57564444-TGA-T,Small deletion-DEL,84
+16835448,chr7,DEL,117120187,CA,C,CFTR,"""Congenital absence of vas deferens""",Small deletion,CD972120,1,86,chr7-117120187-CA-C,Small deletion-DEL,84
+16830896,chr5,DEL,172659763,CG,C,NKX2-5,"""Wenckebach periodicity""",Small deletion,CD127711,1,86,chr5-172659763-CG-C,Small deletion-DEL,84
+65183124,chr2,SNP,179465886,G,A,ttnic,"""Cardiomyopathy, dilated""",Missense/nonsense,CM1724787,1,365,chr2-179465886-G-A,Missense/nonsense-SNP,311
+141292119,chr3,DEL,93619658,CTTTGA,C,PROS1,"""Protein S deficiency, type I""",Small deletion,CD194343,1,86,chr3-93619658-CTTTGA-C,Small deletion-DEL,84
+16842346,chr2,DUP,96930970,C,CT,TMEM127,"""Phaeochromocytoma""",Small insertion,CI101227,1,21,chr2-96930970-C-CT,Small insertion-DUP,21
+141292607,chr5,SNP,151239528,G,T,GLRA1,"""Hyperekplexia""",Missense/nonsense,CM194297,1,365,chr5-151239528-G-T,Missense/nonsense-SNP,311
+16897626,chr19,SNP,12758353,C,T,MAN2B1,"""Mannosidosis, alpha""",Missense/nonsense,CM124072,1,365,chr19-12758353-C-T,Missense/nonsense-SNP,311
+147517073,chr6,DEL,31829774,ACCCTGGTCCATGGACCTCCGCAGGGCGATGAACTTGGCC,A,NEU1,"""Sialidosis 1""",Gross deletion,CG1915249,1,86,chr6-31829774-ACCCTGGTCCATGGACCTCCGCAGGGCGATGAACTTGGCC-A,Gross deletion-DEL,2
+37384707,chr8,DUP,61732639,A,AC,CHD7,"""CHARGE syndrome""",Small insertion,CI161075,1,21,chr8-61732639-A-AC,Small insertion-DUP,21
+16823276,chr17,DEL,29527526,CA,C,NF1,"""Neurofibromatosis 1""",Small deletion,CD076846,1,86,chr17-29527526-CA-C,Small deletion-DEL,84
+16916371,chr2,SNP,223161877,G,C,PAX3,"""Craniofacial-deafness-hand syndrome""",Missense/nonsense,CM961088,3,365,chr2-223161877-G-C,Missense/nonsense-SNP,311
+16849223,chr2,SNP,128180720,G,T,PROC,"""Protein C deficiency""",Missense/nonsense,CM004058,1,365,chr2-128180720-G-T,Missense/nonsense-SNP,311
+59145638,chr13,SNP,32914935,C,A,BRCA2,"""Breast cancer""",Missense/nonsense,CM1715102,2,365,chr13-32914935-C-A,Missense/nonsense-SNP,311
+11777013,chr1,SNP,196706049,G,A,CFH,"""Dense deposit disease""",Missense/nonsense,CM125844,4,365,chr1-196706049-G-A,Missense/nonsense-SNP,311
+11304221,chr16,SNP,348021,G,C,AXIN1,"""Alzheimer disease, late-onset""",Missense/nonsense,CM171391,1,365,chr16-348021-G-C,Missense/nonsense-SNP,311
+16917691,chr1,SNP,209791389,G,A,LAMB3,"""Epidermolysis bullosa, Herlitz""",Missense/nonsense,CM970866,4,365,chr1-209791389-G-A,Missense/nonsense-SNP,311
+39533270,chr18,DEL,21148823,CTT,C,NPC1,"""Niemann-Pick disease, type C""",Small deletion,CD193672,1,86,chr18-21148823-CTT-C,Small deletion-DEL,84
+16895956,chrX,SNP,153596445,G,C,FLNA,"""Heterotopia, periventricular""",Missense/nonsense,CM1212813,1,365,chrX-153596445-G-C,Missense/nonsense-SNP,311
+129611565,chr17,SNP,3801303,C,T,P2RX1,"""Autism spectrum disorder, association with""",Splicing,CS2010896,1,365,chr17-3801303-C-T,Splicing-SNP,45
+16825604,chr12,DEL,6103215,GGAGCTGTCGGGGAC,G,VWF,"""Von Willebrand disease 3""",Small deletion,CD095419,1,86,chr12-6103215-GGAGCTGTCGGGGAC-G,Small deletion-DEL,84
+119653492,chr19,SNP,4110574,G,A,MAP2K2,"""TAFRO syndrome""",Missense/nonsense,CM208498,1,365,chr19-4110574-G-A,Missense/nonsense-SNP,311
+37378911,chr16,SNP,2143095,C,G,PKD1,"""Polycystic kidney disease 1""",Splicing,CS162243,1,365,chr16-2143095-C-G,Splicing-SNP,45
+112080009,chr2,SNP,179439318,C,T,TTN,"""Cardiomyopathy, dilated""",Missense/nonsense,CM1517423,2,365,chr2-179439318-C-T,Missense/nonsense-SNP,311
+87398214,chr15,SNP,48729167,C,A,FBN1,"""Marfan syndrome""",Missense/nonsense,CM189600,1,365,chr15-48729167-C-A,Missense/nonsense-SNP,311
+16860106,chr20,SNP,56993374,C,T,VAPB,"""Amyotrophic lateral sclerosis""",Missense/nonsense,CM042798,19,365,chr20-56993374-C-T,Missense/nonsense-SNP,311
+16886711,chrX,SNP,37642744,C,G,CYBB,"""Chronic granulomatous disease""",Missense/nonsense,CM105670,2,365,chrX-37642744-C-G,Missense/nonsense-SNP,311
+25509475,chr16,MNP,2132468,CTGCCAAGGA,G,TSC2,"""Epilepsy and/or neurodevelopmental disorders""",Small indel,CX1821107,1,12,chr16-2132468-CTGCCAAGGA-G,Small indel-MNP,9
+16941020,chr16,SNP,88902640,C,T,GALNS,"""Mucopolysaccharidosis IVa""",Missense/nonsense,CM145584,1,365,chr16-88902640-C-T,Missense/nonsense-SNP,311
+16835305,chr21,DEL,45712971,GC,G,AIRE,"""APECED""",Small deletion,CD971971,2,86,chr21-45712971-GC-G,Small deletion-DEL,84
+16858030,chr10,SNP,13152416,G,C,OPTN,"""Glaucoma 1, open angle""",Missense/nonsense,CM034667,1,365,chr10-13152416-G-C,Missense/nonsense-SNP,311
+52003861,chr10,SNP,73450342,G,C,CDH23,"""Deafness, non-syndromic, autosomal recessive""",Splicing,CS1610394,1,365,chr10-73450342-G-C,Splicing-SNP,45
+16889657,chr7,SNP,87076399,C,T,ABCB4,"""Low phospholipid associated cholelithiasis""",Missense/nonsense,CM1111305,1,365,chr7-87076399-C-T,Missense/nonsense-SNP,311
+16931251,chr15,SNP,48779509,C,G,FBN1,"""Marfan syndrome""",Splicing,CS098596,1,365,chr15-48779509-C-G,Splicing-SNP,45
+11416250,chr17,SNP,42992542,G,A,GFAP,"""Alexander disease""",Missense/nonsense,CM1516839,1,365,chr17-42992542-G-A,Missense/nonsense-SNP,311
+16853205,chr15,SNP,48707869,A,T,FBN1,"""Marfan syndrome""",Missense/nonsense,CM020695,1,365,chr15-48707869-A-T,Missense/nonsense-SNP,311
+16911727,chr3,SNP,87311311,G,A,POU1F1,"""Pituitary hormone deficiency""",Missense/nonsense,CM920589,3,365,chr3-87311311-G-A,Missense/nonsense-SNP,311
+16847012,chr20,SNP,4680344,C,T,PRNP,"""Dementia""",Missense/nonsense,CM000199,4,365,chr20-4680344-C-T,Missense/nonsense-SNP,311
+141290539,chr18,DUP,2700796,A,ATCTGG,SMCHD1,"""Facioscapulohumeral muscular dystrophy 2""",Small insertion,CI195923,1,21,chr18-2700796-A-ATCTGG,Small insertion-DUP,21
+16874249,chrX,SNP,154221228,A,C,F8,"""Haemophilia A""",Missense/nonsense,CM080276,1,365,chrX-154221228-A-C,Missense/nonsense-SNP,311
+37382495,chr3,DEL,93624933,CA,C,PROS1,"""Protein S deficiency""",Small deletion,CD163594,1,86,chr3-93624933-CA-C,Small deletion-DEL,84
+52011766,chr5,DEL,112102991,AGTGCAGTCCT,A,APC,"""Polyposis""",Small deletion,CD173561,1,86,chr5-112102991-AGTGCAGTCCT-A,Small deletion-DEL,84
+16884308,chr19,SNP,11224297,A,G,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM100937,2,365,chr19-11224297-A-G,Missense/nonsense-SNP,311
+16928948,chr5,SNP,147450014,G,T,SPINK5,"""Netherton syndrome""",Splicing,CS068616,2,365,chr5-147450014-G-T,Splicing-SNP,45
+37382026,chr22,SNP,32150963,G,C,DEPDC5,"""Sudden unexpected death in epilepsy""",Missense/nonsense,CM164372,2,365,chr22-32150963-G-C,Missense/nonsense-SNP,311
+58823256,chr2,SNP,25467407,A,C,DNMT3A,"""Tatton-Brown-Rahman syndrome""",Splicing,CS204979,1,365,chr2-25467407-A-C,Splicing-SNP,45
+16854091,chr2,SNP,47703668,C,T,MSH2,"""Colorectal cancer, non-polyposis""",Missense/nonsense,CM022430,6,365,chr2-47703668-C-T,Missense/nonsense-SNP,311
+13388388,chr12,SNP,112888190,A,T,PTPN11,"""Noonan syndrome""",Missense/nonsense,CM092721,3,365,chr12-112888190-A-T,Missense/nonsense-SNP,311
+15993172,chr11,SNP,35198191,G,C,CD44,"""CD44 variant""",Missense/nonsense,CM962735,1,365,chr11-35198191-G-C,Missense/nonsense-SNP,311
+16852239,chr19,SNP,11216033,G,C,LDLR,"""Hypercholesterolaemia""",Missense/nonsense,CM014574,2,365,chr19-11216033-G-C,Missense/nonsense-SNP,311
+97285327,chr15,INS,38786931,C,CCT,RASGRP1,"""Epstein-Barr virus associated lymphoproliferative disorder""",Small insertion,CI1814275,1,5,chr15-38786931-C-CCT,Small insertion-INS,5
+16823940,chr1,DEL,20964531,GC,G,PINK1,"""Parkinson disease, autosomal recessive""",Small deletion,CD083339,1,86,chr1-20964531-GC-G,Small deletion-DEL,84
+63806499,chr6,SNP,166579302,A,C,TBXT,"""Renal agenesis""",Missense/nonsense,CM1716152,1,365,chr6-166579302-A-C,Missense/nonsense-SNP,311
+16838135,chr8,INS,119122933,A,AG,EXT1,"""Multiple exostoses""",Small insertion,CI012286,2,5,chr8-119122933-A-AG,Small insertion-INS,5
+16917632,chr7,SNP,150648650,A,G,KCNH2,"""Long QT syndrome""",Missense/nonsense,CM970802,4,365,chr7-150648650-A-G,Missense/nonsense-SNP,311
+16952719,chr10,DUP,88649893,G,GT,BMPR1A,"""Multiple adenomas""",Small insertion,CI155946,1,21,chr10-88649893-G-GT,Small insertion-DUP,21
+14451476,chr18,DUP,29128418,C,CTG,DSG2,"""Sudden unexplained death""",Small insertion,CI1913646,1,21,chr18-29128418-C-CTG,Small insertion-DUP,21
+16855852,chr10,SNP,72358173,G,A,PRF1,"""Haemophagocytic lymphohistiocytosis, familial""",Missense/nonsense,CM030491,5,365,chr10-72358173-G-A,Missense/nonsense-SNP,311
+16816779,chr11,DEL,88033729,ACCATGAACATTTCT,A,CTSC,"""Papillon-Lefevre syndrome""",Small deletion,CD013843,1,86,chr11-88033729-ACCATGAACATTTCT-A,Small deletion-DEL,84
+52006768,chr16,DEL,2140913,GC,G,PKD1,"""Polycystic kidney disease 1""",Small deletion,CD1618403,1,86,chr16-2140913-GC-G,Small deletion-DEL,84
+112080771,chr5,SNP,13809281,A,G,DNAH5,"""Primary ciliary dyskinesia""",Missense/nonsense,CM1817074,1,365,chr5-13809281-A-G,Missense/nonsense-SNP,311
+52009743,chr2,SNP,179446468,G,A,TTN,"""Myopathy, distal""",Missense/nonsense,CM1610513,2,365,chr2-179446468-G-A,Missense/nonsense-SNP,311
+16905874,chr3,SNP,13860677,C,A,WNT7A,"""Al-Awadi-Raas-Rothschild syndrome""",Missense/nonsense,CM136986,1,365,chr3-13860677-C-A,Missense/nonsense-SNP,311
+82975713,chr17,SNP,78176209,A,C,CARD14,"""Atopic dermatitis""",Missense/nonsense,CM190712,2,365,chr17-78176209-A-C,Missense/nonsense-SNP,311
+37382800,chr4,SNP,619588,C,T,PDE6B,"""Retinitis pigmentosa, autosomal dominant""",Missense/nonsense,CM1514179,2,365,chr4-619588-C-T,Missense/nonsense-SNP,311
+16881918,chr10,SNP,79793660,A,G,RPS24,"""Diamond-Blackfan anaemia""",Missense/nonsense,CM096404,2,365,chr10-79793660-A-G,Missense/nonsense-SNP,311
+37382414,chr3,SNP,52442512,T,C,BAP1,"""Mesothelioma""",Missense/nonsense,CM160681,1,365,chr3-52442512-T-C,Missense/nonsense-SNP,311
+141292562,chr5,DEL,137721845,CAG,C,KDM3B,"""Hepatoblastoma""",Small deletion,CD193976,1,86,chr5-137721845-CAG-C,Small deletion-DEL,84
+16879678,chr2,SNP,38301687,C,T,CYP1B1,"""Glaucoma, primary congenital""",Missense/nonsense,CM091789,1,365,chr2-38301687-C-T,Missense/nonsense-SNP,311
+11025021,chr1,SNP,43804340,G,A,MPL,"""Amegakaryocytic thrombocytopaenia, congenital""",Missense/nonsense,CM010063,6,365,chr1-43804340-G-A,Missense/nonsense-SNP,311
+16832017,chr20,DEL,43052794,CT,C,HNF4A,"""Hypoglycaemia, hyperinsulinaemic""",Small deletion,CD131728,2,86,chr20-43052794-CT-C,Small deletion-DEL,84
+16824747,chr2,DEL,48033672,CCTAAAAG,C,MSH6,"""Colorectal cancer, non-polyposis""",Small deletion,CD088465,1,86,chr2-48033672-CCTAAAAG-C,Small deletion-DEL,84
+152655888,chr15,DEL,48580713,TG,T,SLC12A1,"""Bartter syndrome""",Small deletion,CD1920652,1,86,chr15-48580713-TG-T,Small deletion-DEL,84
+16827047,chr15,DEL,43069330,ATC,A,TTBK2,"""Spinocerebellar ataxia, type 11""",Small deletion,CD104909,1,86,chr15-43069330-ATC-A,Small deletion-DEL,84
+16953713,chr5,DUP,169145753,A,ATG,DOCK2,"""DOCK2 deficiency""",Small insertion,CI155076,1,21,chr5-169145753-A-ATG,Small insertion-DUP,21
+16929891,chr19,SNP,36342287,C,T,NPHS1,"""Nephrotic syndrome""",Splicing,CS081949,2,365,chr19-36342287-C-T,Splicing-SNP,45
+16895893,chrX,SNP,154227816,G,A,F8,"""Haemophilia A""",Missense/nonsense,CM1212705,1,365,chrX-154227816-G-A,Missense/nonsense-SNP,311
+52003689,chr1,SNP,237713847,G,A,RYR2,"""Short-coupled variant of torsade de pointes""",Missense/nonsense,CM170783,2,365,chr1-237713847-G-A,Missense/nonsense-SNP,311
+41157051,chr11,SNP,108186778,C,G,ATM,"""Breast cancer""",Missense/nonsense,CM181572,1,365,chr11-108186778-C-G,Missense/nonsense-SNP,311
+37379983,chr17,SNP,42084766,T,G,NAGS,"""N-acetylglutamate synthase deficiency""",Missense/nonsense,CM167125,1,365,chr17-42084766-T-G,Missense/nonsense-SNP,311
+16945895,chr5,SNP,37044760,G,T,NIPBL,"""Cornelia de Lange syndrome""",Missense/nonsense,CM150046,1,365,chr5-37044760-G-T,Missense/nonsense-SNP,311
+16849151,chr17,SNP,29527494,C,T,NF1,"""Neurofibromatosis 1""","Missense/nonsense,Splicing",CM003945;CS001839,5,365,chr17-29527494-C-T,"Missense/nonsense,Splicing-SNP",1
+16951429,chr1,SNP,197325980,T,A,CRB1,"""Leber congenital amaurosis""",Missense/nonsense,CM155696,1,365,chr1-197325980-T-A,Missense/nonsense-SNP,311
+52014353,chrX,SNP,100608213,A,G,BTK,"""Agammaglobulinaemia""",Missense/nonsense,CM1611444,1,365,chrX-100608213-A-G,Missense/nonsense-SNP,311
+51814645,chr3,SNP,38601712,C,T,SCN5A,"""Long QT syndrome""",Missense/nonsense,CM1814058,2,365,chr3-38601712-C-T,Missense/nonsense-SNP,311
+112077770,chr11,SNP,17574667,C,G,OTOG,"""Prelingual hearing loss without vestibular dysfunction""",Missense/nonsense,CM190713,2,365,chr11-17574667-C-G,Missense/nonsense-SNP,311
+147512628,chr1,MNP,183542953,G,<DEL>,NCF2,"""Chronic granulomatous disease""",Gross deletion,CG101607,1,12,chr1-183542953-G-<DEL>,Gross deletion-MNP,3
+16886687,chr2,SNP,27601023,A,G,ZNF513,"""Retinitis pigmentosa, autosomal recessive""",Missense/nonsense,CM105628,1,365,chr2-27601023-A-G,Missense/nonsense-SNP,311
+14728582,chr3,SNP,165547330,G,A,BCHE,"""Butyrylcholinesterase variant""",Missense/nonsense,CM080100,1,365,chr3-165547330-G-A,Missense/nonsense-SNP,311
+16863265,chr14,SNP,45642268,C,A,FANCM,"""Fanconi anaemia""",Missense/nonsense,CM053265,2,365,chr14-45642268-C-A,Missense/nonsense-SNP,311
+16928375,chrX,SNP,68049649,C,T,EFNB1,"""Craniofrontonasal syndrome""",Splicing,CS062049,2,365,chrX-68049649-C-T,Splicing-SNP,45
+16849050,chrX,SNP,153296881,C,T,MECP2,"""Rett syndrome""",Missense/nonsense,CM003766,7,365,chrX-153296881-C-T,Missense/nonsense-SNP,311
+16943051,chr5,DEL,70220985,GT,G,SMN1,"""Spinal muscular atrophy""",Small deletion,CD149138,2,86,chr5-70220985-GT-G,Small deletion-DEL,84
+97286449,chr19,SNP,16437775,G,A,KLF2,"""Left ventricular obstruction""",Missense/nonsense,CM1722914,1,365,chr19-16437775-G-A,Missense/nonsense-SNP,311
+16911205,chr1,SNP,21887619,C,T,ALPL,"""Hypophosphatasia""",Missense/nonsense,CM920018,5,365,chr1-21887619-C-T,Missense/nonsense-SNP,311
+16849751,chr11,SNP,44296939,G,A,ALX4,"""Foramina parietalia permagna""",Missense/nonsense,CM010012,3,365,chr11-44296939-G-A,Missense/nonsense-SNP,311
+16932352,chr14,SNP,88434678,C,T,GALC,"""Krabbe disease""",Splicing,CS1110644,3,365,chr14-88434678-C-T,Splicing-SNP,45
+16903291,chr17,SNP,58678135,G,T,PPM1D,"""Reduced phosphatase activity""",Missense/nonsense,CM1314303,1,365,chr17-58678135-G-T,Missense/nonsense-SNP,311
+21576843,chr1,SNP,76257975,A,G,RABGGTB,"""Developmental disorder""",Missense/nonsense,CM1721104,1,365,chr1-76257975-A-G,Missense/nonsense-SNP,311
+52012168,chr6,DUP,43555088,T,TA,POLH,"""Xeroderma pigmentosum, variant""",Small insertion,CI1610579,2,21,chr6-43555088-T-TA,Small insertion-DUP,21
+16939532,chr7,MNP,143027909,CG,TA,CLCN1,"""Myotonia congenita""",Small indel,CX942107,1,12,chr7-143027909-CG-TA,Small indel-MNP,9
+16828839,N/A,N/A,N/A,N/A,N/A,KEL,"""K(null) phenotype""",Small deletion,CD115331,1,N/A,N/A,N/A,0
+16864470,N/A,N/A,N/A,N/A,N/A,CASR,"""Hypercalcaemia, hypocalciuric & hypoparathyroidism""",Missense/nonsense,CM055915,2,N/A,N/A,N/A,0
+16817404,N/A,N/A,N/A,N/A,N/A,LBR,"""Pelger-Huet anomaly""",Small deletion,CD021830,1,N/A,N/A,N/A,0
+34527170,N/A,N/A,N/A,N/A,N/A,MYH7,"""Cardiomyopathy, hypertrophic""",Missense/nonsense,CM1616703,1,N/A,N/A,N/A,0
+86043297,N/A,N/A,N/A,N/A,N/A,SMCHD1,"""Facioscapulohumeral muscular dystrophy 2""",Small insertion,CI1922329,1,N/A,N/A,N/A,0
+16938320,N/A,N/A,N/A,N/A,N/A,TK2,"""Mitochondrial DNA depletion syndrome""",Small indel,CX064766,2,N/A,N/A,N/A,0
+16855311,N/A,N/A,N/A,N/A,N/A,CFTR,"""Cystic fibrosis""",Missense/nonsense,CM024688,1,N/A,N/A,N/A,0
+75267450,N/A,N/A,N/A,N/A,N/A,MAPK8IP3,"""Autism spectrum disorder""",Missense/nonsense,CM1416795,2,N/A,N/A,N/A,0
+16863440,N/A,N/A,N/A,N/A,N/A,AR,"""Androgen insensitivity syndrome""",Missense/nonsense,CM053770,1,N/A,N/A,N/A,0
+16850034,N/A,N/A,N/A,N/A,N/A,MYH9,"""May-Hegglin anomaly""",Missense/nonsense,CM010348,14,N/A,N/A,N/A,0
+52012596,N/A,N/A,N/A,N/A,N/A,ASL,"""Argininosuccinate lyase deficiency""",Splicing,CS175247,1,N/A,N/A,N/A,0
