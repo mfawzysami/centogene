@@ -7,6 +7,9 @@ from argparse import ArgumentParser
 
 
 def prepare_parser():
+    """
+     Prepare parser command line arguments
+    """
     p = ArgumentParser(description="Combining Variants with Disease Table")
     p.add_argument("--variants", "-i", help="Absolute path of your variants Text File", default=None, required=True)
     p.add_argument("--diseases", "-d", help="The absolute path of your diseases CSV File", default=None, required=True)
@@ -18,6 +21,9 @@ def prepare_parser():
 
 
 def prepare_variants(variants_file: str) -> Tuple[defaultdict,Counter]:
+    """
+    This function will take the variants file, process it, and return a tuple of results
+    """
     if variants_file is None or len(variants_file) == 0:
         raise Exception("Variants file is required")
     if not os.path.exists(variants_file):
@@ -46,6 +52,9 @@ def prepare_variants(variants_file: str) -> Tuple[defaultdict,Counter]:
 
 
 def prepare_diseases(diseases_file: str) -> defaultdict:
+    """
+    This function will process the diseases table and return a dictionary
+    """
     if diseases_file is None or len(diseases_file) == 0:
         raise Exception("Disease file must be set")
     if not os.path.exists(diseases_file):
@@ -67,6 +76,9 @@ def prepare_diseases(diseases_file: str) -> defaultdict:
 
 
 def combine(output_file: str, variants: defaultdict,variants_stats:Counter, diseases: defaultdict) -> bool:
+    """
+    This function will combine both processed files: variants and diseases....
+    """
     if output_file is None or len(output_file) == 0:
         raise Exception("Output file should be set")
     if len(diseases.keys()) < 1:
