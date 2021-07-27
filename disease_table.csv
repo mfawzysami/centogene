@@ -1,0 +1,507 @@
+﻿##DESCRIPTION=variant_id: technical id of variant table,,,,,
+##DESCRIPTION=gene: gene name,,,,,
+##DESCRIPTION=disease:disease description,,,,,
+##DESCRIPTION=mutationtype:mutation type,,,,,
+##DESCRIPTION=acc_num:accession number,,,,,
+##DESCRIPTION=n_pub: Number of publications ,,,,,
+#variant_id,gene,disease,mutationtype,acc_num,n_pub
+16928548,PRPF31,Retinitis pigmentosa,Splicing,CS063376,3
+16833695,HPRT1,Hypoxanthine guanine phosphoribosyltransferase deficiency,Small deletion,CD900290,1
+16936088,ALDOB,Fructose intolerance,Splicing,CS951343,2
+16950748,BRCA2,Breast and/or ovarian cancer,Small deletion,CD157746,1
+16826672,UNC13D,"Haemophagocytic lymphohistiocytosis, familial",Small deletion,CD102162,3
+16875453,FOXH1,Congenital heart defects,Missense/nonsense,CM082694,1
+87401739,CHM,Retinal dystrophy,Small deletion,CD1720505,2
+37380052,COL1A1,Osteogenesis imperfecta III,Missense/nonsense,CM1514956,2
+59146652,TELO2,You-Hoover-Fong syndrome,Small insertion,CI1713589,1
+13390838,IGF1R,"Endometrial cancer, modified risk, in Lynch syndrome",Missense/nonsense,CM1516932,1
+37383745,TULP1,Retinitis pigmentosa,Missense/nonsense,CM1514188,1
+75265674,RRAGC,Autism spectrum disorder,Missense/nonsense,CM1415895,1
+16837437,PAX6,Aniridia,Small deletion,CD994017,1
+87399093,KCNJ2,Andersen-Tawil syndrome,Missense/nonsense,CM187277,1
+16939493,ASPH,"Facial dysmorphism, lens dislocation, anterior-segment abnormalities & Traboulsi syndrome",Small indel,CX144720,1
+10948877,SLC12A3,"Diabetic nephropathy, association with",Splicing,CS035601,2
+16942841,SATB2,Cleft lip,Missense/nonsense,CM058417,1
+16850628,SLC26A4,Pendred syndrome,Missense/nonsense,CM011487,4
+141290510,GAA,"Glycogen storage disease 2, late-onset",Missense/nonsense,CM1822969,1
+16910137,EN2,Intellectual and developmental disabilities,Missense/nonsense,CM145094,1
+16872307,TBX22,"Cleft palate, non-syndromic",Missense/nonsense,CM074592,2
+16890569,FGF3,"Labyrinthine aplasia, microtia & microdontia",Missense/nonsense,CM112641,1
+16917545,HBB,Beta thalassaemia,Missense/nonsense,CM970710,1
+11618866,GNPTAB,Mucolipidosis IIIA/B,Small indel,CX154670,2
+141289048,DIS3,Multiple myeloma,Missense/nonsense,CM197501,1
+63805148,NF1,Cancer,Small deletion,CD1718198,1
+37377551,HOXC11,Clubfoot,Missense/nonsense,CM165645,1
+97288416,ANK1,Haemolytic anaemia,Missense/nonsense,CM1815609,1
+19773814,CLCN1,"Myotonia, Thomsen",Missense/nonsense,CM1813848,1
+37375601,ZNF644,High myopia,Missense/nonsense,CM146718,1
+16874918,ABCB11,"Intrahepatic cholestasis, familial progressive 2",Missense/nonsense,CM081505,2
+16877224,KIRREL3,Intellectual disability,Missense/nonsense,CM086843,3
+14430952,ARL5B,Altered expression,Regulatory,CR142065,1
+16847724,STK11,Peutz-Jeghers syndrome,Missense/nonsense,CM001344,1
+27212081,DSCAML1,Retinal disease,Missense/nonsense,CM180438,1
+63804013,PCSK9,Low LDL cholesterol,Missense/nonsense,CM1415677,1
+16902404,NDUFAF5,Mitochondrial complex 1 deficiency,Missense/nonsense,CM1312585,1
+28413458,CYP4A11,Inactive P450 enzyme,Missense/nonsense,CM1517380,1
+16942925,SLC16A1,Monocarboxylate transporter 1 deficiency,Missense/nonsense,CM1411337,2
+125064957,ATM,Ataxia telangiectasia,Missense/nonsense,CM1112051,1
+10918008,ZNF500,"Increased adult height, association with",Missense/nonsense,CM174120,1
+75266653,SORL1,"Alzheimer disease, early onset",Missense/nonsense,CM1719365,1
+63805569,ALMS1,Alstrom syndrome,Missense/nonsense,CM156214,1
+52011722,AP3B1,"Haemophagocytic lymphohistiocytosis, familial",Missense/nonsense,CM173628,1
+15742767,ZDHHC16,"Autism spectrum disorder, association with",Missense/nonsense,CM209824,1
+16925514,PRKAR1A,Carney complex,Splicing,CS003078,2
+16872578,MSH2,Muir-Torre syndrome,Missense/nonsense,CM074940,1
+141291727,TANGO2,"Epilepsy, developmental delay, neuroregression, and episodes of alternating hemiparesis",Splicing,CS197383,1
+58377869,TINF2,"Global ichthyosis, abnormal nails, absent hair and abnormal pigmentation",Missense/nonsense,CM1924702,1
+136141568,ATM,"Breast cancer, female",Missense/nonsense,CM1823080,1
+16869086,PAX6,Aniridia,Missense/nonsense,CM066959,2
+26321998,OTOF,Hearing loss,Missense/nonsense,CM173979,1
+14227457,ITGA4,"Increased peripheral blood monocyte counts, association with",Regulatory,CR116910,1
+16894619,COL2A1,Spondyloepiphyseal dysplasia / COL2A1-related dysplasia,Missense/nonsense,CM1210172,1
+16916072,GLA,Fabry disease,Missense/nonsense,CM960768,4
+16872661,TPM2,Muscle weakness and distal limb deformity,Missense/nonsense,CM075040,10
+16884604,PAH,Phenylketonuria,Missense/nonsense,CM101155,1
+16880016,ASPM,Primary microcephaly,Missense/nonsense,CM092389,2
+16847910,OTC,Ornithine transcarbamylase deficiency,Missense/nonsense,CM001752,2
+16911366,CHM,Choroideraemia,Missense/nonsense,CM920195,2
+59144067,CD46,"Haemolytic uraemic syndrome, atypical",Missense/nonsense,CM1516828,1
+16896352,NLRP7,Hydatidiform mole,Missense/nonsense,CM121631,1
+59148058,NOTCH3,CADASIL,Missense/nonsense,CM1714279,1
+37382730,TNIK,Intellectual disability,Missense/nonsense,CM167595,1
+16953638,LSS,Cataract,Missense/nonsense,CM157640,1
+16885372,PMS2,"Colorectal cancer, non-polyposis",Missense/nonsense,CM102798,2
+87400928,STX11,Increased bleeding tendency,Missense/nonsense,CM186190,1
+37376582,FGFR2,Autism spectrum disorder,Missense/nonsense,CM1513933,1
+63804764,BRCA2,Cancer,Small indel,CX1716946,1
+37384641,GTF2E2,Trichothiodystrophy,Missense/nonsense,CM164270,1
+52004483,MEN1,Multiple endocrine neoplasia 1,Missense/nonsense,CM169270,1
+16336431,RPA1,Lynch syndrome,Missense/nonsense,CM1913246,1
+37379973,BRCA1,Breast cancer,Splicing,CS1515539,5
+37385147,ADAMTS13,Thrombotic thrombocytopaenic purpura,Missense/nonsense,CM163486,1
+16893029,CYP27B1,"Rickets, vitamin D dependent, type I",Missense/nonsense,CM117757,1
+59150253,SKIV2L,Trichohepatoenteric syndrome,Missense/nonsense,CM1715602,1
+59143751,HDAC1,Autism spectrum disorder,Missense/nonsense,CM1713333,3
+16943810,POLR3B,"Hypomyelination, hypodontia & hypogonadotropic hypogonadism",Missense/nonsense,CM1411461,1
+12800103,MDM4,"Atrioventricular septum defect, partial",Missense/nonsense,CM161428,1
+18333571,TECTA,"Hearing loss, non-syndromic",Missense/nonsense,CM1515081,2
+52007545,MYH2,Myopathy with external ophthalmoplegia,Missense/nonsense,CM170856,1
+16836066,COL1A1,Osteogenesis imperfecta I,Small deletion,CD982547,2
+16841762,SPATA7,Leber congenital amaurosis,Small insertion,CI091505,1
+16894969,PKD1,Polycystic kidney disease 1,Missense/nonsense,CM1210921,1
+16857991,TNNT2,"Cardiomyopathy, hypertrophic",Missense/nonsense,CM034584,8
+16941922,TMC1,Hearing loss,Small insertion,CI1413476,1
+14346030,CD33,"Alzheimer disease, increased risk, association with",Regulatory,CR126393,10
+37381391,ttnnovex3,"Cardiomyopathy, dilated",Small deletion,CD1514647,1
+16910668,F8,Haemophilia A,Missense/nonsense,CM900092,5
+16838167,MNX1,Currarino syndrome,Small insertion,CI012566,1
+16815930,BRCA1,Breast cancer,Small deletion,CD004162,2
+16889507,FAS,Autoimmune lymphoproliferative syndrome,Missense/nonsense,CM1110971,1
+16911908,AR,Androgen insensitivity syndrome,Missense/nonsense,CM930035,2
+16926909,MAN2B1,"Mannosidosis, alpha",Splicing,CS033946,2
+16848624,NAGLU,Sanfilippo syndrome B,Missense/nonsense,CM003007,3
+16857233,RYR2,"Ventricular tachycardia, polymorphic",Missense/nonsense,CM033016,2
+22204838,SCN1A,Epilepsy and/or neurodevelopmental disorders,Missense/nonsense,CM1817957,1
+16834344,PRPH2,Pattern/cone-rod dystrophy,Small deletion,CD941787,1
+16906898,NPHP1,Nephronophthisis-related ciliopathy,Missense/nonsense,CM139033,1
+16942598,HBB,Beta thalassaemia,Regulatory,CR149478,1
+16821244,BMPR2,"Pulmonary hypertension, primary",Small deletion,CD061374,1
+16878439,KIF5A,Spastic paraplegia,Missense/nonsense,CM090638,1
+13241048,DNAH11,Primary ciliary dyskinesia,Splicing,CS1825685,1
+141291091,MSH6,Colorectal cancer,Small insertion,CI198779,1
+16869919,F8,Haemophilia A,Missense/nonsense,CM070107,2
+97286618,BIRC6,Autism spectrum disorder,Missense/nonsense,CM1722204,1
+16944525,USH2A,Usher syndrome 2,Small deletion,CD149994,1
+16903705,IRF6,Van der Woude syndrome,Missense/nonsense,CM132283,1
+112079804,SCN2A,Epilepsy and/or neurodevelopmental disorders,Missense/nonsense,CM1820462,1
+86225834,USH2A,Retinitis pigmentosa / rod-cone dystrophy,Missense/nonsense,CM1825922,1
+10883247,IL10,"Behçet disease, association with",Splicing,CS104719,2
+87397110,PTEN,Medulloblastoma,Small deletion,CD188212,1
+17453416,BRCA1,Breast cancer,Small deletion,CD123597,2
+16836041,BTK,Agammaglobulinaemia,Small deletion,CD982514,1
+75593714,GAA,Glycogen storage disease 2,Missense/nonsense,CM203639,1
+37375711,AGL,Glycogen storage disease 3,Small insertion,CI168984,1
+13854048,CD2AP,"Nephrotic syndrome, steroid resistant",Missense/nonsense,CM1817407,1
+52009877,STAT1,"Immunodeficiency, primary",Missense/nonsense,CM171577,2
+16945427,SLC2A1,Intellectual disability,Small deletion,CD1413229,1
+16835882,SLC4A1,Spherocytosis,Small deletion,CD973100,1
+59149447,NDUFAF3,Abnormality of the mitochondrion,Small deletion,CD1619023,1
+59144375,MAT1A,"Methionine adenosyltransferase I/III deficiency, autosomal dominant",Missense/nonsense,CM1619236,1
+32141906,PDHA1,Multiple sclerosis,Missense/nonsense,CM175640,1
+16934535,LEPR,"Obesity, early-onset",Splicing,CS1313241,1
+52004529,NDUFV1,"Leigh syndrome, and complex I deficiency",Missense/nonsense,CM169985,1
+16848079,MPL,"Amegakaryocytic thrombocytopaenia, congenital",Missense/nonsense,CM002062,3
+16908291,CNGA1,Retinitis pigmentosa,Missense/nonsense,CM141755,1
+16915285,AR,Androgen insensitivity syndrome,Missense/nonsense,CM952080,1
+16863642,NDUFAF2,Mitochondrial complex I deficiency,Missense/nonsense,CM053986,4
+87401373,PTCH1,Nevoid basal cell carcinoma syndrome,Small insertion,CI188949,1
+16821976,SLC6A8,Creatine deficiency,Small deletion,CD065792,1
+16824425,DCAF17,Woodhouse-Sakati syndrome,Small deletion,CD086179,1
+16914844,PAH,Phenylketonuria,Missense/nonsense,CM950887,1
+37384681,KAT6A,Neurodevelopmental disorder,Small deletion,CD166939,2
+16947530,NOD2,Blau syndrome,Missense/nonsense,CM1412976,1
+16826669,L2HGDH,L-2-Hydroxyglutaric aciduria,Small deletion,CD102147,1
+16887764,LDLR,Hypercholesterolaemia,Missense/nonsense,CM108012,2
+37382884,REST,Wilms tumour,Missense/nonsense,CM1513324,1
+16889677,PEX2,Zellweger syndrome,Missense/nonsense,CM111136,1
+130135953,ATM,"Breast cancer, male",Missense/nonsense,CM1822756,1
+12748485,TPRN,"Deafness, nonsyndromic",Small deletion,CD101480,2
+16952154,ACTA2,Thoracic aortic aneurysms and dissections,Missense/nonsense,CM158137,1
+16910399,HBB,Haemoglobin variant,Missense/nonsense,CM870036,2
+16873390,NPHS2,Nephrotic syndrome,Missense/nonsense,CM077313,1
+87400155,BHLHE40,Mesial temporal lobe epilepsy with hippocampal sclerosis,Missense/nonsense,CM189517,1
+16824453,RB1,Retinoblastoma,Small deletion,CD086243,1
+10983955,COL9A3,Pseudoachondroplasia,Missense/nonsense,CM108144,3
+16854811,GLA,Fabry disease,Missense/nonsense,CM023784,3
+141288229,ATM,Ovarian cancer,Small deletion,CD1825207,1
+16923529,NDP,Norrie disease,Missense/nonsense,CM994224,1
+16829744,PKD1,Polycystic kidney disease 1,Small deletion,CD1210734,1
+59147251,PMP22,"Neuropathy, liability to pressure palsies",Splicing,CS1714941,1
+59144401,PTEN,Intellectual disability with overgrowth,Small deletion,CD176423,1
+16855058,GLA,Fabry disease,Missense/nonsense,CM024296,2
+147515375,SOX11,Craniosynostosis,Missense/nonsense,CM1913677,1
+59150272,FANCE,Head and neck squamous cell carcinoma,Missense/nonsense,CM178694,1
+152657662,THRB,Thyroid hormone resistance modifier,Missense/nonsense,CM1917403,1
+11010628,SIGLEC15,"Recurrent vulvovaginal candidiasis, association with",Missense/nonsense,CM1910659,1
+37381754,MKKS,Nephronophthisis-related ciliopathy,Splicing,CS163335,1
+97287110,DONSON,Microcephalic dwarfism,Splicing,CS1812949,1
+87401361,PTCH1,Nevoid basal cell carcinoma syndrome,Small deletion,CD188952,1
+37381379,ttnic,Muscular dystrophy,Small insertion,CI168499,2
+97288506,TMEM67,Congenital heart disease,Missense/nonsense,CM1722829,1
+147518651,MECP2,Rett syndrome,Gross deletion,CG024944,1
+16921922,HMBS,"Porphyria, acute intermittent",Missense/nonsense,CM990734,1
+16864231,KCNH2,Long QT syndrome,Missense/nonsense,CM055317,2
+16901418,ush1cpst,Deafness,Missense/nonsense,CM1310702,2
+16936413,MSH2,"Colorectal cancer, non-polyposis",Splicing,CS961625,1
+16857994,TPM1,"Cardiomyopathy, hypertrophic",Missense/nonsense,CM034585,5
+37376706,ABCC8,Hyperinsulinism,Missense/nonsense,CM1512981,1
+112081228,FLNC,"Cardiomyopathy, hypertrophic",Missense/nonsense,CM1822381,1
+32675152,CD70,Combined immunodeficiency & Epstein-Barr virus induced B cell malignancy,Missense/nonsense,CM170786,1
+16926043,PRPF31,Retinitis pigmentosa,Splicing,CS014614,5
+39744262,TPP1,Pediatric movement disorder,Missense/nonsense,CM1816402,1
+16902471,SLC20A2,"Basal ganglia calcification, idiopathic",Missense/nonsense,CM1312727,2
+147515719,MGAT5,Henoch-Schonlein purpura,Missense/nonsense,CM1915644,1
+37380001,EFTUD2,Mandibulofacial dysostosis with microcephaly,Small deletion,CD162418,2
+16840307,SPAST,"Spastic paraplegia, autosomal dominant",Small insertion,CI063725,1
+16919442,F9,Haemophilia B,Missense/nonsense,CM980722,3
+37379396,GUCY2D,Leber congenital amaurosis,Small deletion,CD167727,2
+16861800,RB1,Retinoblastoma,Missense/nonsense,CM050312,2
+16919491,FOXC1,Axenfeld-Rieger anomaly,Missense/nonsense,CM980764,2
+16826970,AGL,Glycogen storage disease 3,Small deletion,CD104357,1
+112078420,ATP7B,Wilson disease,Missense/nonsense,CM1821186,1
+16914155,BRCA1,Breast cancer,Missense/nonsense,CM950144,24
+16875720,NLRP3,Cryopyrin-associated periodic syndrome,Missense/nonsense,CM082971,2
+16927715,GLA,Fabry disease,Splicing,CS051255,1
+16891094,GJB1,"Charcot-Marie-Tooth disease, X-linked, type 1",Missense/nonsense,CM113594,1
+87398874,BRCA1,Breast and/or ovarian cancer,Missense/nonsense,CM186293,1
+152657267,ttnic,Cardiomyopathy,Small deletion,CD1920707,1
+16890859,INS,"Diabetes, neonatal",Missense/nonsense,CM113239,1
+37380937,FANCL,Fanconi anaemia,Splicing,CS164619,1
+16845828,CFTR,Cystic fibrosis,Small insertion,CI962239,1
+16821903,EXT1,Multiple exostoses,Small deletion,CD065713,1
+95346683,FBN1,Marfan syndrome,Missense/nonsense,CM1920239,1
+14264087,GHRHR,"Breast cancer, decreased risk, association with",Regulatory,CR066667,1
+112080008,ttnic,"Atrial fibrillation, early-onset",Small insertion,CI1819133,1
+97284631,GRIN2B,Autism spectrum disorder,Missense/nonsense,CM1417516,2
+16931259,DMD,"Muscular dystrophy, Duchenne",Splicing,CS098754,2
+112079267,BRCA1,"Breast cancer, male",Missense/nonsense,CM1818516,1
+92336821,BMPR2,Pulmonary arterial hypertension,Missense/nonsense,CM1823640,1
+16871169,ZEB1,Posterior polymorphous corneal dystrophy,Missense/nonsense,CM072124,4
+13198910,SERPINA1,Alpha-1-antitrypsin deficiency,Missense/nonsense,CM890095,9
+16836696,RB1,Retinoblastoma,Small deletion,CD984658,1
+14409876,MYLK,"Asthma, association with",Splicing,CS078536,1
+16917769,MLH1,"Colorectal cancer, non-polyposis",Missense/nonsense,CM970953,26
+16921725,F8,Haemophilia A,Missense/nonsense,CM990530,2
+16903002,SACS,"Spastic ataxia, Charlevoix-Saguenay",Missense/nonsense,CM131375,1
+110124736,CDH1,"Breast cancer, female",Missense/nonsense,CM1820618,1
+16828115,PHEX,"Rickets, hypophosphataemic",Small deletion,CD111063,2
+152655546,KMT2D,Hypoplastic left heart syndrome,Small deletion,CD1920530,1
+152656341,ARL2BP,Retinitis pigmentosa,Missense/nonsense,CM1919544,1
+16941420,STK11,Peutz-Jeghers syndrome,Missense/nonsense,CM147059,1
+16822019,GLA,Fabry disease,Small deletion,CD066362,1
+87398392,IFT140,Mainzer-Saldino syndrome,Missense/nonsense,CM187900,1
+16932628,IDUA,Hurler syndrome,Splicing,CS113580,2
+16852689,CYBB,Chronic granulomatous disease,Missense/nonsense,CM015931,1
+16923952,SPAST,"Spastic paraplegia, autosomal dominant",Small indel,CP025184,1
+59555092,SMC1A,Cohesinopathy,Missense/nonsense,CM1812444,1
+52682381,PUS1,Myopathy-lactic acidosis-sideroblastic anaemia syndrome,Missense/nonsense,CM1713707,1
+16885202,GJA3,Congenital cataract,Missense/nonsense,CM102458,3
+87398950,SLC4A1,Spherocytosis,Missense/nonsense,CM187428,1
+147518088,DMD,"Muscular dystrophy, Duchenne",Gross deletion,CG112363,1
+52010106,JAG1,Alagille syndrome,Small deletion,CD1613965,1
+14935874,ttnic,"Cardiomyopathy, arrhythmogenic",Missense/nonsense,CM197666,1
+16832033,ALAS2,Sideroblastic anaemia,Small deletion,CD131879,1
+16869748,HPRT1,Lesch-Nyhan syndrome,Missense/nonsense,CM068580,1
+16948090,P4HB,"Amyotrophic lateral sclerosis, predisposition to",Missense/nonsense,CM153932,1
+16862912,NSD1,Sotos syndrome,Missense/nonsense,CM052303,2
+16880644,COL5A1,Ehlers-Danlos syndrome,Missense/nonsense,CM093855,1
+16913269,F9,Haemophilia B,Missense/nonsense,CM940696,4
+16888756,NDUFS1,Complex 1 deficiency,Missense/nonsense,CM110315,1
+16914174,BTK,Agammaglobulinaemia,Missense/nonsense,CM950162,2
+33651533,IKBKE,"Autoimmune lymphoproliferative syndrome with autoimmune cytopaenias, modifier",Missense/nonsense,CM184401,1
+52008059,BRIP1,Breast cancer,Small insertion,CI1516477,2
+16885135,SMPD1,Niemann-Pick disease,Missense/nonsense,CM102286,2
+16920972,BRCA1,Breast and/or ovarian cancer,Missense/nonsense,CM983853,5
+52011490,FGG,Hypofibrinogenaemia,Missense/nonsense,CM1613943,1
+52010352,DIP2A,Autism spectrum disorder,Missense/nonsense,CM1617448,3
+52009935,CRYGC,"Cataract, congenital",Small deletion,CD173053,1
+16951518,COL3A1,Thoracic aortic aneurysms and dissections,Missense/nonsense,CM158138,2
+16894953,PKD1,Polycystic kidney disease 1,Missense/nonsense,CM1210874,1
+16909277,NF1,Neurofibromatosis 1,Missense/nonsense,CM143359,1
+16940146,SLC7A9,Cystinuria,Missense/nonsense,HM070028,2
+11725844,APC,Colorectal adenoma,Missense/nonsense,CM080050,2
+16837248,LMX1B,Nail patella syndrome,Small deletion,CD993056,1
+63805614,ALMS1,Alstrom syndrome,Missense/nonsense,CM156237,1
+16852039,PANK2,Pantothenate kinase-associated neurodegeneration,Missense/nonsense,CM014247,3
+37380507,LDLR,Hypercholesterolaemia,Small deletion,CD162622,1
+16876773,OFD1,Oral-facial-digital syndrome I,Missense/nonsense,CM085610,1
+16876597,FBN1,Marfan syndrome,Missense/nonsense,CM085425,2
+41319003,KDR,Vascular anomalies,Missense/nonsense,CM1710275,1
+59148079,UPF1,"Intellectual disability, gross motor delay, seizures, scoliosis, hearing and sight issues",Small indel,CX176558,1
+16917760,MET,Papillary renal carcinoma,Missense/nonsense,CM970943,1
+16853872,ITGA2B,Glanzmann thrombasthenia,Missense/nonsense,CM022027,1
+34385666,CNGB1,Autism spectrum disorder,Missense/nonsense,CM1416812,1
+91651481,FLCN,Birt-Hogg-Dubé syndrome,Missense/nonsense,CM1825979,1
+16884006,TP53,Breast and/or ovarian cancer,Missense/nonsense,CM100445,2
+10997891,ADAMTSL4,Ectopia lentis,Missense/nonsense,CM1718662,1
+16866901,COL1A1,Osteogenesis imperfecta II,Missense/nonsense,CM062528,1
+16892119,SLC26A3,"Diarrhoea, congenital chloride",Missense/nonsense,CM115695,1
+16938076,NIPBL,Cornelia de Lange syndrome,Small indel,CX042666,1
+16951529,ABCA4,Cone/cone-rod dystrophy,Splicing,CS156171,2
+16862315,PTEN,Autism spectrum disorder and macrocephaly,Missense/nonsense,CM051216,5
+52003447,NMNAT2,Multiple congenital anomalies,Missense/nonsense,CM171800,2
+59144441,PDE6C,Retinal dystrophy,Splicing,CS1618533,2
+12384603,LIPC,Lower hepatic lipase activity,Regulatory,CR971949,10
+16835370,ATP7B,Wilson disease,Small deletion,CD972036,1
+16878785,RB1,Retinoblastoma,Missense/nonsense,CM0910366,2
+16832416,FAM111A,Osteocraniostenosis,Small deletion,CD134981,2
+16836409,PTEN,Bannayan-Zonana syndrome,Small deletion,CD982915,1
+14503143,BTRC,"Hepatocellular carcinoma, reduced risk, association with",Small deletion,CD102928,1
+16847090,COL3A1,Ehlers-Danlos syndrome IV,Missense/nonsense,CM000360,1
+20830501,PROKR2,Altered function,Missense/nonsense,CM180943,1
+17708804,INPP5E,Joubert syndrome,Missense/nonsense,CM1515907,1
+16823894,ENG,Hereditary haemorrhagic telangiectasia,Small deletion,CD083292,1
+41573631,opa1tv8,Optic atrophy,Missense/nonsense,CM175502,1
+16943397,CAPN3,"Muscular dystrophy, limb girdle 2A",Missense/nonsense,CM148800,1
+16867540,ABCC8,Hyperinsulinism,Missense/nonsense,CM063819,1
+16946502,AGL,Glycogen storage disease 3a,Small insertion,CI150334,2
+90376202,NOTCH1,"Intracranial vertebral-basilar artery dissection, susceptibility to",Missense/nonsense,CM1816376,1
+59150315,MMUT,Methylmalonic aciduria,Small deletion,CD1711102,1
+13258654,FANCM,"Endometrial cancer, modified risk, in Lynch syndrome",Missense/nonsense,CM1516930,2
+16822311,SLC17A5,Salla disease,Small deletion,CD068603,1
+141290245,BRCA1,Breast and/or ovarian cancer,Small deletion,CD196356,1
+52008163,SMCHD1,Bosma arhinia microphthalmia syndrome,Missense/nonsense,CM171228,1
+37378166,MYH7,Cardiomyopathy & distal myopathy,Missense/nonsense,CM168785,2
+16859918,MYO7A,"Deafness, non-syndromic, autosomal dominant",Missense/nonsense,CM042433,1
+16886966,CYBB,Chronic granulomatous disease,Missense/nonsense,CM106275,2
+16928850,SCN1A,Severe myoclonic epilepsy of infancy,Splicing,CS067120,1
+37382875,KIT,Piebaldism,Missense/nonsense,CM1314914,1
+16894885,MECP2,Rett syndrome,Missense/nonsense,CM1210654,1
+16834050,IDS,Mucopolysaccharidosis II,Small deletion,CD931010,1
+15482142,MBD6,Autism,Missense/nonsense,CM1212435,1
+59150046,APC,Adenomatous polyposis coli,Small deletion,CD179229,1
+112079510,LDLR,Hypercholesterolaemia,Small deletion,CD1817379,2
+10936048,USF3,Childhood disintegrative disorder,Small deletion,CD174343,1
+37377456,COL2A1,Stickler syndrome,Small deletion,CD104529,1
+16948450,RB1,Retinoblastoma,Small insertion,CI152969,1
+27974496,CP,Aceruloplasminaemia,Missense/nonsense,CM208443,1
+16858926,CRB1,Leber congenital amaurosis,Missense/nonsense,CM040711,1
+11289882,WWOX,Intellectual disability,Missense/nonsense,CM164753,1
+52003744,TUBB8,Oocyte maturation arrest,Missense/nonsense,CM1611288,1
+37375782,SF3B4,Rodriguez syndrome,Splicing,CS146586,2
+112080578,CASR,"Hypercalcaemia, hypocalciuric",Missense/nonsense,CM190016,1
+31348168,PCARE,Retinitis pigmentosa,Missense/nonsense,CM1723620,1
+16924960,F9,Haemophilia B,Regulatory,CR1314249,1
+23297023,PEX19,Peroxisomal biogenesis disorder,Missense/nonsense,CM191118,1
+16880040,FBN1,Marfan syndrome,Missense/nonsense,CM092467,1
+16883649,HBB,Haemoglobin variant,Missense/nonsense,CM099768,3
+75269394,COL7A1,Epidermolysis bullosa dystrophica,Missense/nonsense,CM1620250,1
+37381434,STAT1,Mucocutaneous candidiasis,Missense/nonsense,CM167453,1
+16949174,ABCC6,Pseudoxanthoma elasticum,Missense/nonsense,CM153338,1
+130255034,ARHGEF28,Amyotrophic lateral sclerosis,Missense/nonsense,CM204640,1
+16862035,NHLRC1,Myoclonic epilepsy of Lafora,Missense/nonsense,CM050727,1
+11045910,SYNE1,Sensory ataxia,Missense/nonsense,CM186781,1
+112081662,RBM10,"Talipes equinovarus, atrial septal defect, Robin sequence, and persistent left superior vena cava syndrome",Small indel,CX1821054,1
+37384872,VLDLR,Intellectual disability/developmental delay,Missense/nonsense,CM167026,1
+120800552,RTEL1,Interstitial lung disease,Missense/nonsense,CM192939,1
+16862365,COL1A1,Ehlers-Danlos syndrome/Osteogenesis imperfecta,Missense/nonsense,CM051415,3
+11852166,OGG1,Colorectal cancer,Missense/nonsense,CM109079,5
+16863781,TERT,Aplastic anaemia,Missense/nonsense,CM054143,6
+16842844,ITGB3,Glanzmann thrombasthenia,Small insertion,CI108900,1
+82890961,TRRAP,Autism spectrum disorder/intellectual disability and epilepsy,Missense/nonsense,CM193161,1
+36244687,PDGFRB,"Myofibromatosis, infantile, complex",Missense/nonsense,CM181237,1
+16848386,HPRT1,Lesch-Nyhan syndrome,Missense/nonsense,CM002624,1
+16816677,SH2D1A,"Immunodeficiency syndrome, common variable",Small deletion,CD013202,1
+16834313,PLOD1,Ehlers-Danlos syndrome VI,Small deletion,CD941759,1
+16937072,IDS,Mucopolysaccharidosis II,Splicing,CS982229,2
+16932146,SLC52A3,Fazio-Londe syndrome,Splicing,CS108918,1
+16945412,COL3A1,Ehlers-Danlos syndrome IV,Missense/nonsense,CM1412425,1
+56956906,BRCA2,Breast and/or ovarian cancer,Missense/nonsense,CM1813018,1
+87398690,CHRNE,Congenital myasthenic syndrome,Missense/nonsense,CM186106,1
+16921874,GALT,Galactosaemia,Missense/nonsense,CM990679,2
+10989645,GSTP1,"Oral cancer in light smokers, association with",Missense/nonsense,CM992339,5
+16946322,ASL,Argininosuccinic aciduria,Missense/nonsense,CM1411761,1
+16953081,QDPR,Dihydropteridine reductase deficiency,Missense/nonsense,CM155928,2
+16842340,PROC,Protein C deficiency,Small insertion,CI101147,1
+75268526,ADCY3,"Obesity, severe",Splicing,CS181603,1
+16849282,OTC,Ornithine transcarbamylase deficiency,Missense/nonsense,CM004199,3
+16927299,NIPBL,Cornelia de Lange syndrome,Splicing,CS042565,1
+16832497,SLC6A8,Creatine deficiency,Small deletion,CD135580,1
+16918645,THRB,Thyroid hormone resistance,Missense/nonsense,CM973210,1
+16854283,SERPING1,Angioneurotic oedema,Missense/nonsense,CM022845,1
+16830607,NR0B1,Adrenal hypoplasia,Small deletion,CD125654,1
+16915586,SERPING1,Angioneurotic oedema,Missense/nonsense,CM960227,1
+87399075,TLK2,Neurodevelopmental disorder,Splicing,CS188074,1
+16884204,SCN5A,Brugada syndrome,Missense/nonsense,CM100727,3
+16847855,FGG,Afibrinogenaemia,Missense/nonsense,CM001691,2
+16935185,VWF,Von Willebrand disease 2a/2e,Splicing,CS138972,1
+16929620,NF1,Neurofibromatosis 1,Splicing,CS077368,2
+16852759,SLCO1B1,Altered transport activity,Missense/nonsense,CM016145,1
+16911672,OAT,Gyrate atrophy,Missense/nonsense,CM920512,1
+147518164,DMD,Muscular dystrophy,Gross deletion,CG081004,1
+59147954,SMARCA4,Autism spectrum disorder,Missense/nonsense,CM1713287,2
+97286122,RAD51C,Breast and/or ovarian cancer,Missense/nonsense,CM1811369,1
+37377516,ACVRL1,Hereditary haemorrhagic telangiectasia,Splicing,CS147644,1
+36574648,RBM15,Mesothelioma,Missense/nonsense,CM1814154,1
+16128239,TSC2,Tuberous sclerosis,Missense/nonsense,CM991215,2
+75265722,RPE65,Leber congenital amaurosis,Small deletion,CD181507,1
+16915981,FGFR3,Thanatophoric dwarfism,Missense/nonsense,CM960657,14
+97288866,CDKL5,Epilepsy and/or neurodevelopmental disorders,Splicing,CS1815109,1
+12716207,CYP2A6,Poor metaboliser,Missense/nonsense,CM083626,1
+16951110,CACNA1F,Congenital stationary night blindness,Missense/nonsense,CM158308,1
+39231546,NYX,Retinitis Pigmentosa,Missense/nonsense,CM1919435,1
+16844085,BRCA2,Breast and/or ovarian cancer,Small insertion,CI126345,4
+16849187,MVK,Hyper-IgD periodic fever syndrome,Missense/nonsense,CM004003,1
+16856287,MOCS1,Molybdenum cofactor deficiency,Missense/nonsense,CM031244,1
+16928672,DNAH5,Primary ciliary dyskinesia,Splicing,CS065541,2
+16953342,PI4KA,Long QT syndrome,Missense/nonsense,CM156446,1
+16923523,MC4R,"Obesity, autosomal dominant",Missense/nonsense,CM994218,10
+52007438,ASPA,Canavan disease,Missense/nonsense,CM175116,1
+16824454,RB1,Retinoblastoma,Small deletion,CD086245,1
+10947664,CDAN1,"Congenital dyserythropoietic anaemia, type I",Missense/nonsense,CM180006,1
+16860866,COL4A4,Alport syndrome,Missense/nonsense,CM044600,2
+59146551,SMAD3,Colorectal cancer,Missense/nonsense,CM1713859,1
+14861574,PROK2,Kallmann syndrome,Regulatory,CR065650,1
+59150196,F13A1,Factor XIII deficiency,Splicing,CS176478,1
+16906592,KMT2D,Kabuki syndrome,Missense/nonsense,CM138443,7
+16833061,FAM20A,Enamel-renal-gingival syndrome,Small deletion,CD140188,2
+97285420,MYO5A,Congenital heart disease,Missense/nonsense,CM1722552,1
+59149389,MLH1,"Colorectal cancer, non-polyposis",Small deletion,CD108370,1
+16820042,CYLD,Brooke-Spiegler syndrome,Small deletion,CD051729,1
+16863546,F8,Haemophilia A,Missense/nonsense,CM053879,1
+11476890,SCN1A,Autism,Missense/nonsense,CM034569,2
+152658000,SPEF2,Multiple morphological abnormalities of the sperm flagella,Small deletion,CD1916947,1
+16905100,BMPR1A,Gastrointestinal polyposis,Missense/nonsense,CM135231,1
+16927394,PCCA,Propionic acidaemia,Splicing,CS043371,1
+87397335,CTNND1,"Cleft lip and/or palate, non-syndromic",Small deletion,CD187930,1
+16835448,CFTR,Congenital absence of vas deferens,Small deletion,CD972120,1
+16830896,NKX2-5,Wenckebach periodicity,Small deletion,CD127711,1
+65183124,ttnic,"Cardiomyopathy, dilated",Missense/nonsense,CM1724787,1
+141292119,PROS1,"Protein S deficiency, type I",Small deletion,CD194343,1
+16842346,TMEM127,Phaeochromocytoma,Small insertion,CI101227,1
+141292607,GLRA1,Hyperekplexia,Missense/nonsense,CM194297,1
+16897626,MAN2B1,"Mannosidosis, alpha",Missense/nonsense,CM124072,1
+147517073,NEU1,Sialidosis 1,Gross deletion,CG1915249,1
+37384707,CHD7,CHARGE syndrome,Small insertion,CI161075,1
+16823276,NF1,Neurofibromatosis 1,Small deletion,CD076846,1
+16916371,PAX3,Craniofacial-deafness-hand syndrome,Missense/nonsense,CM961088,3
+16849223,PROC,Protein C deficiency,Missense/nonsense,CM004058,1
+59145638,BRCA2,Breast cancer,Missense/nonsense,CM1715102,2
+11777013,CFH,Dense deposit disease,Missense/nonsense,CM125844,4
+11304221,AXIN1,"Alzheimer disease, late-onset",Missense/nonsense,CM171391,1
+16917691,LAMB3,"Epidermolysis bullosa, Herlitz",Missense/nonsense,CM970866,4
+39533270,NPC1,"Niemann-Pick disease, type C",Small deletion,CD193672,1
+16895956,FLNA,"Heterotopia, periventricular",Missense/nonsense,CM1212813,1
+129611565,P2RX1,"Autism spectrum disorder, association with",Splicing,CS2010896,1
+16825604,VWF,Von Willebrand disease 3,Small deletion,CD095419,1
+119653492,MAP2K2,TAFRO syndrome,Missense/nonsense,CM208498,1
+37378911,PKD1,Polycystic kidney disease 1,Splicing,CS162243,1
+112080009,TTN,"Cardiomyopathy, dilated",Missense/nonsense,CM1517423,2
+87398214,FBN1,Marfan syndrome,Missense/nonsense,CM189600,1
+16860106,VAPB,Amyotrophic lateral sclerosis,Missense/nonsense,CM042798,19
+16886711,CYBB,Chronic granulomatous disease,Missense/nonsense,CM105670,2
+25509475,TSC2,Epilepsy and/or neurodevelopmental disorders,Small indel,CX1821107,1
+16941020,GALNS,Mucopolysaccharidosis IVa,Missense/nonsense,CM145584,1
+16835305,AIRE,APECED,Small deletion,CD971971,2
+16858030,OPTN,"Glaucoma 1, open angle",Missense/nonsense,CM034667,1
+52003861,CDH23,"Deafness, non-syndromic, autosomal recessive",Splicing,CS1610394,1
+16889657,ABCB4,Low phospholipid associated cholelithiasis,Missense/nonsense,CM1111305,1
+16931251,FBN1,Marfan syndrome,Splicing,CS098596,1
+11416250,GFAP,Alexander disease,Missense/nonsense,CM1516839,1
+16853205,FBN1,Marfan syndrome,Missense/nonsense,CM020695,1
+16911727,POU1F1,Pituitary hormone deficiency,Missense/nonsense,CM920589,3
+16847012,PRNP,Dementia,Missense/nonsense,CM000199,4
+141290539,SMCHD1,Facioscapulohumeral muscular dystrophy 2,Small insertion,CI195923,1
+16874249,F8,Haemophilia A,Missense/nonsense,CM080276,1
+37382495,PROS1,Protein S deficiency,Small deletion,CD163594,1
+52011766,APC,Polyposis,Small deletion,CD173561,1
+16884308,LDLR,Hypercholesterolaemia,Missense/nonsense,CM100937,2
+16928948,SPINK5,Netherton syndrome,Splicing,CS068616,2
+37382026,DEPDC5,Sudden unexpected death in epilepsy,Missense/nonsense,CM164372,2
+58823256,DNMT3A,Tatton-Brown-Rahman syndrome,Splicing,CS204979,1
+16854091,MSH2,"Colorectal cancer, non-polyposis",Missense/nonsense,CM022430,6
+13388388,PTPN11,Noonan syndrome,Missense/nonsense,CM092721,3
+15993172,CD44,CD44 variant,Missense/nonsense,CM962735,1
+16852239,LDLR,Hypercholesterolaemia,Missense/nonsense,CM014574,2
+97285327,RASGRP1,Epstein-Barr virus associated lymphoproliferative disorder,Small insertion,CI1814275,1
+16823940,PINK1,"Parkinson disease, autosomal recessive",Small deletion,CD083339,1
+63806499,TBXT,Renal agenesis,Missense/nonsense,CM1716152,1
+16838135,EXT1,Multiple exostoses,Small insertion,CI012286,2
+16917632,KCNH2,Long QT syndrome,Missense/nonsense,CM970802,4
+16952719,BMPR1A,Multiple adenomas,Small insertion,CI155946,1
+14451476,DSG2,Sudden unexplained death,Small insertion,CI1913646,1
+16855852,PRF1,"Haemophagocytic lymphohistiocytosis, familial",Missense/nonsense,CM030491,5
+16816779,CTSC,Papillon-Lefevre syndrome,Small deletion,CD013843,1
+52006768,PKD1,Polycystic kidney disease 1,Small deletion,CD1618403,1
+112080771,DNAH5,Primary ciliary dyskinesia,Missense/nonsense,CM1817074,1
+52009743,TTN,"Myopathy, distal",Missense/nonsense,CM1610513,2
+16905874,WNT7A,Al-Awadi-Raas-Rothschild syndrome,Missense/nonsense,CM136986,1
+82975713,CARD14,Atopic dermatitis,Missense/nonsense,CM190712,2
+37382800,PDE6B,"Retinitis pigmentosa, autosomal dominant",Missense/nonsense,CM1514179,2
+16881918,RPS24,Diamond-Blackfan anaemia,Missense/nonsense,CM096404,2
+37382414,BAP1,Mesothelioma,Missense/nonsense,CM160681,1
+141292562,KDM3B,Hepatoblastoma,Small deletion,CD193976,1
+16879678,CYP1B1,"Glaucoma, primary congenital",Missense/nonsense,CM091789,1
+11025021,MPL,"Amegakaryocytic thrombocytopaenia, congenital",Missense/nonsense,CM010063,6
+16832017,HNF4A,"Hypoglycaemia, hyperinsulinaemic",Small deletion,CD131728,2
+16824747,MSH6,"Colorectal cancer, non-polyposis",Small deletion,CD088465,1
+152655888,SLC12A1,Bartter syndrome,Small deletion,CD1920652,1
+16827047,TTBK2,"Spinocerebellar ataxia, type 11",Small deletion,CD104909,1
+16953713,DOCK2,DOCK2 deficiency,Small insertion,CI155076,1
+16929891,NPHS1,Nephrotic syndrome,Splicing,CS081949,2
+16895893,F8,Haemophilia A,Missense/nonsense,CM1212705,1
+52003689,RYR2,Short-coupled variant of torsade de pointes,Missense/nonsense,CM170783,2
+41157051,ATM,Breast cancer,Missense/nonsense,CM181572,1
+37379983,NAGS,N-acetylglutamate synthase deficiency,Missense/nonsense,CM167125,1
+16945895,NIPBL,Cornelia de Lange syndrome,Missense/nonsense,CM150046,1
+16849151,NF1,Neurofibromatosis 1,"Missense/nonsense,Splicing",CM003945;CS001839,5
+16951429,CRB1,Leber congenital amaurosis,Missense/nonsense,CM155696,1
+52014353,BTK,Agammaglobulinaemia,Missense/nonsense,CM1611444,1
+51814645,SCN5A,Long QT syndrome,Missense/nonsense,CM1814058,2
+112077770,OTOG,Prelingual hearing loss without vestibular dysfunction,Missense/nonsense,CM190713,2
+147512628,NCF2,Chronic granulomatous disease,Gross deletion,CG101607,1
+16886687,ZNF513,"Retinitis pigmentosa, autosomal recessive",Missense/nonsense,CM105628,1
+14728582,BCHE,Butyrylcholinesterase variant,Missense/nonsense,CM080100,1
+16863265,FANCM,Fanconi anaemia,Missense/nonsense,CM053265,2
+16928375,EFNB1,Craniofrontonasal syndrome,Splicing,CS062049,2
+16849050,MECP2,Rett syndrome,Missense/nonsense,CM003766,7
+16943051,SMN1,Spinal muscular atrophy,Small deletion,CD149138,2
+97286449,KLF2,Left ventricular obstruction,Missense/nonsense,CM1722914,1
+16911205,ALPL,Hypophosphatasia,Missense/nonsense,CM920018,5
+16849751,ALX4,Foramina parietalia permagna,Missense/nonsense,CM010012,3
+16932352,GALC,Krabbe disease,Splicing,CS1110644,3
+16903291,PPM1D,Reduced phosphatase activity,Missense/nonsense,CM1314303,1
+21576843,RABGGTB,Developmental disorder,Missense/nonsense,CM1721104,1
+52012168,POLH,"Xeroderma pigmentosum, variant",Small insertion,CI1610579,2
+16939532,CLCN1,Myotonia congenita,Small indel,CX942107,1
+16828839,KEL,K(null) phenotype,Small deletion,CD115331,1
+16864470,CASR,"Hypercalcaemia, hypocalciuric & hypoparathyroidism",Missense/nonsense,CM055915,2
+16817404,LBR,Pelger-Huet anomaly,Small deletion,CD021830,1
+34527170,MYH7,"Cardiomyopathy, hypertrophic",Missense/nonsense,CM1616703,1
+86043297,SMCHD1,Facioscapulohumeral muscular dystrophy 2,Small insertion,CI1922329,1
+16938320,TK2,Mitochondrial DNA depletion syndrome,Small indel,CX064766,2
+16855311,CFTR,Cystic fibrosis,Missense/nonsense,CM024688,1
+75267450,MAPK8IP3,Autism spectrum disorder,Missense/nonsense,CM1416795,2
+16863440,AR,Androgen insensitivity syndrome,Missense/nonsense,CM053770,1
+16850034,MYH9,May-Hegglin anomaly,Missense/nonsense,CM010348,14
+52012596,ASL,Argininosuccinate lyase deficiency,Splicing,CS175247,1

@@ -1,0 +1,37 @@
+# Task 1 - Questions
+
+Just answer intuitively to the questions. There is no right and wrong here. 
+
+a) List 3 things you like about python and what do you dislike
+b) Which versioning system do you use
+c) When you code, do you prefer object oriented or scripting style?
+d) What is the difference between static and class methods
+e) Which IDE do you use?
+f) How do you debug in python?
+g) If you would do code review of another persons code, what are the major points you are looking at?
+
+
+# Programming tasks
+
+# Open a jupyter notebook. If you dont have it installed, you can use the online version https://cocalc.com/
+
+# Task 2
+# Your task is to read in two tables and combine both information
+# 1) Read in variants.txt. The lists variants with genomic positions
+# 2) Read in disease_table.csv. It contains information about diseases on a variant/gene
+# 3) Add a column to the disease table with the concatenated coordinate <chrom>-<vcf_pos>-<vcf_ref>-<vcf_alt>
+# 4) List the number of counts for each mutation
+# 5) Similar to 4), list the number of counts of the combination mutationtype and vartype.
+
+# Task 3
+
+# An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once
+# A very famous example is:
+# Tom Marvolo Riddle == I am Lord Voldemort
+# Or: car == arc
+
+# Find the anagram pairs of list_A in list_B. Create a list of tuples of the anagrams. list_a has max 1 anagram in list b. Special characters and white spaces doesnt count.
+list_A = [ 'Tar', 'Arc', 'Elbow', 'State', 'Cider', 'Dusty', 'Night', 'Inch', 'Brag', 'Cat', 'Bored', 'Save', 'Angel','bla', 'Stressed', 'Dormitory', 'School master','Awesoame', 'Conversation', 'Listen', 'Astronomer', 'The eyes', 'A gentleman', 'Funeral', 'The Morse Code', 'Eleven plus two', 'Slot machines', 'Fourth of July', 'Jim Morrison', 'Damon Albarn', 'George Bush', 'Clint Eastwood', 'Ronald Reagan', 'Elvis', 'Madonna Louise Ciccone', 'Bart', 'Paris', 'San Diego', 'Denver', 'Las Vegas', 'Statue of Liberty']
+list_B = ['Cried', 'He bugs Gore', 'They see', 'Lives', 'Joyful Fourth', 'The classroom', 'Diagnose', 'Silent', 'Taste', 'Car', 'Act', 'Nerved', 'Thing', 'A darn long era', 'Brat', 'Twelve plus one', 'Elegant man', 'Below', 'Robed', 'Study', 'Voices rant on', 'Chin', 'Here come dots', 'Real fun', 'Pairs', 'Desserts', 'Moon starer', 'Dan Abnormal', 'Old West action', 'Built to stay free', 'One cool dance musician', 'Dirty room', 'Grab', 'Salvages', 'Cash lost in me', "Mr. Mojo Risin'", 'Glean', 'Rat', 'Vase']
+
+# If both lists are much larger, would you change anything in your code? 
