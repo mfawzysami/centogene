@@ -130,9 +130,7 @@ To run it, simply execute
 $ python task3.py
 ``` 
 
-### If both lists are much larger, would you change anything in your code? 
-
-# If both lists are much larger, would you change anything in your code? 
+### If both lists are much larger, would you change anything in your code?  
 - I will use Pool from multiprocessing package and try to divide the upper list uniformly across the number of cores to speed up the iteration process
 - anagrams list.append operation is a thread-safe operation, but I would usually use a locking mechanism like counter-based locking mechanism or more easily a queue 
 data structure which is thread-safe for concurrent access, it became a habit or a programming style I usually take.
