@@ -115,7 +115,7 @@ optional arguments:
                         Absolute path of your variants Text File
   --diseases DISEASES, -d DISEASES
                         The absolute path of your diseases CSV File
-  --out OUT, -o OUT     The absolute path of the combined output CSV file. Optional: Current working directory
+  --out OUT, -o OUT     The absolute path of the combined output CSV file. Optional , Defaults: ./output.results.csv
 ```
 
 ```shell script
