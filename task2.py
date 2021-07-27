@@ -11,7 +11,7 @@ def prepare_parser():
     p.add_argument("--variants", "-i", help="Absolute path of your variants Text File", default=None, required=True)
     p.add_argument("--diseases", "-d", help="The absolute path of your diseases CSV File", default=None, required=True)
     p.add_argument("--out", "-o",
-                   help="The absolute path of the combined output CSV file. Optional: Current working directory",
+                   help="The absolute path of the combined output CSV file. Optional , Defaults: ./output.results.csv",
                    required=False, default="./output.results.csv")
 
     return p
