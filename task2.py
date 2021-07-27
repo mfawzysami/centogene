@@ -138,7 +138,7 @@ def main():
         if combine(args.out, variants,stats, diseases):
             print("All Done.")
         else:
-            print("There is an error")
+            print("Failed to combine both files")
 
     except Exception as e:
         p.error(str(e))
